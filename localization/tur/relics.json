@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Çapa",
+    "FLAVOR": "Bu minyatür süsü tuttuğunda, daha ağır ve kararlı hissediyorsun.",
+    "DESCRIPTIONS": [
+      "Her dövüşe #b",
+      " #yBlok ile başla."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Savaş Sanatı",
+    "FLAVOR": "Bu eski el yazması geçmiş çağlarda edilinmiş bilgelikleri içeriyor.",
+    "DESCRIPTIONS": [
+      "Eğer tur boyunca hiç #ySaldırı oynamazsan, sıradaki tur",
+      " [E] kazan."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Usturlap",
+    "FLAVOR": "Yıldızlardan paha biçilemez bilgileri toplamak için kullanılan bir alet.",
+    "DESCRIPTIONS": [
+      "Aldığında, #b3 kart seç, onları #yDönüştür ve sonrasında #yGeliştir.",
+      "Dönüştürmek için 3 Kart Seç: "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Bilye Torbası",
+    "FLAVOR": "Şehirde bir zamanlar popüler olan oyuncak. Düşmanların dengesini bozmak için yararlı.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, TÜM düşmanlara #b",
+      " #ySavunmasız uygula."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Hazırlık Çantası",
+    "FLAVOR": "Oldukça büyük maceracı çantası. Bir çok bölmesi var.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, fazladan #b",
+      " kart çek."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Kuş-Suratlı Vazo",
+    "FLAVOR": "Bu vazo karga tanrısı Mazaleth'i gösteriyor, tehlikeli görünüyor.",
+    "DESCRIPTIONS": [
+      "Her #yGüç kartı oynamanda, #b",
+      " CP iyileş."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Kara Kan",
+    "FLAVOR": "Öfke gittikçe koyulaşıyor.",
+    "DESCRIPTIONS": [
+      "#rYanan #rKan'ın yerini alır. Her dövüş sonunda #b",
+      " CP iyileş."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Kara Yıldız",
+    "FLAVOR": "Yılanların şehrinde keşfedildi, bunun dışında yalnızca bir mum.",
+    "DESCRIPTIONS": [
+      "#yElitler yenildiklerinde #b2 #yKalıntı düşer."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Kanlı Şişe",
+    "FLAVOR": "Yaşlı vampirin saf kanını içeren küçük bir şişe.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b",
+      " CP iyileş."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Kanlı Put",
+    "FLAVOR": "Sürekli kan ağlayan bir put.",
+    "DESCRIPTIONS": [
+      "Ne zaman #yAltın kazanırsan, #b",
+      " CP iyileş."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Mavi Mum",
+    "FLAVOR": "Karanlıkta kaldığında alev alan bir ateş.",
+    "DESCRIPTIONS": [
+      "#yLanet kartları artık oynanabilir. NL #yLaneti oynamak #b",
+      " CP kaybettirir ve kartı #yTüketir."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Şişelenmiş Ateş",
+    "FLAVOR": "Şişenin içinde sonsuza kadar yanacak bir ateş bulunuyor.",
+    "DESCRIPTIONS": [
+      "Aldığında, bir #ySaldırı kartı seç. Her dövüş başında, bu kart elinde olacak.",
+      "Bir kart seç: ",
+      "Her dövüş başında, ",
+      " elinde olacak."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Şişelenmiş Yıldırım",
+    "FLAVOR": "Şişenin içine baktığında, bir parçanın sana geri baktığını görüyorsun.",
+    "DESCRIPTIONS": [
+      "Aldığında, bir #yHüner kartı seç. Her dövüş başında bu kart elinde olacak.",
+      "Bir kart seç: ",
+      "Her dövüş başında, ",
+      " elinde olacak."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Şişelenmiş Kasırga",
+    "FLAVOR": "Şişeden narin bir esinti ve uğultu geliyor.",
+    "DESCRIPTIONS": [
+      "Aldığında, bir #yGüç kartı seç. Her dövüş başında bu kart elinde olacak.",
+      "Bir kart seç: ",
+      "Her dövüş başında, ",
+      " elinde olacak."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Bronz Pul",
+    "FLAVOR": "Gardiyanın keskin pulları. Kullananı korumak için kendini düzenler. ",
+    "DESCRIPTIONS": [
+      "Her düşman saldırısında, geri #b",
+      " hasar ver."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Yanan Kan",
+    "FLAVOR": "Vücudunun kendi kanı, bitmeyen bir öfkeyle yanıyor.",
+    "DESCRIPTIONS": [
+      "Her dövüş sonunda, #b",
+      " CP iyileş."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Kalınlık Ölçer",
+    "FLAVOR": "\"Büyüklüğe giden yolu açan hassas mekanizma\" - Mimar",
+    "DESCRIPTIONS": [
+      "Her tur başında tüm #yBloğunu kaybetmek yerine, #b",
+      " #yBlok kaybet."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Çağıran Çan",
+    "FLAVOR": "Bu koyu renkli çan bulduğunda 3 kez çaldı ama şu an sessiz.",
+    "DESCRIPTIONS": [
+      "Özel bir #rLanet ve #b3 kalıntı al.",
+      "Çan Çalar...",
+      "Ödülleri Geç",
+      "Kapat"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Kazan",
+    "FLAVOR": "Tüccar aslında olduça yetenekli bir iksir üreticisi. 4 al 1 kazan.",
+    "DESCRIPTIONS": [
+      "Aldığında, rastgele #b5 iksir üret.",
+      "Blup blip bloop...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Yüzyıllık Yapboz",
+    "FLAVOR": "Yapbozu çözdüğünde göğüsünde güçlü bir sıcaklık hissediyorsun.",
+    "DESCRIPTIONS": [
+      "Her dövüşte, ilk CP kaybında, #b",
+      " kart çek."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Bukalemun Yüzüğü",
+    "FLAVOR": "Üretilmiyor",
+    "DESCRIPTIONS": [
+      "Artık Dinlenme Yerlerinde #yÜretim yapabilirsin."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Şampiyon Kemeri",
+    "FLAVOR": "Yalnızca en büyük olan bu kemeri takabilir.",
+    "DESCRIPTIONS": [
+      "Her #ySavunmasız uygulamanda, düşmana aynı zamanda #b",
+      " #yZayıf uygula."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Charon'ın Külleri",
+    "FLAVOR": "Charon yeniden doğuşun tanrısı olarak bilinir, bir alev patlaması içinde sonsuza kadar ölür ve dirilir.",
+    "DESCRIPTIONS": [
+      "Ne zaman bir kart #yTüketilirse, TÜM düşmanlara #b",
+      " hasar ver."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Kimyasal X",
+    "FLAVOR": "UYARI: Şeker, baharat ve iyi olan her şey ile karıştırmayın.",
+    "DESCRIPTIONS": [
+      "#bX maliyetli kartların etkisini #b",
+      " enerji değerinde artır."
+    ]
+  },
+  "Circlet": {
+    "NAME": "Taç",
+    "FLAVOR": "Bulacak başka bir kalıntı kalmadı. Etkileyici!",
+    "DESCRIPTIONS": [
+      "Güzel görünüyor."
+    ]
+  },
+  "The Courier": {
+    "NAME": "Kurye",
+    "FLAVOR": "Tüccarın kişisel evcil hayvanı!",
+    "DESCRIPTIONS": [
+      "Artık tüccarın kartları, kalıntıları ve iksirleri bitmez. Ayrıca fiyatlar #b%20 daha ucuz."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Lanetli Anahtar",
+    "FLAVOR": "Anahtardan gelen kötü enerjiyi hissedebiliyorsun. Gücün bir bedeli var.",
+    "DESCRIPTIONS": [
+      " Ne zaman bosslardan düşmeyen sandıkları açarsan, #rLanet edinirsin.",
+      "Her tur başında [E] kazan."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Ölü Dal",
+    "FLAVOR": "Unutulmuş çağdan bir ağacın dalı.",
+    "DESCRIPTIONS": [
+      "Ne zaman bir kart #yTükenirse, eline rastgele bir kart ekle."
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Tek Gözlük",
+    "FLAVOR": "Gerçekten de oldukça şık gözüken bir tek gözlük.",
+    "DESCRIPTIONS": [
+      "Dükkan malları #b%20 daha ucuz."
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "Runik On İki Yüzlü",
+    "FLAVOR": "Yazılanlar okunamaz halde.",
+    "DESCRIPTIONS": [
+      "CP'n tam ise, her turun başında ",
+      "[E] kazan."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Rüya Yakalayan",
+    "FLAVOR": "Kuzeyli kabile genellikle geceleri rüya yakalardı, kişisel gelişime yaradığına inanırlardı.",
+    "DESCRIPTIONS": [
+      "Her dinlenmede bir kart seçim hakkı kazan."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Du-Vu Bebeği",
+    "FLAVOR": "Kötü enerjilerden kuvvet kazanmak için tasarlanmış oyuncak bebek.",
+    "DESCRIPTIONS": [
+      "Destendeki her bir #yLanet için, her dövüşe fazladan #b",
+      " #yKuvvet ile başla.",
+      " Destende #yLanet yok.",
+      " Destende #b",
+      " tane #yLanet var."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ektoplazm",
+    "FLAVOR": "Bu balçık parçası hayatta gibi görünüyor.",
+    "DESCRIPTIONS": [
+      " Artık #yAltın kazanamazsın.",
+      "Her tur başında [E] kazan."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Donmuş Yumurta",
+    "FLAVOR": "Yumurta donuk ve durgun görülüyor, içinden hiçbir şey çıkmayacak gibi.",
+    "DESCRIPTIONS": [
+      "Ne zaman #yGüç kartı alırsan, #yGeliştirilir."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Erimiş Yumurta",
+    "FLAVOR": "Anka kuşunun yumurtası. Kaynayan lava ile beraber kızıl renkte parlıyor.",
+    "DESCRIPTIONS": [
+      "Ne zaman #ySaldırı kartı alırsan, #yGeliştirilir."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Zehirli Yumurta",
+    "FLAVOR": "\"Ne harika bir keşif! Büyülü bir yaratığın durağan haldeki yumurtasına benziyor. Kim ya da ne oluşturdu bunu?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ne zaman #yHüner kartı alırsan, #yGeliştirilir."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Kaynak Kitap",
+    "FLAVOR": "Çok eskilerde yaşamış bir yaratığın efsanevi günlüğü.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında eline rastgele bir #yGüç kartı ekler. Turun sonuna kadar maliyeti #b0 olur."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Ebedi Tüy",
+    "FLAVOR": "Bu tüy yok edilemez gibi görünüyor. Nasıl bir kuştan gelmiş olabilir ki? ",
+    "DESCRIPTIONS": [
+      "Destendeki her #b",
+      " kart için, Dinlenme Yerine girdiğinde #b",
+      " CP iyileş."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Kumar Fişi",
+    "FLAVOR": "Kenarında küçük bir kullanma talimatı görüyorsun. Üzerinde yazan: \"Ayı'nın Şanslı Çipi!\"",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, istediğin sayıda kart at daha sonra attığın sayıda kart çek."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Zencefil",
+    "FLAVOR": "Bir çok toniğin yapımında kullanılan kuvvetli bir bitki.",
+    "DESCRIPTIONS": [
+      "Artık #yZayıf düşemezsin."
+    ]
+  },
+  "Girya": {
+    "NAME": "Girya",
+    "FLAVOR": "Bu Girya akıl almaz derecede ağır. Bununla kayde değer derecede kuvvetlenmek için çalışabilirsin.",
+    "DESCRIPTIONS": [
+      "Artık Dinlenme Yerlerinde #yKuvvet kazanabilirsin. (En fazla 3 kere)"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Altın Put",
+    "FLAVOR": "Saf altından yapılmış, sadece tutarak bile zengin olduğunu hissediyorsun.",
+    "DESCRIPTIONS": [
+      "Düşmanlar #b%25 daha fazla #yAltın düşürür."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Gremlin Boynuzu",
+    "FLAVOR": "\"Gremlinlerin kafaları ölene kadar büyüyebilirler. Olağanüstü.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Bir düşman öldüğü zaman, ",
+      "[E] kazan ve #b1 kart çek."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Mutlu Çiçek",
+    "FLAVOR": "Bu durmaksızın neşeli olan çiçek asiller arasında popüler.",
+    "DESCRIPTIONS": [
+      "Her #b",
+      " turda bir, [E] kazan."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Dondurma",
+    "FLAVOR": "\"Lezzetli!\"",
+    "DESCRIPTIONS": [
+      "Tur sonunda artan enerji sıradaki tura devreder."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Juzu Bileziği",
+    "FLAVOR": "Bilinmeyenden korur.",
+    "DESCRIPTIONS": [
+      "Normal dövüşler ile #y? odalarında artık karşılaşılmaz."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Uzaktan ölümcül olabilmesiyle suikastçiler tarafından sevilen bir bıçak.",
+    "DESCRIPTIONS": [
+      "Bir tur içinde her #b",
+      " #ySaldırı oynamanda, #b",
+      " #yÇeviklik kazan."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Fener",
+    "FLAVOR": "Yalnızca kullanıcısı için etrafı aydınlatan ürkütücü bir fener.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında fazladan ",
+      "[E] kazan",
+      "."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Mektup Açacağı",
+    "FLAVOR": "Doğa üstü keskinlikte.",
+    "DESCRIPTIONS": [
+      "Bir tur içinde, her #b3 #yHüner oynamanda, TÜM düşmanlara #b",
+      " hasar ver."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Yaşayan Kılıç",
+    "FLAVOR": "KULLANILMIYOR",
+    "DESCRIPTIONS": [
+      "Her karttan istediğin sayıda elde edebilirsin."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Kertenkele Kuyruğu",
+    "FLAVOR": "Dövüş sırasında düşmanları yanıltmak için kullanılan sahte kuyruk.",
+    "DESCRIPTIONS": [
+      "Öleceğin zaman, ölmek yerine, maksimum CP'nin #b%50'si ile yeniden hayata dön (yalnızca #b1 kere)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Büyülü Çiçek",
+    "FLAVOR": "Uzun süredir soyunun tükendiği düşünülmüş bir çiçek, ancak mükemmel durumda.",
+    "DESCRIPTIONS": [
+      "Dövüş boyunca tüm iyileşmeler, #b%50 daha etkili."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "En çok istenen unutulmuş meyve. Spire'ın yıkımından etkilenmeden kusursuz biçimde korunmuş.",
+    "DESCRIPTIONS": [
+      "Aldığında, Maksimum CP'ni şu kadar artırır: #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Acının Damgası",
+    "FLAVOR": "Bu damga kuzeyli kabileler tarafından acıyı hissetmemekte ustalaşmış dövüşçüleri belirtmek amaçlı kullanılmıştır.",
+    "DESCRIPTIONS": [
+      "Her tur başında [R] kazan. Dövüşlere çekme yığınında #b2 #rYara ile başla."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matruşka",
+    "FLAVOR": "Birbiri üzerine konulabilir oyuncak bebekler. Bilinmeyen beyaz gözlü, mavi tüylü bir kuş şeklinde boyanmış.",
+    "DESCRIPTIONS": [
+      "Sıradaki #b2 sandık #b2 #yKalıntı içerir. (Boss sandıkları hariç)",
+      "Sıradaki açacağınız sandık #b2 #yKalıntı içerir. (Boss sandıkları hariç)",
+      "Bu kalıntı tamamen kullanıldı."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Kemikli Et",
+    "FLAVOR": "Et sürekli yenileniyor, hiç bitmeyecek gibi görünüyor.",
+    "DESCRIPTIONS": [
+      "Eğer CP'n dövüş sonunda #b%50 veya daha az ise, #b",
+      " CP iyileş."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "İlk Yardım Çantası",
+    "FLAVOR": "\"İhtiyacın olan her şey var! Kaşınma karşıtı, yanık karşıtı, zehir karşıtı ve daha fazlası!\"",
+    "DESCRIPTIONS": [
+      "#yDurum kartları artık oynanabilir. #yDurum kartlarını oynamak kartı #yTüketir."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Üyelik Kartı",
+    "FLAVOR": "\"En değerli müşterilere bonus üyelik teklifi!\"",
+    "DESCRIPTIONS": [
+      "Aldığın an tüm ürünlerde #b%50 indirim!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Civa Kum Saati",
+    "FLAVOR": "Sonsuz dökülen büyülü kum saati.",
+    "DESCRIPTIONS": [
+      "Her tur başında, TÜM düşmanlara #b",
+      " hasar ver."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Mumyalanmış El",
+    "FLAVOR": "Sıkça seğiriyor, özellikle nabzın yüksekken.",
+    "DESCRIPTIONS": [
+      "Ne zaman #yGüç kartı oynarsan, elindeki rastgele bir kartın maliyeti, tur boyunca, #b0 olur."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Yalnızca bir aptal bu kötü gücü kullanmaya çalışır. Gece rüyalarında bu kitabın aklını yiyip bitirdiğiyle ilgili rüyalar görüyorsun.",
+    "DESCRIPTIONS": [
+      "Her tur, oynadığın ilk #b",
+      " ya da daha fazla maliyetli #ySaldırı 2 kez oynanır. Bu kalıntıyı aldığında, özel bir #rLanet edinirsin.",
+      " ya da daha fazla maliyetli"
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Nilry'nin El Yazması",
+    "FLAVOR": "Kötü şöhretli oyun yöneticisinin kendisi tarafından yazılmış. Okuyanının aklını yeni yönlerde genişlettiği söyleniyor.",
+    "DESCRIPTIONS": [
+      "Her turun sonunda, verilen #b3 rastgele karttan seçtiğin #b1'ini çekme yığınına karıştır."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Ninja Parşömeni",
+    "FLAVOR": "Suikastin sırlarını içerir.",
+    "DESCRIPTIONS": [
+      "Her dövüşe elinde #b",
+      " #yKama ile başla."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Nloth'un Hediyesi",
+    "FLAVOR": "N'loth'tan ilginç bir hediye. Ne zaman açmaya çalışsan, içinde kaplanmış aynı boyutta başka bir kutu görüyorsun.",
+    "DESCRIPTIONS": [
+      "Dövüş ödüllerinde nadir kart çıkma şansını #b3'e katlar."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Boş Taş Tılsımı",
+    "FLAVOR": "KULLANILMIYOR.",
+    "DESCRIPTIONS": [
+      "Düşmandan alacağın sıradaki #yNegatifi yok eder. NL #b10 turda yeniden şarj olur."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Aşırı Pürüssüz Taş",
+    "FLAVOR": "Bu kadar pürüssüz ve saf bir şey görmemiştin. Eski çağlardakilerin işi olmalı.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b",
+      " #yÇeviklik kazan."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Garip Mantar",
+    "FLAVOR": "\"Trişinella parazitini sindirdikten sonra daha az... duyarlıydım.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "#ySavunmasız iken, #b%50 yerine #b%25 fazladan hasar al."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Eski Para",
+    "FLAVOR": "Nadir paralar tarihi değerleri ve nadir metalik içeriklerinden dolayı Tüccarlar tarafından oldukça değerli görülüyorlar.",
+    "DESCRIPTIONS": [
+      "#b300 #yAltın kazan."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Omamori",
+    "FLAVOR": "Kötü ruhları defetmek için kullanılan yaygın bir muska. Bu elindeki tanrısal enerjiler içeriyor gibi.",
+    "DESCRIPTIONS": [
+      "Sıradaki #b2 #rLaneti engeller.",
+      "Sıradaki #rLaneti engeller.",
+      "Bu kalıntı tamamen kullanıldı."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalcum",
+    "FLAVOR": "Bilinmeyen kökenli işaretlenmiş yeşil bir tılsım. Yok edilemez görünüyor.",
+    "DESCRIPTIONS": [
+      "Eğer turunu 0 #yBlok ile bitirirsen, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Süs Yelpazesi",
+    "FLAVOR": "Bu yelpaze kan döküldükçe büyüyor ve güçleniyor gibi görünüyor.",
+    "DESCRIPTIONS": [
+      "Bir tur içinde, her #b3 #ySaldırı oynamanda, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Güneş Sistemi Modeli",
+    "FLAVOR": "\"Evreni anladığında...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Destene eklemek için #b5 kart seç.",
+      "Bilgi!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Pandora'nın Kutusu",
+    "FLAVOR": "Bunu açmak konusunda kötü hislerin var.",
+    "DESCRIPTIONS": [
+      "Tüm Darbe ve Savun kartlarını başka kartlara #yDönüştür.",
+      "Pandoranın Kutusu açıldı..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograf",
+    "FLAVOR": "\"Sağlam yapılar kazara olmaz. Planlamak bir gerekliliktir.\" - Mimar",
+    "DESCRIPTIONS": [
+      "Boss dövüşlerinin başında, #b",
+      " CP iyileş."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Kağıttan Durna",
+    "FLAVOR": "Geçmiş çağlardan bir yaratığın origamisi.",
+    "DESCRIPTIONS": [
+      "#yZayıflatılmış düşmanlar #b%25 yerine #b%50 daha az hasar verir."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Kağıttan Gurbağa",
+    "FLAVOR": "Kağıt kendini sürekli küçük yaratık şekillerinde katlayıp geri açıyor.",
+    "DESCRIPTIONS": [
+      "#ySavunmasız düşmanlar #b%50 yerine #b%75 daha fazla hasar alır."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Barış Çubuğu",
+    "FLAVOR": "Aklı temizler ve ruhu arındırır.",
+    "DESCRIPTIONS": [
+      "Artık Dinlenme Yerlerinde destenden kart çıkarabilirsin."
+    ]
+  },
+  "Pear": {
+    "NAME": "Armut",
+    "FLAVOR": "Spire yıkımından önce yaygın olarak yetişen meyve.",
+    "DESCRIPTIONS": [
+      "Aldığında, Maksimum CP'ni şu kadar artırır: #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Dolma Kalem Ucu",
+    "FLAVOR": "Bu kalemi tutarak, önceki sahiplerinin öldürdüğü herkesi görebiliyorsun. Şiddet içeren bir geçmiş.",
+    "DESCRIPTIONS": [
+      "Oynadığın her #b10. #ySaldırı çift hasar verir."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Felsefe Taşı",
+    "FLAVOR": "Taştan saf bir enerji yayılıyor, yakınındakilere güç veriyor.",
+    "DESCRIPTIONS": [
+      "Her tur başında [E] kazan. TÜM düşmanlar fazladan #b",
+      " #yKuvvet ile başlar."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "İbadet Çarkı",
+    "FLAVOR": "Çark sürekli dönüyor, asla durmadan.",
+    "DESCRIPTIONS": [
+      "Normal düşmanlar 2 kart seçim ekranı verir."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Soru Kartı",
+    "FLAVOR": "\"Daha çok seçim şansı olan, kaosun olumsuz yanlarını minimuma indirir.\" - Kubilay Han",
+    "DESCRIPTIONS": [
+      "Kart Ödülü ekranında, #b3 yerine #b4 kart gelir."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Kırmızı Taç",
+    "FLAVOR": "Bulacak başka kalıntı kalmadı. Etkileyici!",
+    "DESCRIPTIONS": [
+      "Oldukça güzel görünüyor."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Kırmızı Maske",
+    "FLAVOR": "Kırmızı Maske Haydutlarının liderine ait oldukça şık bir maske. Teknik olarak lider sen oluyorsun yani?",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, TÜM düşmanlara #b",
+      " #yZayıf uygula."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Kırmızı Kafatası",
+    "FLAVOR": "Dekoratif şekilde boyanmış küçük bir kafatası.",
+    "DESCRIPTIONS": [
+      "CP'n #b%50 veya daha az ise, #b",
+      " #yKuvvet kazan."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Kral Yastığı",
+    "FLAVOR": "Artık iyi bir uyku çekebilirsin.",
+    "DESCRIPTIONS": [
+      "#yDinlendiğinde ek olarak #b",
+      " CP iyileş."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Zehirli Yılan Yüzüğü",
+    "DESCRIPTIONS": [
+      "#gYılan #gYüzüğü'nün yerini alır. Her tur başında #b1",
+      " fazladan kart çek."
+    ],
+    "FLAVOR": "Yüzüğün gelişti ve şekil değiştirdi."
+  },
+  "Runic Cube": {
+    "NAME": "Runik Küp",
+    "FLAVOR": "Yazılanlar okunamaz halde.",
+    "DESCRIPTIONS": [
+      "Her CP kaybettiğinde, #b",
+      " kart çek.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Runik Kubbe",
+    "FLAVOR": "Yazılanlar okunamaz halde.",
+    "DESCRIPTIONS": [
+      " Artık düşmanların #yNiyetini göremezsin.",
+      "Her tur başında [R] kazan."
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Runik Piramit",
+    "FLAVOR": "Yazılanlar okunamaz halde.",
+    "DESCRIPTIONS": [
+      "Turunun sonunda, elindeki kartlar artık atılmaz.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Kendini Oluşturan Kil",
+    "FLAVOR": "\"En merak uyandıran şey bu! Görünüşe göre düşüncelerime göre kendini şekillendiriyor! Tele-kil?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ne zaman bir dövüşte CP kaybedersen, sıradaki tur #b",
+      " #yBlok kazan."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Kürek",
+    "FLAVOR": "Spire geçmiş zamandaki uygarlıklara ve zamana yenilmiş güçlü maceracılara ev sahipliği yapmıştır. Şimdi gidip kazma zamanı!",
+    "DESCRIPTIONS": [
+      "Artık Dinlenme Yerlerinde rastgele kalıntılar bulmak için #yKazabilirsin."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Hafif atılabilir silah. Gözlere nişan alınması önerilir.",
+    "DESCRIPTIONS": [
+      "Bir tur içinde, her #b",
+      " #ySaldırı oynamanda, #b",
+      " #yKuvvet kazan."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Uğultulu Çanak",
+    "FLAVOR": "Bu özenle yapılmış nesne vurulduğunda güzel bir melodi çıkartıyor.",
+    "DESCRIPTIONS": [
+      "Kart ödülü #b+2 Maksimum CP'ye dönüştürülebilir."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Gülen Maske",
+    "FLAVOR": "Tüccar tarafından takılan maske. Yedekte bir kaç tane tutuyor olmalı...",
+    "DESCRIPTIONS": [
+      "Tüccarın kart çıkarma servisi artık hep #b",
+      " #yAltın fiyatında."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Yılan Yüzüğü",
+    "FLAVOR": "Fosilleşmiş yılandan yapılmış. Avcılıktaki büyük yeteneği gösterir.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, fazladan #b",
+      " kart çek."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Snecko'nun Gözü",
+    "FLAVOR": "Snecko'nun düşürdüğü gözü. Hayal ettiğinden çok daha büyük.",
+    "DESCRIPTIONS": [
+      "Her tur fazladan #b2 kart çek. Her dövüşe #yŞaşkın başla."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Snecko'nun Kafatası",
+    "FLAVOR": "Snecko'nun kafatası, bozulmamış halde. Gizemli bir şekilde temiz ve pürüssüz, açıklanamaz bir şekilde kir ve pislik tutmuyor.",
+    "DESCRIPTIONS": [
+      "Ne zaman #yZehirlersen, ek olarak #b",
+      " #yZehirle."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "Bu kalıntının yakınındayken sihirli sıvıların özelliklerini kaybettiğini görüyorsun.",
+    "DESCRIPTIONS": [
+      " Artık iksir edinemezsin.",
+      "Her tur başında [E] kazan."
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Ruh Boku",
+    "FLAVOR": "Ruhlara sunduğun adağın kömürleşmeşmiş kalıntısı.",
+    "DESCRIPTIONS": [
+      "Pek hoş değil."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Garip Kaşık",
+    "FLAVOR": "Kaşığa baktığında, gözlerinin önünde bükülüyor ve dönüyor.",
+    "DESCRIPTIONS": [
+      "Oynandığında #yTükenen kartlar artık #b%50 ihtimalle atılır."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Çilek",
+    "FLAVOR": "\"Lezzetli! Bunlardan yıkımdan beridir görmemiştim.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Aldığında, Maksimum CP'ni şu kadar artırır: #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Güneş Saati",
+    "FLAVOR": "\"İlk insanların zamanla olan aptalca takınsı bir yol göstermesi için göklere bakmalarına neden oldu, kalıcı bir şeyler bulabilmek için.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Desteni her #b",
+      ". karıştırmanda, [E] [E] kazan."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Antika Çay Seti",
+    "FLAVOR": "Geceleri yenileyici bir dinlenmenin anahtarı.",
+    "DESCRIPTIONS": [
+      "Dinlenme Yerine girdiğin her sefer, sıradaki dövüşe fazladan [E] [E] ile başla."
+    ]
+  },
+  "War Paint": {
+    "NAME": "Savaş Boyası",
+    "FLAVOR": "Açıklama kayıp.",
+    "DESCRIPTIONS": [
+      "Aldığında, rastgele #b",
+      " #yHüner kartını #yGeliştirir."
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Karataş Tılsımı",
+    "FLAVOR": "Daş gücünü karanlık enerjiden alıyor ve taşıyanına can veriyor.",
+    "DESCRIPTIONS": [
+      "Ne zaman #yLanetlenirsen, Maksimum CP'ni şu kadar artırır: #b"
+    ]
+  },
+  "Test 1": {
+    "NAME": "Test 1",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Donmuş Göz",
+    "FLAVOR": "Çekirdeğindeki kırık atan soğuk bir enerji ile dolu.",
+    "DESCRIPTIONS": [
+      "Çekme yığınında, kartlar artık üstten alta sırayla gösterilir."
+    ]
+  },
+  "Test 2": {
+    "NAME": "Test 2",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "#yÇekme #yYığınında, kartlar artık dağıtlacakları sırayla gösterilir."
+    ]
+  },
+  "Test 3": {
+    "NAME": "Test 3",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "Alındığında, tüm #ySavunma kartlarını #yGeliştirir."
+    ]
+  },
+  "Test 4": {
+    "NAME": "Test 4",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "Dövüşün başında, tüm #yVuruş kartları #b0 enerji olur."
+    ]
+  },
+  "Test 5": {
+    "NAME": "Test 5",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "Alındığında, rastgele #b",
+      " #yBeceriyi #yGeliştir."
+    ]
+  },
+  "Test 6": {
+    "NAME": "Test 6",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "Her turun sonunda, #b",
+      " #yBlok kazanın, sahip olduğunuz her #b",
+      " #yAltın için."
+    ]
+  },
+  "Test 7": {
+    "NAME": "Test 7",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "#yElitler yenildiklerinde #b2 #yKalıntı düşürürler."
+    ]
+  },
+  "Test 8": {
+    "NAME": "Test 8",
+    "FLAVOR": "Beta için test kalıntısı. Beğendiyseniz yapımcılara söyleyin.",
+    "DESCRIPTIONS": [
+      "Her tur #b2 ek kart çekin. Her dövüşe #yKafası #yKarışık başlayın."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Numune",
+    "FLAVOR": "\"Etkileyici! Şaşırtıcı toksik özellikler sergileyen mutasyona uğramış bir yaratık buldum. İleri zamanlarda araştırmak için bir örneğini saklayacağım.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Bir düşman öldüğünde, üzerindeki #yZehir rastgele bir düşmana aktarılır."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "İğne ve İplik",
+    "FLAVOR": "Vücudunda büyülü iple sarılı zırhla, dokulması daha güç gibi hissediyorsun.",
+    "DESCRIPTIONS": [
+      "Her dövüşe, #b",
+      " #yKaplı #yZırh ile başla."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "Bu enstrümanın sesi acı verici seviyelerdeki acının etkilerini geri çeviriyor gibi görünüyor.",
+    "DESCRIPTIONS": [
+      "Tur sırasında ne zaman bir kart atarsan, atılan her kart için rastgele bir düşmana #b",
+      " hasar ver."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Küçük Sandık",
+    "FLAVOR": "\"Güzel bir prototip.\" - Mimar",
+    "DESCRIPTIONS": [
+      "Her #b",
+      " ? odasında bir hazine bulursun.",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Küçük Ev",
+    "FLAVOR": "\"Minyatürize etmenin mükemmele çok yakın örneği. Bu güne kadarki en iyi işim, ancak hala yeterli değil.\" - Mimar",
+    "DESCRIPTIONS": [
+      "Aldığında, #b1 iksir al. NL #b",
+      " #yAltın kazan. NL Maksimum CP'ni #b",
+      " artır. NL Destene #b1 kart ekle. NL Rastgele #b1 kart geliştir.",
+      "Küçük Ev!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Alet Çantası",
+    "FLAVOR": "Her iş için gereken aletler.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, verilen #b3 rastgele renksiz karttan seçtiğin #b1'ini eline ekle."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Bu küçük Torii'yi tutarak, sakinlik ve güvenlik hissinin aklında hareket ettiğini hissediyorsun.",
+    "DESCRIPTIONS": [
+      "#b",
+      " ya da daha az bloklanmamış #ySaldırı hasarı alacağın zaman, o hasarı #b1'e indir."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Sert Bandaj",
+    "FLAVOR": "Kaybetmek kuvvet verir.",
+    "DESCRIPTIONS": [
+      "Tur sırasında ne zaman bir kart atarsan, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Oyuncak Maket Uçak",
+    "FLAVOR": "\"Bu küçük oyuncak yalnız maceracı için mükemmel bir dost!\"",
+    "DESCRIPTIONS": [
+      "Her iksir kullanmanda, #b",
+      " CP iyileş."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Durmayan Topaç",
+    "FLAVOR": "Topaç rüyadaymışsın gibi, çaba harcamadan durmaksızın dönüyor.",
+    "DESCRIPTIONS": [
+      "Tur devam ederken elinde kart kalmazsa, #b1 kart çek."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "Savaşçıların dövüş sırasında ihtişamını sergilemesi için yapılmış süs kalıntı.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b",
+      " #yKuvvet kazan."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Kadife Gerdanlık",
+    "FLAVOR": "\"Muazzam bir güç ama çok sınırlı.\" - Kubilay Han",
+    "DESCRIPTIONS": [
+      " Bir tur içinde en fazla #b",
+      " kart oynayabilirsin.",
+      "Her tur başında [E] kazan.",
+      "Tur başı en fazla #r"
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Lee'nin Waffle'ı",
+    "FLAVOR": "\"Spire'da bulabileceğin en lezzetli tatlı! Bugün pişirildi, yalnızca senin için\"",
+    "DESCRIPTIONS": [
+      "Maksimum CP'ni #b",
+      " artır ve tamamen iyileş."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Bileme Taşı",
+    "FLAVOR": "\"Et hiçbir zaman çeliği yenemez.\" - Kubilay Han",
+    "DESCRIPTIONS": [
+      "Aldığında, rastgele #b",
+      " #ySaldırı kartını #yGeliştirir."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Aptal Taş",
+    "FLAVOR": "Yer Tutucu",
+    "DESCRIPTIONS": [
+      "Her turun başında, #b",
+      " Yük kazan. NL (Silinemez ya da dönüştürülemez.)"
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neow'un Lütfu",
+    "FLAVOR": "Neow tarafından söylenmiş ağıt ile gelen kutsama.",
+    "DESCRIPTIONS": [
+      "Sıradaki #b3 dövüşteki düşmanlar 1 CP'ye sahip olacak.",
+      "Kutsama kullanıldı."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Beyaz Hayvan Heykeli",
+    "FLAVOR": "Daha önce hiç görmediğin bir yaratığın küçük beyaz heykeli.",
+    "DESCRIPTIONS": [
+      "Her dövüşten sonra iksir düşer."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Veri Diski",
+    "FLAVOR": "Bu disk yılanlar ve Kuşlarla ilgili önemli bilgiler içerir.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b",
+      " #yOdak kazan."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nükleer Pil",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b1 #yPlazma #yAktar."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Çatlamış Çekirdek",
+    "FLAVOR": "Yapay Zekayı Spire'da canlandıran bir güç. Çatlamış gibi görünüyor.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b1 #yYıldırım #yAktar."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turp",
+    "FLAVOR": "En iyi zencefille gider.",
+    "DESCRIPTIONS": [
+      "Artık #yKırılgan olamazsın."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Duygu Çipi",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Her tur başında, bir önceki tur hasar aldıysan, bütün kürelerinin pasif yeteneğini kullan."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Yerleştirici",
+    "FLAVOR": "Daha sonraki hasar çekirdeği dondurarak engellenebilir.",
+    "DESCRIPTIONS": [
+      "Her #b2 turda, #b1 Küre yuvası kazan."
+    ]
+  },
+  "Cables": {
+    "NAME": "Altın Kaplama Kablolar",
+    "FLAVOR": "\"İlgi Çekici! Yapay Zekalar bile Plasebo'dan etkilenmiş.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "En sağdaki kürenin pasif özelliğini fazladan bir kere daha tetikler."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runik Kapasitör",
+    "FLAVOR": "Daha fazla daha iyidir.",
+    "DESCRIPTIONS": [
+      "Her dövüşe fazladan #b3 küre yuvası ile başla."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Simbiyotik Virüs",
+    "FLAVOR": "Biraz kötülük çok fazla iyilik yapabilir...",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b1 #yKaranlık #yAktar."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "İksir Kemeri",
+    "FLAVOR": "Bu kemerle daha fazla iksir alabilirim!",
+    "DESCRIPTIONS": [
+      "Fazladan #b2 iksir yuvası kazan."
+    ]
+  },
+  "Boot": {
+    "NAME": "Çizme",
+    "FLAVOR": "Her yaralamada, çizme büyüyor.",
+    "DESCRIPTIONS": [
+      "Her #b",
+      " veya daha az hasar vuruşunda, verilen hasarı #b5'e çıkart."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Çiçeğin İşareti",
+    "FLAVOR": "İleride, düşünce ve gerçeklik birdir.",
+    "DESCRIPTIONS": [
+      "Artık hiçbir şekilde iyileşemezsin."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Kırık Taç",
+    "FLAVOR": "Şampiyon'un Tacı... yada sadece bir korku ürünü?",
+    "DESCRIPTIONS": [
+      " Kart ödülü sahnelerinde, #b2 #ykart az gösterilir.",
+      "Her tur başında [E] kazan."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Boş Kafes",
+    "FLAVOR": "\"Taptığın kafes, ne de garip.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Aldığında, #b2 kartı destenden çıkart.",
+      "Çıkartılacak 2 kart seç."
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Tütsü Yakıcı",
+    "FLAVOR": "Geçmişten kalma bir tütsü yakıcı. Değerli odunları yakmak,hayal bile edilemez.",
+    "DESCRIPTIONS": [
+      "Her #b6 turda, #b1 #ySoyut kazan."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Erimiş Çekiç",
+    "FLAVOR": "Bir kere alındı mı sahibi azla vazgeçemiyor.",
+    "DESCRIPTIONS": [
+      " Dinlenme yerlerinde artık demircilik yapamazsın.",
+      "Her tur başında [E] kazan."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Kahve Damlatıcı",
+    "FLAVOR": "\"Evet, bir bardak daha lütfen. Haydi geri işe. İŞİNE DÖN!\" - Mimar",
+    "DESCRIPTIONS": [
+      " Dinlenme yerlerinde artık dinlenemezsin.",
+      "Her tur başında [E] kazan."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Yılannn Kafası",
+    "FLAVOR": "En iyi hayat herşeyi alabildiğindir!",
+    "DESCRIPTIONS": [
+      "Her ? odasına girdiğinde, #b",
+      " #yAltın kazan."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth'un Aç Suratı",
+    "FLAVOR": "Aç hissediyorsun.",
+    "DESCRIPTIONS": [
+      "Bir sonraki boss harici sandık boş çıkacak.",
+      ""
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Şifacı'nın Yüzü",
+    "FLAVOR": "Herkes şifacıyı sever.",
+    "DESCRIPTIONS": [
+      "Her dövüşten sonra Maksimum CP'ni #b1 artır."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Tarikatçı Başlığı",
+    "FLAVOR": "Sürünün bir parçası!",
+    "DESCRIPTIONS": [
+      "Daha konuşkan hissediyorsun.",
+      "@GAK!@ NL @GAAAK!@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin'in Siması",
+    "FLAVOR": "Kaçma Zamanı, Hey, HEY.",
+    "DESCRIPTIONS": [
+      "Her dövüşe #b1 #yZayıf ile başla."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Abaküs",
+    "FLAVOR": "1...2...3...ÖLDÜN!",
+    "DESCRIPTIONS": [
+      "Atma yığınını her karıştırmanda, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dolly'nin Aynası",
+    "FLAVOR": "\"Bunun içinde komik görünüyorum.\"",
+    "DESCRIPTIONS": [
+      "Aldığında, destendeki 1 kartı birebir kopyala.",
+      "Kopyalamak için 1 kart seç."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Saat Mekanizması",
+    "FLAVOR": "\"Çok fazla parça var.\"",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, #b1 #yYapı kazan."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Yemek Bileti",
+    "FLAVOR": "\"Her ziyarette 1 köftee!\"",
+    "DESCRIPTIONS": [
+      "Her dükkan odasına girişinde, #b",
+      " CP kazan."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Kıvrık Huni",
+    "FLAVOR": "\"Ben bundan birşey içmezdim.\"",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, TÜM düşmanlara #b4 #yZehir uygula."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "El Matkapı",
+    "FLAVOR": "\"Spire Tehlikelidir.\"",
+    "DESCRIPTIONS": [
+      "Düşmanın her bloğunu kırdığında, #b2 #ySavunmasız uygula."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Süzülen Uçurtma",
+    "FLAVOR": "Uçurtma savaş sırasında çevrende dönüyor, garip bir güç onu kontrol ediyor gibi.",
+    "DESCRIPTIONS": [
+      "Her tur, ilk kart atımından sonra [G] kazan."
+    ]
+  },
+  "Sling": {
+    "NAME": "Cesaret Sapanı",
+    "FLAVOR": "\"Zor rakiplerle dişe diş gitmek için biçilmiş kaftan.\"",
+    "DESCRIPTIONS": [
+      "Her Elit dövüşüne fazladan #b",
+      " #yKuvvet ile başla."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Donmuş Çekirdek",
+    "FLAVOR": "Çekirdeğindeki çatlak donmuş gibi.",
+    "DESCRIPTIONS": [
+      "#bÇatlamış #bÇekirdeğin yerini alır. Tur sonunda boş küre yuvan varsa, #b1 #yAyaz #yAktar."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Turuncu Topaklar",
+    "FLAVOR": "\"Spire'daki birçok topakdan yapıldı, Herşeye karşı korurlar seni sen merak etme.\"",
+    "DESCRIPTIONS": [
+      "Aynı tur içinde #yGüç, #ySaldırı ve #yHüner kartı oynarsan, TÜM olumsuz etkileri siler."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Bilek Bıçağı",
+    "FLAVOR": "Suikastler için birebir.",
+    "DESCRIPTIONS": [
+      "#b0 bedelli #ySaldırı kartları fazladan #b4 hasar vurur."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Taş Takvim",
+    "FLAVOR": "Spire içinde zamanın ilerlemesi algılanamaz.",
+    "DESCRIPTIONS": [
+      "#b",
+      ". turunun sonunda, TÜM düşmanlara #b",
+      " hasar vurur."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "İyi bir antreman aracı. Kullananın duruşunu ve çevikliğini artırır.",
+    "DESCRIPTIONS": [
+      "Her #b",
+      " saldırı oynamanda [E] kazan ."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Gırtlak Kumbarası",
+    "FLAVOR": "Gırtlak canavarlarının sayısız saldırısına rağmen baya popüler.",
+    "DESCRIPTIONS": [
+      "Her kat çıkışında, #b",
+      " #yAltın kazan. Herhangi bir dükkanda #yAltın harcarsan etkisini kaybeder.",
+      "Bu kumbara kırılıp açılmış."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutajenik Güç",
+    "FLAVOR": "\"Testler stabil görünüyor, Sadece denek tehlikeye girerse çalışıyorlar.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Her dövüşe #b",
+      " #yKuvvet ile başla. İlk tur sona erdiğinde #b",
+      " #yKuvvet kaybolur."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Kükürt",
+    "FLAVOR": "Şeytani bir ısı yayıyor",
+    "DESCRIPTIONS": [
+      "Her tur başında, sen #b",
+      " #yKuvvet kazan ancak TÜM düşmanlar #b",
+      " #yKuvvet kazanır."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Cep Saati",
+    "FLAVOR": "Saat 15.00'ı gösterirken takılı kalmış.",
+    "DESCRIPTIONS": [
+      "Her tur, #b3 veya daha az kart oynarsan, bir sonraki tur başında fazladan #b3 kart çek."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Korunmuş Böcek",
+    "FLAVOR": "Özellikle büyük düşmanları etkileyen bir aura yayıyor gibi görülüyor.",
+    "DESCRIPTIONS": [
+      "Elit odalardaki düşmanlar #b",
+      "% daha az CP'ye sahip olurlar."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fosilleşmiş Helis",
+    "FLAVOR": "Yokedilemez gibi görülüyor,acaba nasıl bir yaratığa ait?",
+    "DESCRIPTIONS": [
+      "Dövüşteki ilk CP kaybedeceğin seferi engeller."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prizmatik Parça",
+    "FLAVOR": "Parçaya doğru baktığında, yepyeni bakış açıları görebildiğini fark ediyorsun.",
+    "DESCRIPTIONS": [
+      "Artık kart ödüllerinde renksiz ve diğer renklerden kartlar da görebileceksin."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Çarpık Maşa",
+    "FLAVOR": "Lanetlenmiş maşa çalındığı yere geri dönebilmek için çok güçlü bir lanet yayıyor.",
+    "DESCRIPTIONS": [
+      "Her tur başında, elindeki rastgele bir kartı #yGeliştir."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Kanatlı Çizmeler",
+    "FLAVOR": "Havalı.",
+    "DESCRIPTIONS": [
+      "Üst kata çıkarken #b3 kere yolları yok sayabilirsin."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Porselen Balık",
+    "FLAVOR": "Özenle boyanmış, bahtınızı açacak.",
+    "DESCRIPTIONS": [
+      "Destene her kart eklendiğinde, #b",
+      " #yAltın kazan."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Darbe Kuklası",
+    "FLAVOR": "Perişan halde.",
+    "DESCRIPTIONS": [
+      "Adında \"Darbe\" olan kartlar fazladan #b",
+      " hasar vurur."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Eflatun Nilüfer",
+    "FLAVOR": "Eski yazılara göre \"enerji havuzları\" bu çiçekler ile doluymuş.",
+    "DESCRIPTIONS": [
+      "#yHuzur duruşunu her terk etmende, fazladan [E] kazan."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Kutsal Ağaç Kabuğu",
+    "FLAVOR": "Söylenene göre Dünya Ağacı'ndan kopmuş.",
+    "DESCRIPTIONS": [
+      "İksirlerin etkisini iki katına çıkartır."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Gözyaşı Madalyonu",
+    "FLAVOR": "Sahibi kör, içindekiler görülmemiş.",
+    "DESCRIPTIONS": [
+      "Her dövüşe #yHuzur duruşunda başla."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Kölecinin Tasması",
+    "FLAVOR": "Paslı acınası zincirler.",
+    "DESCRIPTIONS": [
+      "Boss ve Elit dövüşlerinde, her tur başında [E] kazan."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Mööööö~\"",
+    "DESCRIPTIONS": [
+      "Her dövüşte, ilk saldırın fazladan #b",
+      " hasar verir."
+    ]
+  },
+  "Yang": {
+    "NAME": "İkilik",
+    "FLAVOR": "\"Ve güneş sonsuza kadar sönüyor, sanki perdeler önüne düşmüş gibi.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Ne zaman bir #ySaldırı oynarsan, #b1 geçici #yÇeviklik kazan."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Pelerin Tokası",
+    "FLAVOR": "Basit ama dayanıklı bir tasarım.",
+    "DESCRIPTIONS": [
+      "Her tur sonunda elinde kalan her kart için, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "Melange": {
+    "NAME": "Karışım",
+    "FLAVOR": "Kaynağı bilinmeyen gizemli kumlar. Tarçın kokuyor.",
+    "DESCRIPTIONS": [
+      "Atma yığınını her karıştırmanda, #b",
+      " #yKeşif yap."
+    ]
+  },
+  "Yin": {
+    "NAME": "Yin",
+    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Mürekkep Şişesi",
+    "FLAVOR": "Tükendiğinde kendini farklı bir renk ile dolduruyor.",
+    "DESCRIPTIONS": [
+      "Her #b10 kart oynamanda, #b1 kart çek."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Tungsten Çubuk",
+    "FLAVOR": "Çok çok ağır.",
+    "DESCRIPTIONS": [
+      "Her CP kaybedeceğin zaman, #b",
+      " CP daha az kaybet."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Kutsal Su",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "#pSaf #pSu'yun yerini alır. Her dövüş başında, eline #b3 #yMucize ekle."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Saf Su",
+    "FLAVOR": "İnce kum ile süzülmüş ve hiçbir kirlilik belirtisi yok.",
+    "DESCRIPTIONS": [
+      "Her dövüş başında, eline bir #yMucize ekle."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Gemi Kelepçesi",
+    "FLAVOR": "Elde tutmak hoş. Acaba ne için kullanılıyor?",
+    "DESCRIPTIONS": [
+      "2. turun başında, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Kaptanın Dümeni",
+    "FLAVOR": "Hassas bir işçilikle yapışmış ahşap biblo. Bir isim karılmış ama yabancı dilde.",
+    "DESCRIPTIONS": [
+      "3. turun başında, #b",
+      " #yBlok kazan."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Altın Göz",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Ne zaman #yKeşif yaparsan, #b",
+      " kart fazladan #yKeşif yap."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+    "DESCRIPTIONS": [
+      "Her tur başında, #b",
+      " #yMantra kazan."
+    ]
+  }
+}

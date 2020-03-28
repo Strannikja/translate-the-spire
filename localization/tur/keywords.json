@@ -1,0 +1,339 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "yapı"
+      ],
+      "DESCRIPTION": "Gelen olumsuz etkiyi yok sayar."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "blok",
+        "bloğunu"
+      ],
+      "DESCRIPTION": "Sonraki tura kadar hasarı önler."
+    },
+    "BURN": {
+      "NAMES": [
+        "yanık",
+        "yanıklar"
+      ],
+      "DESCRIPTION": "Yanık kartları sana hasar veren oynanamaz durum kartlarıdır."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "aktar",
+        "aktarılmış",
+        "aktarılan",
+        "aktarılır"
+      ],
+      "DESCRIPTION": "Bir Küreyi aktarmak onu ilk boş yuvaya koyar. Eğer boş yuvan yoksa, ilk Küren yer açmak için kendiliğinden #yUyarılır."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "şaşkın",
+        "şaşırmış"
+      ],
+      "DESCRIPTION": "Her çekilen kartın maliyeti, her çekişte rastgele belirlenir."
+    },
+    "CURSE": {
+      "NAMES": [
+        "lanet",
+        "lanetten"
+      ],
+      "DESCRIPTION": "Lanet kartları destende kalan negatif kartlardır."
+    },
+    "DARK": {
+      "NAMES": [
+        "karanlık",
+        "karanlık+"
+      ],
+      "DESCRIPTION": "Küre: Her tur hasarı artar. #yUyarıldığında en düşük CP'ye sahip düşmana hasar verir."
+    },
+    "DAZED": {
+      "NAMES": [
+        "sersemlemiş"
+      ],
+      "DESCRIPTION": "Sersemlemiş kartlar oynanamaz durum kartlarıdır."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "çeviklik"
+      ],
+      "DESCRIPTION": "Çeviklik, kartlardan kazanılan #yBlok sayısını artırır."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "ruhani"
+      ],
+      "DESCRIPTION": "Eğer bu kart turunun sonunda elindeyse, tüketilir. Tükenmiş kartlar dövüşün sonuna kadar destenden çıkarılır."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "uyar",
+        "uyarılmış",
+        "uyarılma"
+      ],
+      "DESCRIPTION": "En sağdaki Küreni harca ve onun Uyarma etkisini kullan."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "tüket",
+        "tükenmiş",
+        "tükense",
+        "tükenirse",
+        "tüketilirse",
+        "tüketilme"
+      ],
+      "DESCRIPTION": "Dövüşün sonuna kadar çıkarılır."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "odak"
+      ],
+      "DESCRIPTION": "Odak, #yAktarılmış Kürelerin etkinliğini artırır."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "kırılgan"
+      ],
+      "DESCRIPTION": "Kırılgan iken kartlardan #b%25 daha az #yBlok kazanırsın."
+    },
+    "FROST": {
+      "NAMES": [
+        "ayaz",
+        "ayaz+"
+      ],
+      "DESCRIPTION": "Küre: #yBlok kazandırır."
+    },
+    "INNATE": {
+      "NAMES": [
+        "yerleşik"
+      ],
+      "DESCRIPTION": "Her dövüşe elinde bu kartla başla."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "soyut"
+      ],
+      "DESCRIPTION": "Alınan her hasar ve CP kaybını #b1'e indirir."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "yıldırım",
+        "yıldırım+"
+      ],
+      "DESCRIPTION": "Küre: Rastgele bir düşmana hasar verir."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "kilitli"
+      ],
+      "DESCRIPTION": "Bu kart daha açılmadı."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "kilitlenme"
+      ],
+      "DESCRIPTION": "Kilitlenilmiş düşmanlar Kürelerden #b%50 daha fazla hasar alırlar."
+    },
+    "OPENER": {
+      "NAMES": [
+        "açılış"
+      ],
+      "DESCRIPTION": "Açılış kartları her tur sadece ilk kart olarak oynanabilirler."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plazma",
+        "plazma+"
+      ],
+      "DESCRIPTION": "Küre: Enerji kazandırır."
+    },
+    "POISON": {
+      "NAMES": [
+        "zehir",
+        "zehri",
+        "zehrini"
+      ],
+      "DESCRIPTION": "Zehirlenmiş yaratıklar turlarının başında CP kaybederler. Her tur, Zehir #b1 azalır."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "sakla",
+        "saklama",
+        "sakladığın",
+        "saklanır"
+      ],
+      "DESCRIPTION": "Saklanan kartlar tur sonunda elden atılmazlar."
+    },
+    "SHIV": {
+      "NAMES": [
+        "kama",
+        "kamalar"
+      ],
+      "DESCRIPTION": "Kamalar, maliyeti #b0 olan Saldırı kartlarıdır ve Tükenirler."
+    },
+    "STATUS": {
+      "NAMES": [
+        "durum"
+      ],
+      "DESCRIPTION": "Durum kartları dövüş sonunda çıkarılır."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "kuvvet",
+        "kuvvetini"
+      ],
+      "DESCRIPTION": "Kuvvet, saldırılara ek hasar ekler."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "darbe"
+      ],
+      "DESCRIPTION": "Adında \"Darbe\" geçen her kart."
+    },
+    "TEXT": [
+      "Elinden kart oynamak için Enerji kullanılır."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "diken"
+      ],
+      "DESCRIPTION": "Her düşman #ySaldırısında geri hasar verir."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "dönüşüm"
+      ],
+      "DESCRIPTION": "Dönüşen kartlar herhangi bir nadirlikten rastgele bir kart olurlar."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "bilinmeyen"
+      ],
+      "DESCRIPTION": "Bu karta daha rastlanılmadı."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "oynanamaz"
+      ],
+      "DESCRIPTION": "Oynanamaz kartlar elinden oynanamaz."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "geliştir",
+        "geliştirilmiş",
+        "geliştirilebilir",
+        "geliştirir"
+      ],
+      "DESCRIPTION": "Kartları geliştirmek onları daha güçlü yapar. Kartlar sadece bir kere geliştirilebilir."
+    },
+    "VOID": {
+      "NAMES": [
+        "boşluk",
+        "boşlukları"
+      ],
+      "DESCRIPTION": "Boşluk kartları çekildiklerinde #b1 enerji harcayan oynanamaz durum kartlarıdır."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "savunmasız"
+      ],
+      "DESCRIPTION": "Savunmasız yaratıklar Saldırılardan #b%50 daha fazla hasar alır."
+    },
+    "WEAK": {
+      "NAMES": [
+        "zayıf",
+        "zayıfı",
+        "zayıflamış",
+        "zayıflatır"
+      ],
+      "DESCRIPTION": "Zayıf yaratıkların saldırıları #b%25 daha az hasar verir."
+    },
+    "WOUND": {
+      "NAMES": [
+        "yara",
+        "yaralar"
+      ],
+      "DESCRIPTION": "Yara kartları oynanamaz durum kartlarıdır."
+    },
+    "STANCE": {
+      "NAMES": [
+        "duruş",
+        "duruşlar"
+      ],
+      "DESCRIPTION": "Aynı anda yalnızca tek bir duruşta olabilirsin."
+    },
+    "WRATH": {
+      "NAMES": [
+        "gazap",
+        "gazaba"
+      ],
+      "DESCRIPTION": "Bu #yDuruş sırasında gelen ve giden saldırıların hasarı iki katına çıkar."
+    },
+    "CALM": {
+      "NAMES": [
+        "huzur",
+        "huzura",
+        "huzurlu"
+      ],
+      "DESCRIPTION": "Bu #yDuruş terk edildiğinde [W] [W] kazan."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "kutsal"
+      ],
+      "DESCRIPTION": "Bu #yDuruş aktif olduğunda [W] [W] [W] kazan. Saldırıların düşmana 3 kat hasar verir. Sonraki tur başında bu #yDuruş biter."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "#b10 #yMantra'ya ulaştığında, #yKutsal duruşa geçersin."
+    },
+    "SCRY": {
+      "NAMES": [
+        "keşif",
+        "keşfet"
+      ],
+      "DESCRIPTION": "Çekme yığınının en üstündeki X karta bak. İstediklerini atma yığınına yollayabilirsin."
+    },
+    "REGEN": {
+      "NAMES": [
+        "yenilenme"
+      ],
+      "DESCRIPTION": "Her tur sonunda yenilenme miktarı kadar iyileştirir. Her tur yenilenme #b1 azalır."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "dinç",
+        "dinçlik"
+      ],
+      "DESCRIPTION": "Bir sonraki Saldırı fazladan hasar verecek."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ayin"
+      ],
+      "DESCRIPTION": "Her tur sonunda #yKuvvet kazan."
+    },
+    "FATAL": {
+      "NAMES": [
+        "ölümcül"
+      ],
+      "DESCRIPTION": "Eğer düşman bu saldırı ile öldüyse devreye girer."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Karanlık",
+    "DESCRIPTION": [
+      "#yPasif: Tur sonunda, bu kürenin hasarı #b",
+      " artar. NL #yUyarılma: En düşük CP'li düşmana #b",
+      " hasar ver."
+    ]
+  },
+  "Empty": {
+    "NAME": "Küre Yuvası",
+    "DESCRIPTION": [
+      "Küreler bu yuvalara Aktarılır."
+    ]
+  },
+  "Frost": {
+    "NAME": "Ayaz",
+    "DESCRIPTION": [
+      "#yPasif: Tur sonunda #b",
+      " #yBlok kazan. NL #yUyarılma: #b",
+      " #yBlok kazan."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Yıldırım",
+    "DESCRIPTION": [
+      "#yPasif: Tur sonunda rastgele bir düşmana #b",
+      " hasar ver. NL #yUyarılma: Rastgele bir düşmana #b",
+      " hasar ver."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plazma",
+    "DESCRIPTION": [
+      "#yPasif: Tur başında, [B] kazan. NL #yUyarılma: #b",
+      " [B] kazan. NL Plazma #yOdak ile değişmez."
+    ]
+  }
+}
