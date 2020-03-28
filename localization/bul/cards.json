@@ -56,7 +56,7 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Upgrade all cards in your hand for the rest of combat."
   },
   "AscendersBane": {
-    "NAME": "Ascender's Bane",
+    "NAME": "Бремето на възвишението",
     "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
   },
   "Auto Shields": {
@@ -499,7 +499,7 @@
     ]
   },
   "Feed": {
-    "NAME": "Feed",
+    "NAME": "Яж",
     "DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
   },
   "Feel No Pain": {
@@ -1035,8 +1035,8 @@
     "DESCRIPTION": "Apply !M! Weak and Vulnerable to ALL enemies. NL Exhaust."
   },
   "Shrug It Off": {
-    "NAME": "Shrug It Off",
-    "DESCRIPTION": "Gain !B! Block. NL Draw 1 card."
+    "NAME": "Отбий",
+    "DESCRIPTION": "!B! Защита. NL Изтегли една карта."
   },
   "Skewer": {
     "NAME": "Skewer",
@@ -1472,7 +1472,7 @@
   },
   "SignatureMove": {
     "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. NL Deal !D! damage." 
+    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. NL Deal !D! damage."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",

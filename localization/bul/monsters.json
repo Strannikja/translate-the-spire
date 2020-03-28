@@ -41,7 +41,7 @@
       "Cleanse",
       "Sludge"
     ],
-    "NAME": "Awakened One",
+    "NAME": "Пробуденият",
     "DIALOG": [
       "~Grr~ ~.~ ~.~ ~.~",
       "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
@@ -89,7 +89,7 @@
     "MOVES": [
       "HYPER BEAM"
     ],
-    "NAME": "Bronze Automaton",
+    "NAME": "Бронзовият Автоматон",
     "DIALOG": [
       ""
     ]
@@ -185,7 +185,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Deca",
+    "NAME": "Декаедър",
     "DIALOG": [
       ""
     ]
@@ -194,7 +194,7 @@
     "MOVES": [
       "Circle of Power"
     ],
-    "NAME": "Donu",
+    "NAME": "Понич",
     "DIALOG": [
       ""
     ]
@@ -380,7 +380,7 @@
       "Sear",
       "Inferno"
     ],
-    "NAME": "Hexaghost",
+    "NAME": "Шестоъгълният Призрак",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -546,7 +546,7 @@
       "Split",
       "Goop Spray"
     ],
-    "NAME": "Slime Boss",
+    "NAME": "Крал Слуз",
     "DIALOG": [
       "~Slime...~ NL #r~CRUSH!!!~",
       ""
@@ -635,7 +635,7 @@
       "Charging Up",
       "Vent Steam"
     ],
-    "NAME": "The Guardian",
+    "NAME": "Пазителят",
     "DIALOG": [
       "#b~..COOLING...~ NL #b~...DOWN...~",
       "Defending...",
@@ -652,7 +652,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Time Eater",
+    "NAME": "Времеядът",
     "DIALOG": [
       "~Ah...~ NL ~..company...~",
       "~Foolish..~ NL @FOOOLISH!@",
@@ -672,7 +672,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Transient",
+    "NAME": "Приходящият",
     "DIALOG": [
 	  ""
     ]

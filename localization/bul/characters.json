@@ -1,15 +1,15 @@
 {
   "Crowbot": {
     "NAMES": [
-      "Crowbot"
+      "Гарванбот"
     ],
     "TEXT": [
-      "BEEP BOOP"
+      "БИ-БИП"
     ]
   },
   "Defect": {
     "NAMES": [
-      "The Defect"
+      "Дефектът"
     ],
     "TEXT": [
       "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
@@ -17,7 +17,7 @@
   },
   "Watcher": {
     "NAMES": [
-      "The Watcher"
+      "Наблюдателят"
     ],
     "TEXT": [
       "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
@@ -25,7 +25,7 @@
   },
   "Ironclad": {
     "NAMES": [
-      "The Ironclad"
+      "Железният"
     ],
     "TEXT": [
       "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
@@ -33,8 +33,8 @@
   },
   "Merchant": {
     "NAMES": [
-      "Proceed",
-      "~Welcome!~"
+      "Заповядайте",
+      "~Добре~ ~дошли!~"
     ],
     "TEXT": [
       "Hi! NL Buy something! NL Buy buy buy!",
@@ -67,7 +67,7 @@
   },
   "Neow Event": {
     "NAMES": [
-      "Neow"
+      "Няу"
     ],
     "TEXT": [
       "~Greetings...~ NL ~I..~ ~am~ ~Neow...~",
@@ -175,7 +175,7 @@
   },
   "Silent": {
     "NAMES": [
-      "The Silent"
+      "Безмълвната"
     ],
     "TEXT": [
       "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."

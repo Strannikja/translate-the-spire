@@ -1,14 +1,14 @@
 {
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Алхимик",
     "DESCRIPTIONS": [
       "Bought 5 potions."
     ]
   },
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "Възвишаване",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "Бонус +5% за всяко ниво \"Възвишаване\"."
     ]
   },
   "Beyond Elites Killed": {
@@ -26,7 +26,7 @@
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "Шампионът",
     "DESCRIPTIONS": [
       "Defeat an Elite without taking damage."
     ]
@@ -42,7 +42,7 @@
     "DESCRIPTIONS": []
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Колекционерът",
     "DESCRIPTIONS": [
       "Have 4 copies of any non-starter card."
     ]
