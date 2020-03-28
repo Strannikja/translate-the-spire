@@ -1,7 +1,7 @@
 # Slay The Spire - Bulgarian Localization (Community)
 Welcome,
 
-The Bulgarian files are in the `localization/bg` folder.
+The Bulgarian files are in the `localization/bul` folder.
 
 # Checklist #
 - [ ] `achievements.json` 
