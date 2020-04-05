@@ -1,39 +1,39 @@
 {
   "Dark": {
+    "NAME": "Dark",
     "DESCRIPTION": [
-      "#yПассивно: повышает свой урон на #b",
-      " в конце вашего хода. NL #yРазрядка: наносит #b",
-      " урона врагу с наименьшим кол-вом ОЗ."
-    ],
-    "NAME": "Сфера Тьмы"
+      "#yPassive: At the end of turn, increase this Orb's damage by #b",
+      ". NL #yEvoke: Deal #b",
+      " damage to the enemy with lowest HP."
+    ]
   },
   "Empty": {
+    "NAME": "Orb Slot",
     "DESCRIPTION": [
-      "В эти слоты можно #yЗаряжать сферы."
-    ],
-    "NAME": "Слот для сфер"
+      "Orbs can be channeled into these slots."
+    ]
   },
   "Frost": {
+    "NAME": "Frost",
     "DESCRIPTION": [
-      "#yПассивно: даёт #b",
-      " #yЗащиты в конце вашего хода. NL #yРазрядка: даёт #b",
-      " #yЗащиты."
-    ],
-    "NAME": "Сфера Льда"
+      "#yPassive: At the end of turn, gain #b",
+      " #yBlock. NL #yEvoke: Gain #b",
+      " #yBlock."
+    ]
   },
   "Lightning": {
+    "NAME": "Lightning",
     "DESCRIPTION": [
-      "#yПассивно: наносит #b",
-      " урона случайному врагу в конце вашего хода. NL #yРазрядка: наносит #b",
-      " урона случайному врагу."
-    ],
-    "NAME": "Сфера Молнии"
+      "#yPassive: At the end of turn, deal #b",
+      " damage to a random enemy. NL #yEvoke: Deal #b",
+      " damage to a random enemy."
+    ]
   },
   "Plasma": {
+    "NAME": "Plasma",
     "DESCRIPTION": [
-      "#yПассивно: даёт [B] в начале вашего хода. NL #yРазрядка: даёт #b",
-      " [B] . NL #yФокус не влияет на Сферы Плазмы."
-    ],
-    "NAME": "Сфера Плазмы"
+      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
+      " [B] . NL Plasma is unaffected by #yFocus."
+    ]
   }
 }

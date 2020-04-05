@@ -1,41 +1,41 @@
 {
   "Ancient Potion": {
-    "NAME": "Древнее зелье",
+    "NAME": "Ancient Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yАртефакта."
+      "Gain #b",
+      " #yArtifact."
     ]
   },
   "AttackPotion": {
-    "NAME": "Зелье атаки",
+    "NAME": "Attack Potion",
     "DESCRIPTIONS": [
-      "Вы выбираете #b1 из #b3 случайных #yАтак и добавляете её в руку. В этом ходу она стоит #b0.",
-      "Вы выбираете #b1 из #b3 случайных #yАтак и добавляете 2 копии в руку. В этом ходу они стоят #b0."
+      "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "Block Potion": {
-    "NAME": "Зелье защиты",
+    "NAME": "Block Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yЗащиты."
+      "Gain #b",
+      " #yBlock."
     ]
   },
   "BloodPotion": {
-    "NAME": "Зелье крови",
+    "NAME": "Blood Potion",
     "DESCRIPTIONS": [
-      "Восполняет #b",
-      "% от Макс. ОЗ."
+      "Heal for #b",
+      "% of your Max HP."
     ]
   },
   "Dexterity Potion": {
-    "NAME": "Зелье ловкости",
+    "NAME": "Dexterity Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yЛовкости."
+      "Gain #b",
+      " #yDexterity."
     ]
   },
   "Elixir": {
-    "NAME": "Эликсир",
+    "NAME": "Elixir",
     "DESCRIPTIONS": [
       "DEPRECATED",
       "DEPRECATED",
@@ -45,276 +45,276 @@
     ]
   },
   "Energy Potion": {
-    "NAME": "Зелье энергии",
+    "NAME": "Energy Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " Энергии."
+      "Gain #b",
+      " Energy."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Настой энтропии",
+    "NAME": "Entropic Brew",
     "DESCRIPTIONS": [
-      "Заполняет все пустые места для зелий случайными зельями."
+      "Fill all your empty potion slots with random potions."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Экстракт стали",
+    "NAME": "Essence of Steel",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yПанциря."
+      "Gain #b",
+      " #yPlated #yArmor."
     ]
   },
   "Explosive Potion": {
-    "NAME": "Взрывное зелье",
+    "NAME": "Explosive Potion",
     "DESCRIPTIONS": [
-      "Наносит #b",
-      " урона ВСЕМ врагам."
+      "Deal #b",
+      " damage to ALL enemies."
     ]
   },
   "FairyPotion": {
-    "NAME": "Фея в бутылке",
+    "NAME": "Fairy in a Bottle",
     "DESCRIPTIONS": [
-      "Вместо того, чтобы умереть, вы исцеляетесь до ",
-      "% от Макс. ОЗ и сбрасываете это зелье."
+	  "When you would die, heal to #b",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
-    "NAME": "Зелье ужаса",
+    "NAME": "Fear Potion",
     "DESCRIPTIONS": [
-      "Накладывает #b",
-      " #yУязвимости."
+      "Apply #b",
+      " #yVulnerable."
     ]
   },
   "Fire Potion": {
-    "NAME": "Огненное зелье",
+    "NAME": "Fire Potion",
     "DESCRIPTIONS": [
-      "Наносит #b",
-      " урона."
+      "Deal #b",
+      " damage."
     ]
   },
   "FocusPotion": {
-    "NAME": "Зелье фокуса",
+    "NAME": "Focus Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yФокуса."
+      "Gain #b",
+      " #yFocus."
     ]
   },
   "Fruit Juice": {
-    "NAME": "Фруктовый сок",
+    "NAME": "Fruit Juice",
     "DESCRIPTIONS": [
-      "Повышает Макс. ОЗ на #b",
-      "."
+      "Gain #b",
+      " Max HP."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Настойка игрока",
+    "NAME": "Gambler's Brew",
     "DESCRIPTIONS": [
-      "Сбросьте любое количество карт и возьмите столько же."
+      "Discard any number of cards then draw that many."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Призрак в банке",
+    "NAME": "Ghost in a Jar",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yНеосязаемости."
+      "Gain #b",
+      " #yIntangible."
     ]
   },
   "Health Potion": {
-    "NAME": "Зелье здоровья",
+    "NAME": "Health Potion",
     "DESCRIPTIONS": [
       "DEPRECATED",
       "DEPRECATED"
     ]
   },
   "LiquidBronze": {
-    "NAME": "Жидкая бронза",
+    "NAME": "Liquid Bronze",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yШипов."
+      "Gain #b",
+      " #yThorns."
     ]
   },
   "Poison Potion": {
-    "NAME": "Зелье отравления",
+    "NAME": "Poison Potion",
     "DESCRIPTIONS": [
-      "Накладывает #b",
-      " #yЯда."
+      "Apply #b",
+      " #yPoison."
     ]
   },
   "Potion Slot": {
-    "NAME": "Место для зелья",
+    "NAME": "Potion Slot",
     "DESCRIPTIONS": [
-      "Используйте зелья во время боя, чтобы получать #gбонусы или #rвредить врагам.",
-      "Место для зелья"
+      "Use potions during combat to gain #gbonuses or #rhinder enemies.",
+      "Potion Slot"
     ]
   },
   "PowerPotion": {
-    "NAME": "Зелье таланта",
+    "NAME": "Power Potion",
     "DESCRIPTIONS": [
-      "Вы выбираете #b1 из #b3 случайных #yТалантов и добавляете его в руку. В этом ходу он стоит #b0.",
-      "Вы выбираете #b1 из #b3 случайных #yТалантов и добавляете 2 копии в руку. В этом ходу они стоят #b0."
+      "Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "Regen Potion": {
-    "NAME": "Зелье регенерации",
+    "NAME": "Regen Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yРегенерации.",
+      "Gain #b",
+      " #yRegen.",
       ""
     ]
   },
   "SkillPotion": {
-    "NAME": "Зелье навыка",
+    "NAME": "Skill Potion",
     "DESCRIPTIONS": [
-      "Вы выбираете #b1 из #b3 случайных #yНавыков и добавляете его в руку. В этом ходу он стоит #b0.",
-      "Вы выбираете #b1 из #b3 случайных #yНавыков и добавляете 2 копии в руку. В этом ходу они стоят #b0."
+      "Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Дымовая шашка",
+    "NAME": "Smoke Bomb",
     "DESCRIPTIONS": [
-      "Позволяет сбежать из боя, не получив наград. Не работает на боссов.",
-      "Кругом враги!"
+      "Escape from a non-boss combat. Receive no rewards.",
+      "I'm Surrounded!"
     ]
   },
   "SneckoOil": {
-    "NAME": "Жир змекко",
+    "NAME": "Snecko Oil",
     "DESCRIPTIONS": [
-      "Вы берёте #b",
-      " карт. Все карты в вашей руке получают случайную стоимость",
+      "Draw #b",
+      " cards. Randomize the cost of cards in your hand.",
       ""
     ]
   },
   "SpeedPotion": {
-    "NAME": "Зелье проворства",
+    "NAME": "Speed Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yЛовкости. Отнимает #b",
-      " #yЛовкости в конце хода."
+      "Gain #b",
+      " #yDexterity. At the end of your turn, lose #b",
+      " #yDexterity."
     ]
   },
   "SteroidPotion": {
-    "NAME": "Зелье богатыря",
+    "NAME": "Flex Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yСилы. Отнимает #b",
-      " #yСилы в конце хода."
+      "Gain #b",
+      " #yStrength. At the end of your turn, lose #b",
+      " #yStrength."
     ]
   },
   "Strength Potion": {
-    "NAME": "Зелье силы",
+    "NAME": "Strength Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yСилы."
+      "Gain #b",
+      " #yStrength."
     ]
   },
   "Swift Potion": {
-    "NAME": "Зелье скорости",
+    "NAME": "Swift Potion",
     "DESCRIPTIONS": [
       "",
-      "Вы берёте #b",
-      " карты."
+      "Draw #b",
+      " cards."
     ]
   },
   "Weak Potion": {
-    "NAME": "Зелье слабости",
+    "NAME": "Weak Potion",
     "DESCRIPTIONS": [
-      "Накладывает #b",
-      " #yСлабости."
-    ]
-  },
-  "DuplicationPotion": {
-    "NAME": "Зелье удвоения",
-    "DESCRIPTIONS": [
-      "След. карта, разыгранная в этом ходу, разыгрывается дважды.",
-      "След. #b2 карты, разыгранные в этом ходу, разыгрываются дважды."
+      "Apply #b",
+      " #yWeak."
     ]
   },
   "StancePotion": {
-    "NAME": "Зелье стойки",
+    "NAME": "Stance Potion",
     "DESCRIPTIONS": [
-      "Перейти в #yСпокойствие или #yГнев."
+      "Enter #yCalm or #yWrath."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice.",
+      "This turn, your next #b2 cards are played twice."
     ]
   },
   "ElixirPotion": {
-    "NAME": "Эликсир",
+    "NAME": "Elixir",
     "DESCRIPTIONS": [
-      "#yСожгите любое количество выбранных в руке карт."
+      "#yExhaust any number of cards in your hand."
     ]
   },
   "HeartOfIron": {
-    "NAME": "Стальное сердце",
+    "NAME": "Heart of Iron",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yМеталлизации."
+      "Gain #b",
+      " #yMetallicize."
     ]
   },
   "CunningPotion": {
-    "NAME": "Зелье хитростей",
+    "NAME": "Cunning Potion",
     "DESCRIPTIONS": [
-      "Добавляет #b",
-      " #yЗаточки+ в руку."
+      "Add #b",
+      " #yShiv+ to your hand."
     ]
   },
   "PotionOfCapacity": {
-    "NAME": "Зелье ёмкости",
+    "NAME": "Potion Of Capacity",
     "DESCRIPTIONS": [
-      "Добавляет #b",
-      " слота для сфер."
+      "Gain #b",
+      " Orb slots."
     ]
   },
   "EssenceOfDarkness": {
-    "NAME": "Эссенция тьмы",
+    "NAME": "Essence Of Darkness",
     "DESCRIPTIONS": [
-      "#yЗаряжает по #b",
-      " #yСфере Тьмы за каждый слот для сфер."
+      "#yChannel #b",
+	  " #yDark for each orb slot."
     ]
   },
   "BottledMiracle": {
-    "NAME": "Закупоренное чудо",
+    "NAME": "Bottled Miracle",
     "DESCRIPTIONS": [
-      "Добавляет #b",
-      " карты #yЧудо в руку."
+      "Add #b",
+      " #yMiracles to your hand."
     ]
   },
   "Ambrosia": {
-    "NAME": "Амброзия",
+    "NAME": "Ambrosia",
     "DESCRIPTIONS": [
-      "Вы переходите в #yБожественность."
+      "Enter #yDivinity #yStance."
     ]
   },
   "DistilledChaos": {
-    "NAME": "Перегнанный хаос",
+    "NAME": "Distilled Chaos",
     "DESCRIPTIONS": [
-      "Вы разыгрываете #b",
-      " карты с верха стопки добора."
+      "Play the top #b",
+      " cards of your draw pile."
     ]
   },
   "LiquidMemories": {
-    "NAME": "Жидкие воспоминания",
+    "NAME": "Liquid Memories",
     "DESCRIPTIONS": [
-      "Положите карту из стопки сброса в руку. В этом ходу она стоит #b0.",
-      "Положите #b",
-      " карты из стопки сброса в руку. В этом ходу они стоят #b0."
+	  "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b",
+	  " cards in your discard pile and return them to your hand. They cost #b0 this turn."
     ]
   },
   "CultistPotion": {
-    "NAME": "Зелье культиста",
+    "NAME": "Cultist Potion",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yРитуала."
+      "Gain #b",
+      " #yRitual."
     ]
   },
   "ColorlessPotion": {
-    "NAME": "Бесцветное зелье",
+    "NAME": "Colorless Potion",
     "DESCRIPTIONS": [
-      "Вы выбираете #b1 из #b3 случайных #yБесцветных карт и добавляете её в руку. В этом ходу она стоит #b0.",
-      "Вы выбираете #b1 из #b3 случайных #yБесцветных карт и добавляете 2 копии в руку. В этом ходу они стоят #b0."
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
     ]
   },
   "BlessingOfTheForge": {
-    "NAME": "Благословение Кузницы",
+    "NAME": "Blessing of the Forge",
     "DESCRIPTIONS": [
-      "Улучшает все карты в руке до конца боя."
+      "Upgrade all cards in your hand for the rest of combat."
     ]
   }
 }
