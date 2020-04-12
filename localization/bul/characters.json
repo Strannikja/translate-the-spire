@@ -1,192 +1,192 @@
 {
   "Crowbot": {
     "NAMES": [
-      "Воробот"
+      "Crowbot"
     ],
     "TEXT": [
-      "БИП-БУП"
+      "BEEP BOOP"
     ]
   },
   "Defect": {
     "NAMES": [
-      "Дефект"
+      "The Defect"
     ],
     "TEXT": [
-      "Боевой автоматон, который обрёл самосознание. NL Древние технологии позволяют ему манипулировать сферами."
+      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
     ]
   },
   "Ironclad": {
     "NAMES": [
-      "Латоносец"
+      "The Ironclad"
     ],
     "TEXT": [
-      "Последний солдат Латоносцев. NL Продал свою душу, чтобы овладеть демонической силой."
+      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
     ]
   },
   "Merchant": {
     "NAMES": [
-      "Продолжить",
-      "~Добро~ ~пожаловать!~"
+      "Proceed",
+      "~Welcome!~"
     ],
     "TEXT": [
-      "Привет! NL Купи что-нибудь! NL Купи-купи-купи!",
-      "Мне нравится твоя причёска.",
-      "Минутка не найдётся?",
-      "Тебе больше по душе кошки или собаки?",
-      "Ты выглядишь так ~опасно,~ NL хе-хе...",
-      "Не торопись... NL ..... NL ... или торопись.",
-      "Нравится мой коврик? NL Он не продаётся.",
-      "Поддержи развивающийся бизнес!",
-      "Маски — это круто, уж мне ли не знать!",
-      "Хм-м... NL ...хм-м-м... NL О!",
-      "Погоди да послушай!",
-      "Опасно идти в одиночку! Отдай мне своё золото!",
-      "Купи чего-нибудь.",
-      "~*ЗЕВОК*~",
-      "Я люблю золото.",
-      "Мой любимый цвет — синий. NL А твой?"
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
     ],
     "OPTIONS": [
-      "Как я сюда забрался? NL Без понятия.",
-      "Последний шанс купить что-нибудь! NL Торговец ~*подмигивает*~ вам",
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
       "..... NL .... NL .........",
-      "Мне больше по душе кошки.",
-      "Не спеши NL Не спеши.",
-      "Ты чувствуешь это @волнение!?@",
-      "Когда-то я был таким же, как и ты.",
-      "Собрался наверх?"
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
     ]
   },
   "Neow Event": {
     "NAMES": [
-      "Ньяу"
+      "Neow"
     ],
     "TEXT": [
-      "~Приветствую...~ NL ~Я..~ ~Ньяу...~",
-      "~Снова...~ NL ~Здравствуй...~",
-      "~Приветствую...~",
-      "~Попытаешься~ NL ~снова...?~",
-      "~Дойди~ ~до~ ~босса...~ NL ~чтобы~ ~получить~ ~больше...~ ~благословений...~",
-      "~Сразись...~ ~хотя~ ~бы~ NL ~с~ ~первым~ ~боссом...~",
-      "~Мне~ ~удалось~ ~тебя~ ~вернуть...~",
-      "~Выбирай...~",
-      "~Исполнено...~",
-      "~Риск...~ NL ~...награда....~",
-      "~Время~ ~для~ NL ~ИСПЫТАНИЯ...~",
-      "Награда.",
-      "~Давай~ ~продолжим...~",
-      "~Будет~ ~только~ ~хуже...~",
-      "~Впечатляюще...~ ~продолжай...~",
-      "Проклят!",
-      "Растяпа!",
-      "Трансформация!"
+      "~Greetings...~ NL ~I..~ ~am~ ~Neow...~",
+      "~Hello...~ NL ~Again..~",
+      "~Greetings...~",
+      "~Another~ NL ~try...?~",
+      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~more..~ ~blessings...~",
+      "~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~boss...~",
+      "~I~ ~brought~ ~you~ ~back...~",
+      "~Choose...~",
+      "~Granted...~",
+      "~Risk...~ NL ~..reward....~",
+      "~Time~ ~for~ ~a~ NL ~CHALLENGE...~",
+      "Rewards",
+	  "~Let's~ ~keep~ ~going...~",
+	  "~It~ ~only~ ~gets~ ~harder...~",
+	  "~Impressive...~ ~more...~",
+	  "Cursed!",
+	  "Scatterbrain!",
+	  "Transformation!"
     ],
     "OPTIONS": [
-      "[Продолжить]",
-      "[Говорить]",
-      "[Пропустить]",
-      "[Уйти]",
-      "Выберите 10 карт, которые хотите добавить в колоду."
+      "[Continue]",
+      "[Talk]",
+      "[Skip]",
+      "[Leave]",
+	  "Choose 10 cards to add to your deck."
     ]
   },
   "Neow Reward": {
     "NAMES": [],
     "TEXT": [
-      "[ #gВыбрать #gи #gполучить #gкарту ]",
-      "[ #gПолучить #gслучайную #gредкую #gкарту ]",
-      "[ #gУбрать #gкарту #gиз #gколоды ]",
-      "[ #gУлучшить #gкарту ]",
-      "[ #gПреобразовать #gкарту ]",
-      "[ #gПолучить #g3 #gслучайных #gзелья ]",
-      "[ #gПолучить #gслучайную #gобычную #gреликвию ]",
-      "[ #gМакс. #gОЗ #g+",
-      "[ #gПолучить #g",
-      " #gзолота ]",
-      "#gУбрать #g2 #gкарты ]",
-      "#gПолучить #gредкую #gреликвию ]",
-      "#gПолучить #gредкую #gкарту ]",
-      "#gПолучить #g",
-      " #gзолота ]",
-      "#gПреобразовать #g2 #gкарты ]",
-      "#gМакс. #gОЗ #g+",
-      "[ #rПотерять #r",
-      " #rМакс. #rОЗ ",
-      "[ #rПотерять #rвсё #rзолото ",
-      "[ #rПолучить #rПроклятие ",
-      "[ #rВы #rполучаете #r",
-      "Выберите карту.",
-      "Выберите карту, которую хотите убрать.",
-      "Выберите 2 карты, которые хотите убрать.",
-      "Выберите карту, которую хотите преобразовать.",
-      "Выберите 2 карты, которые хотите преобразовать.",
-      "Выберите карту, которую хотите улучшить.",
-      "[ #gВраги #gв #g3 #gследующих #gбоях #gбудут #gиметь #g1 #gОЗ ]",
-      " #rурона",
-      "[ #gВыбрать #gи #gполучить #gбесцветную #gкарту ]",
-      "#gВыбрать #gи #gполучить #gредкую #gбесцветную #gкарту ]"
+      "[ #gChoose #ga #gCard #gto #gobtain ]",
+      "[ #gObtain #ga #grandom #grare #gCard ]",
+      "[ #gRemove #ga #gCard #gfrom #gyour #gdeck ]",
+      "[ #gUpgrade #ga #gCard ]",
+      "[ #gTransform #ga #gCard ]",
+      "[ #gObtain #g3 #grandom #gPotions ]",
+      "[ #gObtain #ga #grandom #gcommon #gRelic ]",
+      "[ #gMax #gHP #g+",
+      "[ #gObtain #g",
+      " #gGold ]",
+      "#gRemove #g2 #gCards ]",
+      "#gObtain #ga #grandom #grare #gRelic ]",
+      "#gChoose #ga #grare #gCard #gto #gobtain ]",
+      "#gGain #g",
+      " #gGold ]",
+      "#gTransform #g2 #gCards ]",
+      "#gMax #gHP #g+",
+      "[ #rLose #r",
+      " #rMax #rHP ",
+      "[ #rLose #rall #rGold ",
+      "[ #rObtain #ra #rCurse ",
+      "[ #rTake #r",
+      "Choose a Card",
+      "Select a Card to Remove",
+      "Select 2 Cards to Remove",
+      "Select a Card to Transform",
+      "Select 2 Cards to Transform",
+      "Select a Card to Upgrade",
+      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
+      " #rdamage",
+      "[ #gChoose #ga #gcolorless #gCard #gto #gobtain ]",
+      "#gChoose #ga #grare #gcolorless #gCard #gto #gobtain ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rПотерять #rстартовую #rреликвию #gПолучить #gреликвию #gбосса ]"
+      "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Welcome~ NL ~welcome!~",
+      "Hey now, NL you need NL more #rGold.",
+      "Hey buddy, you got no #rMoney!",
+      "You broke?",
+      "You don't got enough #rGold.",
+      "You can't afford that.",
+      "This isn't a charity.",
+      "~Thaaaanks~",
+      "Another sale... NL hohoho! NL Cha - @Ching!@",
+      "@SOLD!@",
+      "No Refunds.",
+      "Have a nice day.",
+      "Leave",
+      "Select a card to remove from your deck."
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Have you seen my courier?",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "The Silent"
+    ],
+    "TEXT": [
+      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
     ]
   },
   "PostCreditsNeow": {
     "NAMES": [],
     "TEXT": [
-      "И... что теперь..? NL ..неужели... все кончено....?",
-      "...Шпиль засыпает.....",
-      "..грядёт...... и мой... NL ....черёд......"
-    ]
-  },
-  "Shop Screen": {
-    "NAMES": [
-      "~Приветствую,~ NL ~приветствую!~",
-      "Придержи коней, NL тебе нужно NL больше #rзолота.",
-      "Эй, дружище, у тебя нет #rденег!",
-      "Дырка в кошельке?",
-      "У тебя нет #rзолота.",
-      "Тебе это не по карману.",
-      "У меня тут не благотворительность.",
-      "~Спаси-и-и-ибо.~",
-      "Очередная продажа... NL хо-хо-хо! NL @Дз-ы-ы-нь!@",
-      "@ПРОДАНО!@",
-      "Возврату не подлежит.",
-      "Хорошего дня.",
-      "Уйти",
-      "Выберите карту, которую хотите убрать."
-    ],
-    "TEXT": [
-      "Привет! NL Купи что-нибудь! NL Купи-купи-купи!",
-      "Мне нравится твоя причёска.",
-      "Минутка не найдётся?",
-      "Тебе больше по душе кошки или собаки?",
-      "Ты выглядишь так ~опасно,~ NL хе-хе...",
-      "Не торопись... NL ..... NL ... или торопись.",
-      "Нравится мой коврик? NL Он не продаётся.",
-      "Поддержи развивающийся бизнес!",
-      "Маски — это круто, уж мне ли не знать!",
-      "Тебе мой курьер не попадался?",
-      "Погоди да послушай!",
-      "Опасно идти в одиночку! Отдай мне своё золото!",
-      "Купи чего-нибудь.",
-      "~*ЗЕВОК*~",
-      "Я люблю золото.",
-      "Мой любимый цвет — синий. NL А твой?"
-    ]
-  },
-  "Silent": {
-    "NAMES": [
-      "Безмолвная"
-    ],
-    "TEXT": [
-      "Охотница из туманных земель. NL Уничтожает врагов с помощью кинжалов и ядов."
-    ]
-  },
-  "Watcher": {
-    "NAMES": [
-      "Созерцающая"
-    ],
-    "TEXT": [
-      "Слепой аскет, пришедшая дабы \"Оценить\" Шпиль. NL Мастерски владеет божественными Стойками."
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }

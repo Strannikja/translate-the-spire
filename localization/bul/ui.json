@@ -1,618 +1,595 @@
 {
   "AbandonRunButton": {
     "TEXT": [
-      "Отменить вылазку"
+      "Abandon Run"
     ]
   },
   "AbstractCard": {
     "TEXT": [
-      "Закрыто",
-      "Неизвестно"
+      "Locked",
+      "Unknown"
     ]
   },
   "AbstractChest": {
     "TEXT": [
-      "Продолжить"
+      "Proceed"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
-      "Мёртв",
-      "Блокировано",
-      "Макс. ОЗ +",
-      "Оглушение!",
-      "Прервано!",
-      "Реликвии"
+      "Dead",
+      "Blocked",
+      "Max HP +",
+      "Stunned!",
+      "Interrupted!",
+      "Relics"
     ]
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Продолжить",
-      "Напасти:"
+      "Proceed",
+	  "Blights:"
     ]
   },
   "AbstractMonster": {
     "TEXT": [
-      "Агрессия",
-      "Этот враг планирует NL #yатаковать, нанеся #b",
-      " урона #b",
-      " раз(а).",
-      "Этот враг планирует NL #yатаковать, нанеся #b",
-      " урона.",
-      "Агрессия",
-      "Этот враг планирует наложить #yполож. #yэффект и #yатаковать, нанеся #b",
-      " раз(а).",
-      "Этот враг планирует наложить #yполож. #yэффект и #yатаковать, нанеся #b",
-      "Стратегия",
-      "Этот враг планирует наложить на вас #yотриц. #yэффект и #yатаковать, нанеся #b",
-      "Этот враг планирует #yзащищать и #yатаковать, нанеся #b",
-      "Защита",
-      "Трусливость",
-      "Магия",
-      "Спит",
-      "Оглушение",
-      "Неизвестно",
-      "Этот враг планирует наложить #yполож. #yэффект.",
-      "Этот враг планирует наложить на вас #yотриц. #yэффект.",
-      "Этот враг планирует наложить на вас мощный #yотриц. #yэффект.",
-      "В свой ход этот враг планирует #yзащищать.",
-      "Этот враг планирует #yзащищать и наложить на вас #yотриц. #yэффект.",
-      "Этот враг планирует #yзащищать и наложить #yполож. #yэффект.",
-      "Это враг планирует #yсбежать.",
-      "Этот враг планирует использовать в свой ход таинственную #yмагию.",
-      "Этот враг спит.",
-      "Этот враг #yоглушён на время своего хода.",
-      "Намерения этого врага #yнеизвестны (но это не атака).",
-      "Блокировано"
+      "Aggressive",
+      "This enemy intends to NL #yAttack for #b",
+      " damage #b",
+      " times.",
+      "This enemy intends to NL #yAttack for #b",
+      " damage.",
+      "Aggressive",
+      "This enemy intends to use a #yBuff and #yAttack for #b",
+      " times.",
+      "This enemy intends to use a #yBuff and #yAttack for #b",
+      "Strategic",
+      "This enemy intends to inflict a #yNegative #yEffect on you and #yAttack for #b",
+      "This enemy intends to #yBlock and #yAttack for #b",
+      "Defensive",
+      "Cowardly",
+      "Magical",
+      "Sleeping",
+      "Stunned",
+      "Unknown",
+      "This enemy intends to use a #yBuff.",
+      "This enemy intends to inflict a #yNegative #yEffect on you.",
+      "This enemy intends to inflict a powerful #yNegative #yEffect on you.",
+      "This enemy intends to #yBlock on its turn.",
+      "This enemy intends to #yBlock and inflict a #yNegative #yEffect on you.",
+      "This enemy intends to #yBlock and use a #yBuff.",
+      "This enemy intends to #yEscape.",
+      "This enemy intends to use mysterious #yMagic on its turn.",
+      "This enemy is asleep.",
+      "This enemy is #yStunned on its turn.",
+      "This enemy's intentions are #yUnknown (not attacking).",
+      "Blocked"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Заблокировано",
-      "Латоносец",
-      "Безмолвная",
-      "Дефект",
-      "Созерцающая"
+      "Blocked",
+      "the Ironclad",
+      "the Silent",
+      "the Defect",
+      "the Watcher"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "Я не могу нести NL больше зелий."
+      "I can't carry NL any more Potions."
     ]
   },
   "AbstractRoom": {
     "TEXT": [
-      "Вас ограбили...",
-      "Вы сбежали..."
+      "Mugged...",
+      "Fled..."
     ]
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Выберите карту, которую хотите добавить в руку.",
-      "Выберите карты, которые хотите добавить в руку."
+      "Choose a Card to Add to Your Hand.",
+      "Choose Cards to Add to Your Hand."
     ]
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Отторгнуто",
-      "Иммунитет",
-      "Аннулировано",
-      "\n понижается"
+      "Negated",
+      "Immune",
+      "Nullified",
+      "\n Down"
     ]
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Улучшить"
+      "Upgrade"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Больше элитных врагов.",
-      "Обычные враги сильнее.",
-      "Элитные враги сильнее.",
-      "Боссы сильнее.",
-      "Меньше лечения после боссов.",
-      "Начинайте с повреждениями.",
-      "Обычные враги живучее.",
-      "Элитные враги живучее.",
-      "Боссы живучее.",
-      "Вы начинаете с проклятием.",
-      "Меньше мест для зелий.",
-      "Улучшенные карты реже.",
-      "Нищие боссы.",
-      "Макс. ОЗ ниже.",
-      "Неблаготворные события.",
-      "Цены в магазинах выше.",
-      "Обычные враги используют новую тактику и способности",
-      "Элитные враги используют новую тактику и способности",
-      "Боссы используют новую тактику и способности",
-      "(Макс. уровень) Двойной босс."
+      "1. Elites spawn more often.",
+      "2. Normal enemies are deadlier.",
+      "3. Elites are deadlier.",
+      "4. Bosses are deadlier.",
+      "5. Heal less after Boss battles.",
+      "6. Start each run damaged.",
+      "7. Normal enemies are tougher.",
+      "8. Elites are tougher.",
+      "9. Bosses are tougher.",
+      "10. Start each run cursed.",
+      "11. Fewer Potion Slots.",
+      "12. Upgraded cards appear less often.",
+      "13. Poor bosses.",
+      "14. Lower Max HP.",
+      "15. Unfavorable Events.",
+      "16. Shops are more costly.",
+      "17. Normal enemies have more challenging movesets and abilities.",
+      "18. Elites have more challenging movesets and abilities.",
+      "19. Bosses have more challenging movesets and abilities.",
+      "20. (Max Level) Double Boss."
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Открыт ",
-      " уровень режима «Возвышение»!"
+      "Ascension Mode Level ",
+      " Unlocked!"
     ]
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Теперь вам доступен режим «Возвышение»!"
+      "Ascension Unlocked!"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Выберите Атаку, которую хотите добавить в руку."
+      "Choose an Attack to Add to Your Hand."
     ]
   },
   "BattleStartEffect": {
     "TEXT": [
-      "Начало боя",
-      "Ход игрока",
-      "Вражеский ход",
-      " ход"
-    ]
-  },
-  "BetaArtUnlockEffect": {
-    "TEXT": [
-      "Картинки бета-версий карт Латоносца разблокированы!",
-      "Картинки бета-версий карт Безмолвной разблокированы!",
-      "Картинки бета-версий карт Дефекта разблокированы!",
-      "Картинки бета-версий всех карт разблокированы!",
-      "Картинки бета-версий карт Созерцающей разблокированы!"
+      "Battle Start",
+      "Player Turn",
+      "Enemy Turn",
+      " turn"
     ]
   },
   "BetterToHandAction": {
     "TEXT": [
-      "Выберите карту, которую хотите положить в руку.",
-      "Выберите ",
-      " карты, которые хотите положить в руку."
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
     ]
   },
   "BossChest": {
     "TEXT": [
-      "Продолжить"
+      "Proceed"
     ]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
-      "Подтвердить",
-      "Подтвердите выбор.",
-      "Выберите реликвию.",
-      "Пропустить",
-      "ГОЛОСУЙТЕ: осталось ",
-      " сек.",
-      "Пришло время сделать выбор."
+      "Confirm",
+      "Confirm Your Selection",
+      "Choose a Relic",
+      "Skip",
+      "VOTE NOW: ",
+      "s left.",
+	  "Choose a Blight"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Выберите карту, которую хотите положить на верх стопки добора.",
-      "Выберите карты, которые хотите положить на верх стопки добора."
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "Сновидения?"
+      "Dreaming?"
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Выберите карту, которую хотите улучшить."
+      "Select a Card to Upgrade"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Выберите карту, которую хотите убрать."
+      "Select a Card to Remove."
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "Что делать?",
-      "Хмм...",
-      "Что же мне сделать?",
-      "Пора прерваться",
-      "Столько вариантов...",
-      "Стоит передохнуть",
-      "Такая усталость..."
+      "What to do?",
+      "Hmm...",
+      "What shall I do?",
+      "Time for a break",
+      "So many options...",
+      "I should rest",
+      "So tired..."
     ]
   },
   "Cancel Button": {
     "TEXT": [
-      "Удалить сохранение"
+      "Delete Save"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Редкость",
-      "Тип",
-      "А-Я",
-      "Стоимость",
-      "Перейти к:",
-      "Полученные"
+      "Rarity",
+      "Type",
+      "A-Z",
+      "Cost",
+      "Jump To:",
+      "Obtained"
     ]
   },
   "CardLibraryScreen": {
     "TEXT": [
-      "Вернуться",
-      "Красные",
-      "Зелёные",
-      "Синие",
-      "Бесцветные",
-      "Проклятия",
-      "Статусы",
-      "Просмотреть улучшение",
-      "Фиолетовые"
+      "Return",
+      "Red",
+      "Green",
+      "Blue",
+      "Colorless",
+      "Curses",
+      "Statuses",
+      "View Upgrade",
+      "Purple"
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
-      "Пропустить",
-      "Выберите карту",
-      "+2 Макс. ОЗ",
-      "ГОЛОСУЙТЕ: осталось ",
-      " сек.",
-      "Просмотреть улучшение",
-      "Выберите одно"
+      "Skip",
+      "Choose a Card",
+      "+2 Max HP",
+      "VOTE NOW: ",
+      "s left.",
+      "View Upgrade",
+	  "Choose One"
     ]
   },
   "CharacterOption": {
     "TEXT": [
-      "Закрыто",
-      "Этого персонажа можно открыть, завершив одну вылазку.",
-      "Этот персонаж недоступен в раннем доступе.",
-      "Этого персонажа можно открыть, завершив одну вылазку за Безмолвную.",
-      "ОЗ: ",
-      "Золото: ",
-      " Открытий осталось",
-      "Неизвестно",
+      "Locked",
+      "This character is unlocked by completing a single run.",
+      "This character is still unavailable in Early Access.",
+      "This character is unlocked by completing a run with the Silent.",
+      "HP: ",
+      "Gold: ",
+      " Unlocks Remaining",
+      "Unknown",
       "???",
-      " до следующей разблокировки",
-      "Этого персонажа можно открыть, победив в Стандартной вылазке после открытия третьего персонажа."
+      " To Next Unlock",
+      "This character is unlocked by winning a Standard run and having the 3rd character unlocked."
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
-      "Выберите персонажа",
-      "В путь",
-      "Латоносец",
-      "Безмолвная",
-      "Дефект",
-      "Назад",
-      "Возвышение",
-      "Уровень ",
-      "Режим «Возвышение»",
-      "С каждой победой вылазки становятся труднее... (Не влияет на череду побед).",
-      "Зерно ",
-      "Случайное зерно",
-      "Зерно определяет все случайные элементы, встречающиеся на вылазке.",
-      "Установить зерно",
-      "Созерцающая"
+      "Choose Your Character",
+      "Embark",
+      "The Ironclad",
+      "The Silent",
+      "The Defect",
+      "Back",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Runs get harder as you win... (Winstreaks are unaffected)",
+      "Seed ",
+      "Random Seed",
+      "The starting seed is used to determine what randomly appears in the run.",
+      "Set Seed",
+      "The Watcher"
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Выбрать что-то одно"
+      "Choose One"
     ]
   },
   "CombatRewardScreen": {
     "TEXT": [
-      "Продолжить",
-      "Пропустить карту",
-      "Пропустить золото",
-      "Пропустить зелье",
-      "Пропустить реликвию",
-      "Пропустить награды",
-      "Закрыть",
-      "Сокровище!",
-      "Что внутри?",
-      "Награда!",
-      "Трофеи!",
-      "Добыча!",
-      "Совет: "
+      "Proceed",
+      "Skip Card",
+      "Skip Gold",
+      "Skip Potion",
+      "Skip Relic",
+      "Skip Rewards",
+      "Close",
+      "Treasure!",
+      "What's  Inside?",
+      "Rewards!",
+      "Spoils!",
+      "Loot!",
+      "Tip: "
     ]
   },
   "Confirm Button": {
     "TEXT": [
-      "Подтвердить"
+      "Confirm"
     ]
   },
   "ConfirmPopup": {
     "TEXT": [
-      "Вернуться",
-      "Удалить сохранение",
-      "Да",
-      "Нет"
+      "Return",
+      "Delete Save",
+      "Yes",
+      "No"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
     ]
   },
   "CopyAction": {
     "TEXT": [
-      "скопировать."
+      "Copy"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "кликните ещё раз, чтобы выйти",
-      "чтобы выйти"
-    ]
-  },
-  "CustomModeScreen": {
-    "TEXT": [
-      "Свободная игра",
-      "Достижения и Таблица лидеров отключены.",
-      "Персонаж",
-      "«Возвышение»",
-      "Уровень ",
-      "Режим «Возвышения»",
-      "Модификаторы",
-      "Зерно",
-      "Установить зерно",
-      "Трофеи и Таблица лидеров отключены."
+      "Click again to exit",
+      "to exit"
     ]
   },
   "DailyScreen": {
     "TEXT": [
-      "Ежедневная вылазка",
-      "Подключение к серверу...",
-      "#yЗАМЕТКА: Вы прошли сегодняшнее испытание. NL Счёт за повторные попытки не учитывается.",
-      "Вернуться",
-      "В путь",
-      "Сегодняшний персонаж: ",
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "#yNOTE: You have done today's challenge. NL Scores aren't submitted for repeat attempts.",
+      "Return",
+      "Embark",
+      "Today's character: ",
       "dd/MM/yyyy HH:mm:ss",
-      "Осталось: ",
-      "#yДостигнутый #yуровень: NL  ",
-      " NL NL  #yКолода: NL ",
-      " NL NL  #yРеликвии: NL  ",
-      " NL Сегодняшнее испытание: NL #yКласс: NL ",
-      " NL #yМоды: ",
-      "Модификаторы: ",
-      "Таблица лидеров",
-      "*В Ежедневной вылазке достижения отключены.",
-      "  [АВТОНОМНЫЙ РЕЖИМ]",
-      "dd.MM.yyyy",
-      "*В Ежедневной вылазке Трофеи отключены."
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL #yClass: NL ",
+      " NL #yMods: ",
+      "Modifiers: ",
+      "Leaderboards",
+      "*Achievements are off for Daily Climb.",
+      "  [OFFLINE MODE]",
+      "MMMM dd, yyyy",
+      "*Trophies are off for Daily Climb."
     ]
   },
   "DeathScreen": {
     "TEXT": [
-      "Продолжить",
-      "Победа?",
-      "Уровней пройдено",
-      "Боссов убито",
-      "Время игры",
-      "Время игры",
-      "Счёт",
-      "Вы сломлены",
-      "Смерть...",
-      "Фиаско",
-      "Поражение!",
-      "Вам конец",
-      "Вы погибли",
-      "Вы уничтожены",
-      "Вы убиты!",
-      "Знакомое чувство.",
-      "Неплохо бы вздремнуть.",
-      "Что посеешь, то и пожнёшь.",
-      "Не стоило туда идти.",
-      "Меня к такому не готовили.",
-      "Попробую завтра.",
-      "Понадобится новый путеводитель.",
-      "Проблема в подготовке.",
-      "Непостижимо!",
-      "Неужели я не могу лучше?",
-      "Вот же свезло...",
-      "Только не так...",
-      "Это не то чтобы вершина.",
-      "Очередная жертва Шпиля...",
-      "Ваше сознание меркнет...",
-      "Поражение",
-      "Принять",
-      "Продолжить",
-      "Попробовать снова",
-      "Главное меню",
-      "Продолжить",
-      "Открыть",
-      "Главное меню",
-      "Попробовать снова",
-      "Продолжить",
-      "Открыть",
-      "Осталось открытий: ",
-      "Осталось открытие: ",
-      "Убито врагов",
-      "Убито элиты",
-      "Оставшееся золото",
-      "Бонус за ОЗ"
+      "Continue",
+      "Victory?",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Play Time",
+      "Score",
+      "Conquered",
+      "Death...",
+      "Defeat",
+      "Defeated!",
+      "Desecrated",
+      "Devastation",
+      "Vanquished",
+      "You are Slain!",
+      "A familiar feeling.",
+      "A nap sounds good.",
+      "As you sow, so you shall reap.",
+      "Went the wrong way.",
+      "I wasn't prepared for this.",
+      "I'll try again tomorrow.",
+      "I'm going to need a new map.",
+      "Inadequately prepared.",
+      "Inconceivable!",
+      "Is this my true potential?",
+      "Just my luck...",
+      "Not like this...",
+      "Not quite the top.",
+      "The Spire consumes another...",
+      "Your consciousness fades...",
+      "Defeat",
+      "Acceptance",
+      "Continue",
+      "Retry",
+      "Main Menu",
+      "Proceed",
+      "Unlock",
+      "Main Menu",
+      "Retry",
+      "Proceed",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus"
     ],
     "EXTRA_TEXT": [
-      "Убито элиты в Преддверии",
-      "Убито элиты в Городе",
-      "Убито элиты в Запределье",
-      "Гонщик",
-      "Спешка",
-      "Горец",
-      "Коллекция",
-      "Полный набор",
-      "Нищета",
-      "Библиотекарь",
-      "Энциклопедия",
-      "Накормленность",
-      "Сытость",
-      "Проклятье!",
-      "На своих условиях",
-      "",
-      "Идеально",
-      "Сверх идеала",
-      "Перебор",
-      "К-к-к-комбо",
+      "Exordium Elites Killed",
+      "City Elites Killed",
+      "Beyond Elites Killed",
+      "Speedster",
+      "Light Speed",
+      "Highlander",
+      "Collection",
+      "Full Set",
+      "Pauper",
+      "Librarian",
+      "Encyclopedia",
+      "Well Fed",
+      "Stuffed",
+      "Curses!",
+      "On My Own Terms",
+      "Champion",
+      "Perfect",
+      "Beyond Perfect",
+      "Overkill",
+      "C-c-c-combo",
       ""
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Открыт ",
-      " уровень режима «Возвышение»!"
+      "Ascension Mode Level ",
+      " Unlocked!"
     ]
   },
   "DeletePopup": {
     "TEXT": [
-      "Удалить это сохранение?",
-      "Да",
-      "Нет",
-      "ВНИМАНИЕ: Это действие необратимо."
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
     ]
   },
   "Dig Option": {
     "TEXT": [
-      "Копать",
-      "Откопайте случайную реликвию."
+      "Dig",
+      "Dig up a random relic."
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "сбросить."
+      "Discard"
     ]
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "Моя стопка сброса #rпуста."
+      "My Discard Pile is #rempty."
     ]
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Выберите карту, которую хотите вернуть в свою руку."
+      "Select a Card to Return to Your Hand."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Выберите карту, которую хотите положить на стопку добора."
+      "Choose a Card to Put on Top of Your Draw Pile."
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Отсюда карты перетасовываются обратно в стопку добора, если она пуста.",
-      "Вернуться",
-      "Стопка сброса"
+      "Cards here are shuffled into your draw pile when it runs out of cards.",
+      "Return",
+      "Discard Pile"
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "Моя стопка добора #rпуста."
+      "My Draw Pile is #rempty."
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Отсюда вы берёте карты в начале каждого хода.",
-      "(Карты отсортированы по редкости)",
-      "Вернуться",
-      "Стопка добора"
+      "Cards are drawn from here at the start of each turn.",
+      "(Cards shown are sorted by rarity)",
+      "Return",
+      "Draw Pile"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Копировать"
+      "Duplicate"
     ]
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Выберите начальную комнату.",
-      "Вернуться"
+      "Select a Starting Room",
+      "Return"
     ]
   },
   "DungeonTransitionScreen": {
     "TEXT": [
-      "Обучение",
-      "Вы хотите видеть игровые подсказки во время игры?",
-      "Акт 1",
-      "Преддверие",
-      "Акт 2",
-      "Город",
-      "Акт 3",
-      "Запределье",
-      "Финальный акт",
-      "Эндшпиль",
-      "Нажмите в любом месте, чтобы продолжить"
+      "Tutorials",
+      "Do you wish to see gameplay hints as you play the game?",
+      "Act 1",
+      "Exordium",
+      "Act 2",
+      "The City",
+      "Act 3",
+      "The Beyond",
+      "Final Act",
+      "The Ending",
+      "Click Anywhere to Continue"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "Что такое ранний доступ?",
-      "Что такое открытое тестирование?",
-      "«Slay the Spire» ещё находится в процессе разработки! NL Многие опции, карты и враги всё ещё подвержены изменениям. NL NL Если вы найдёте ошибки или хотите оставить отзыв, дайте нам знать на нашей странице #bобсуждений в #bSteam. NL NL Хватит читать, пора покорять Шпиль!",
-      "«Slay the Spire» ещё находится в процессе разработки! NL К тому же вы играете в бета-версию игры. NL NL Пожалуйста, дайте нам знать о любых проблемах, с которыми вы столкнулись во время игры, но не удивляйтесь временному дизайну будущих материалов. NL NL Хватит читать, пора покорять Шпиль!",
-      "Нажмите в любом месте, чтобы начать",
-      "Продолжить"
+      "What's Early Access?",
+      "What's an Open Beta?",
+      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
+      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
+      "Click anywhere to Start",
+      "Continue"
     ]
   },
   "End Turn Button": {
     "TEXT": [
-      "Завершить",
-      "Ход врага"
+      "End Turn",
+      "Enemy Turn"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "сжечь."
+      "Exhaust"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "Эти карты были сожжены в текущем бою.",
-      "Вернуться"
+      "These cards were exhausted this combat.",
+      "Return"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Выберите карту, которую хотите вернуть в руку."
+      "Select a Card to Return to Your Hand"
     ]
   },
   "ExitGameButton": {
     "TEXT": [
-      "Выйти из игры"
+      "Exit Game"
     ]
   },
   "Exordium": {
     "TEXT": [
-      "Преддверие"
-    ]
-  },
-  "ForethoughtAction": {
-    "TEXT": [
-      "положить вниз стопки добора."
-    ]
-  },
-  "GainGoldTextEffect": {
-    "TEXT": [
-      " Золота"
+      "Exordium"
     ]
   },
   "GamblingChipAction": {
     "TEXT": [
-      "заменить (Игровая фишка).",
-      "заменить."
+      "Replace (Gambling Chip)",
+      "Replace"
     ]
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Игра~ #y~сохранена~"
+      "#y~Game~ #y~Saved~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
     ]
   },
   "GridCardSelectScreen": {
     "TEXT": [
-      "Подтвердить",
-      "Отменить",
-      "Подтвердите выбор",
-      "Уйти"
+      "Confirm",
+      "Cancel",
+      "Confirm Your Selection",
+      "Leave"
     ]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Подтвердите карту, которую хотите ",
-      "Подтвердите карты, которые хотите ",
-      "Выберите ",
-      " карты, которые хотите ",
-      "Выберите любое число карт, которые хотите ",
-      "Выберите карту, которую хотите ",
-      "Скопировать"
+      "Confirm Card to ",
+      "Confirm Cards to ",
+      "Choose ",
+      " Cards to ",
+      "Choose Any Number of Cards to ",
+      "Choose a Card to ",
+      "Copy"
     ]
   },
   "HiddenChamberAction": {
@@ -622,7 +599,7 @@
   },
   "ImmolateAction": {
     "TEXT": [
-      "сжечь."
+      "Exhaust"
     ]
   },
   "InputKeyNames": {
@@ -634,57 +611,57 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Настройки ввода",
-      "Настройки игры",
-      "Вернуться",
-      "Команды",
-      "Клавиатура",
-      "Геймпад",
-      "Вернуть по умолчанию",
-      "Подтвердить карту",
-      "Отменить / Выйти",
-      "Карта акта",
-      "Просмотреть колоду",
-      "Стопка добора",
-      "Стопка сброса",
-      "Сожжённые карты",
-      "Завершить ход",
-      "Влево",
-      "Вправо",
-      "Выбрать карту #1",
-      "Выбрать карту #2",
-      "Выбрать карту #3",
-      "Выбрать карту #4",
-      "Выбрать карту #5",
-      "Выбрать карту #6",
-      "Выбрать карту #7",
-      "Выбрать карту #8",
-      "Выбрать карту #9",
-      "Выбрать карту #10",
-      "Отпустить карту",
-      "Вверх",
-      "Вниз",
-      "Выбрать",
-      "Завершить ход / Информация",
-      "Вкладка слева",
-      "Вкладка справа",
-      "Карта акта*",
-      "Настройки игры*",
-      "Стопка добора*",
-      "Стопка сброса*",
-      "Вверх*",
-      "Вниз*",
-      "Влево*",
-      "Вправо*",
-      "Вверх (Доп.)*",
-      "Вниз (Доп.)*",
-      "Влево (Доп.)*",
-      "Вправо (Доп.)*",
-      "Вверх",
-      "Вниз",
-      "Игровой контроллер активирован",
-      "Сенсорный режим",
-      "Скрыть экран выбора"
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller",
+      "Reset to Default",
+      "Confirm Card",
+      "Cancel / Exit",
+      "Map",
+      "View Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10",
+      "Release Card",
+      "Select*",
+      "Cancel*",
+      "Top Panel*",
+      "Proceed / End Turn*",
+      "Tab Left / View Deck*",
+      "Tab Right / Exhaust Pile*",
+      "Map*",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down",
+      "Controller Enabled",
+      "Touchscreen Mode",
+      "Peek"
     ]
   },
   "LanguageDropdown": {
@@ -699,14 +676,14 @@
       "Japanese",
       "Korean",
       "Polish",
-      "Русский",
+      "Russian",
       "Spanish",
       "Hebrew",
       "Turkish",
       "Swedish",
       "Norwegian",
       "Thai",
-      "Serbian",
+      "Serbian (Cyrillic)",
       "Ukrainian",
       "Vietnamese",
       "Hungarian",
@@ -720,670 +697,693 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Латоносец",
-      "Безмолвная",
-      "Дефект",
-      "Средний достиг. уровень (20 последних попыток)",
-      "Средний счёт (20 последних попыток)",
-      "Лучшая череда побед",
-      "Самая быстрая победа",
-      "Лучший счёт",
+      "Ironclad",
+      "The Silent",
+      "Defect",
+      "Average Floor Reached (Last 20 Attempts)",
+      "Average Score (Last 20 Attempts)",
+      "Best Win Streak",
+      "Fastest Victory",
+      "High Score",
       "Option 6. DO NOT TRANSLATE",
-      "Друзья",
-      "Глобально",
-      "Созерцающая"
+      "Friends",
+      "Global",
+      "Watcher"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Назад",
-      "Фильтры",
-      "Персонаж",
-      "Регион",
-      "Тип",
-      "Просмотреть счёт",
-      "Ранг",
-      "Имя",
-      "Счёт",
-      "Получение данных...",
-      "Таблица лидеров",
-      "Нет соединения со Steam",
-      "Статистика недоступна \n Вперёд, уничтожать Шпиль!"
+      "Return",
+      "Filters",
+      "Character",
+      "Region",
+      "Type",
+      "View My Score",
+      "Rank",
+      "Name",
+      "Score",
+      "Retrieving Data...",
+      "Leaderboards",
+      "Not Connected to Steam",
+      "No Scores Available \n Go Slay the Spire!"
     ]
   },
   "Legend": {
     "TEXT": [
-      "Неизвестно",
+      "Unknown",
       "???",
-      "Тайная комната. NL NL Тут вы можете найти монстров, сокровища, магазины или что-то совершенно иное.",
-      "Торговец",
-      "Магазины",
-      "В этих комнатах таинственный Торговец продаёт свои товары. NL NL Потратьте здесь честно заработанное #yзолото!",
-      "Сокровища",
-      "Комнаты сокровищ",
-      "В этих комнатах можно найти #yреликвии и #yзолото.",
-      "Лагерь",
-      "Места привала",
-      "В этих комнатах вы можете восполнить #gздоровье или #yулучшить карту.",
-      "Враг",
-      "Враги",
-      "В этих комнатах обитают враги.",
-      "Элитный враг",
-      "Элитные враги",
-      "В этих комнатах вас ждут могучие враги. NL NL Победа над ними принесёт вам реликвию.",
-      "Легенда"
+      "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
+      "Merchant",
+      "Shops",
+      "The mysterious Merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
+      "Treasure",
+      "Treasure Rooms",
+      "#yRelics and #yGold can be found in these coveted rooms.",
+      "Rest",
+      "Rest Sites",
+      "Stop by these rooms to #gHeal some HP or #yUpgrade a card.",
+      "Enemy",
+      "Enemies",
+      "Hostile enemies reside in these rooms.",
+      "Elite",
+      "Elites",
+      "Powerful foes are in these rooms. NL NL Defeating them will reward you a Relic.",
+      "Legend"
     ]
   },
   "Lift Option": {
     "TEXT": [
-      "Качаться",
-      "Начинайте бой с +1 Силы (+3 макс.).",
-      ""
+      "Lift",
+      "Start battles with +1 Strength. (Up to 3)",
+	  ""
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yСборка: ",
-      "В путь",
-      "Вернуться",
-      "нажмите, чтобы изменить",
-      "чтобы изменить"
+      "#yBuild: ",
+      "Embark",
+      "Return",
+      "click to edit",
+      "to edit"
     ]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Вы начинаете каждое сражение с этими картами.",
-      "Вернуться"
+      "You start each combat with all the cards in here.",
+      "Return"
     ]
   },
   "MenuButton": {
     "TEXT": [
       "",
-      "Играть",
+      "Play",
       "",
       "",
-      "Продолжить",
+      "Continue",
       "",
-      "Статистика",
+      "Statistics",
       "",
-      "Выйти",
-      "Описание обновлений",
-      "Отменить вылазку",
+      "Quit",
+      "Patch Notes",
+      "Abandon Run",
       "",
-      "Настройки",
+      "Settings",
       "",
-      "Компендиум"
+      "Compendium"
     ]
   },
   "MenuPanels": {
     "TEXT": [
-      "Стандарт",
+      "Standard",
       "",
-      "Отправьтесь на вылазку для свержения Шпиля.",
-      "Ежедневная вылазка",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
       "",
-      "Каждый день доступно новое испытание.\n\nСоревнуйтесь с другими игроками за наибольший счёт!",
-      "Возвышение",
+      "A new challenge is available once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
       "",
-      "С каждой победой Шпиль становится сильнее.\n\nВаши лучшие стратегии пройдут проверку на выдержку.",
-      "Библиотека карт",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
       "",
-      "Просмотрите все карты, которые встречались вам в Шпиле.",
-      "Коллекция реликвий",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
       "",
-      "Изучите различные безделушки и артефакты, полученные на вылазках.",
-      "Бестиарий",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
       "",
-      "Эта опция ещё не доступна.",
-      "Статистика",
+      "This feature is not yet available.",
+      "Character Stats",
       "",
-      "Здесь можно просмотреть прогресс и статистику каждого персонажа.",
-      "Таблица лидеров",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
       "",
-      "Просматривайте и сравнивайте свой счёт с друзьями и другими игроками.",
-      "История вылазок",
+      "View and compare your score with friends and other players.",
+      "Run History",
       "",
-      "Вспомните свои прошлые попытки свержения Шпиля.",
-      "Настройки игры",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
       "",
-      "Изменение настроек графики, звука и и включение/выключение дополнительных функций.",
-      "Настройки управления",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
       "",
-      "Изменение настроек управления и горячих клавиш для карт.",
-      "Титры",
+      "Change your controls and shortcut keys.",
+      "Credits",
       "",
-      "Просмотрите всех, кто помог в создании Slay the Spire!",
-      "Неизвестно",
-      "Этот режим можно открыть, сыграв одну ежедневную вылазку",
-      "Эта опция ещё не доступна.",
-      "Свободная игра",
-      "Создайте уникальную вылазку, подобрав модификаторы на свой вкус.",
-      "Изменить настройки управления.",
-      "Изменить настройки графики, звука и игрового процесса.",
-      "Алхимическая лаборатория",
-      "Здесь вы можете изучить различные зелья, найденные в Шпиле."
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "Play a Daily Climb to unlock this game mode.",
+      "This feature is not yet available.",
+      "Custom",
+      "Customize your own run with unique modifiers.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences.",
+	  "Potion Lab",
+	  "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Услуга удаления карт",
-      "РАСПРОДАЖА",
-      "Не продаётся",
-      "Нет в наличии",
-      "О нет!"
+      "Card Removal Service",
+      "SALE",
+      "Not for Sale",
+      "Sold Out",
+      "Oh no!"
     ]
   },
   "MiscConsoleStrings": {
     "TEXT": [
-      "Нажмите ",
-      " чтобы начать",
-      "Переключить профиль",
-      "Область отображения",
-      "Произошла ошибка входа в учётную запись. Пожалуйста совершите повторный вход или выйдите в главное меню.",
-      "Войти",
-      "Выйти"
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
     ]
   },
   "OpeningAction": {
     "TEXT": [
-      "Этот враг не планирует атаковать!"
+      "That enemy does not intend to attack!"
     ]
   },
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Настройки игры",
-      "Графика",
-      "Разрешение: NL Макс. кадр. частота:",
-      "Во весь экран NL Во весь экран без рамки (рекоменд.) NL Дрожание экрана",
-      "Звук",
-      "Весь звук NL Музыка NL Эффекты",
-      "Фоновые звуковые эффекты NL Заглушать игру, когда окно неактивно",
-      "Предпочтения",
-      "Показывать общий урон золотым NL Показывать заблокированный урон синим NL Убрать подтверждение для выбора 1 карты",
-      "Быстрый режим",
+      "Game Settings",
+      "Graphics",
+      "Resolution: NL Max Framerate:",
+      "Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
+      "Sound",
+      "Master Volume NL Music Volume NL Effects Volume",
+      "Ambient Sound Effects NL Mute while in background",
+      "Preferences",
+      "Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
+      "Fast Mode",
       "",
-      "Разное",
-      "Язык:",
-      "Загрузка игровой информации #b(?)",
-      "Выйти из игры",
-      "Сохранить и выйти",
-      "NL NL Верт. синхронизация",
-      "Тестовые изображения карт",
-      "Показывать кнопки быстрого выбора карт",
-      "Настройки ввода",
-      "Отключить эффекты частиц",
-      "Разрешение:",
-      "Разрешение: NL Монитор для полн. экрана:",
-      "Определяет монитор, который используется при игре во весь экран.",
-      "Подтверждать долгим нажатием",
-      "Укрупнённый текст"
+      "Miscellaneous",
+      "Language:",
+      "Upload gameplay data #b(?)",
+      "Exit Game",
+      "Save & Quit",
+      "NL NL VSync",
+      "Playtester Art Mode",
+      "Show Card Quick Select Keys",
+      "Input Settings",
+      "Disable Particle Effects",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen.",
+      "Long-press Confirmations",
+      "Bigger Text"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Вернуться",
-      "#yОписание #yобновлений",
-      " NL (ВРЕМЕННО: Используйте стрелки, чтобы листать)"
+      "Return",
+      "#yPatch #yNotes",
+      " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
     ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "Throw",
+      "Drink",
+      "Discard",
+      "I cannot use potions!",
+      "I can't do that in combat!"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Wears Off"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "Proceed"
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "put on top of your draw pile"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "Return",
+      "Starter:",
+      "Characters can start with these relics.",
+      "Common:",
+      "Weak relics that are found commonly.",
+      "Uncommon:",
+      "Stronger relics which appear less often than common relics.",
+      "Rare:",
+      "Unique and powerful relics which are rarely seen.",
+      "Boss:",
+      "Relics found only within Boss chests.",
+      "Event:",
+      "Relics which can only be obtained through events.",
+      "Shop:",
+      "Relics which can only be purchased from the Merchant."
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<no name>",
+      "Enter  Your  Name",
+      "Confirm",
+      "Cancel"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Choose any number of cards to discard."
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "Rest",
+      "Heal for 100% of your Max HP (",
+      " HP from ",
+      "Heal for 30% of your Max HP (",
+	  ""
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Restart the game for display changes to take effect."
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "Retain"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Gold (Stolen Back)",
+      " Gold",
+      "Add a card to your deck",
+      "",
+      "Choose a Card",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Unknown",
+      "Enemy",
+      "Elite",
+      "Event",
+      "Boss",
+      "Treasure",
+      "Boss Treasure",
+      "Rest",
+      "Merchant",
+      "Unknown (Enemy)",
+      "Unknown (Merchant)",
+      "Unknown (Treasure)",
+      "Floor %1$s - %2$s",
+      "Floor %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "#yObtained: ",
+      "#ySkipped:",
+      "Missing Info",
+      "+2 Max HP",
+      "[C] ",
+      "[T] ",
+      "[P] ",
+      "[S] ",
+      "#bRested",
+      "#bUpgraded %s",
+      "#bRemoved %s",
+      "#bDug",
+      "#bLifted %s/%s",
+      "#yPurchased:",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s",
+      "#bRecalled"
+    ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang of Gremlins",
+      "Large Slime",
+      "Exordium Thugs",
+      "Exordium Wildlife",
+      "Swarm of Slimes",
+      "Small Slimes",
+      "City Muggers",
+      "Three Byrds",
+      "Four Byrds",
+      "Triple Cultists",
+      "Chosen Flock",
+      "Sentry and Spheric Guardian",
+      "Centurion and Mystic",
+      "Parasite and Fungi Beast",
+      "Masked Bandits Gang",
+      "Colosseum Nobs",
+      "Colosseum Slavers",
+      "Three Shapes",
+      "Jaw Worm Horde",
+      "Four Shapes",
+      "Spheric Guardian with Shapes",
+      "Double Orb Walkers",
+      "Donu and Deca",
+      "Sentries",
+      "Chosen and Cultist",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics",
+      "Shield and Spear"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "The Defect",
+      "Return",
+      "No run histories found. NL Go Slay the Spire!",
+      "Ascension Level: ",
+      "Slain on Floor %1$d by %2$s",
+      "Abandoned Run on Floor %d",
+      "Victory!",
+      "Cards",
+      "Relics",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses",
+      "Daily",
+      "Any Game Type",
+      "Only Normal",
+      "Only Ascension",
+      "Only Daily Challenge",
+      "Seed: %s",
+      "Custom Seed: %s",
+      "M/d/yyyy, h:mm a",
+      "The Watcher"
+    ]
+  },
+  "SeedPanel": {
+    "TEXT": [
+      "0000000000",
+      "Enter a new Seed",
+      "Confirm",
+      "Cancel",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "Are you sure?",
+      "Your progress is automatically saved.",
+      "Abandoning the game will result in a loss.",
+      "WARNING:\nProgress NOT saved.\n\nReach the next floor to save this current run.",
+      "Return",
+      "Progress is NOT saved for daily runs."
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "put on top of your draw pile."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "Skip Merchant"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "Attack",
+      "Skill",
+      "Power",
+      "Curse",
+      "Locked",
+      "Unknown",
+      "View Upgrade",
+      "Status",
+      "",
+      "I can only play cards on my turn.",
+      "I'm #rEntangled! NL Can't play Attacks",
+      "Not enough #rEnergy.",
+      "Not enough #rCharge.",
+      "I can't play NL this card.",
+      "Beta Art"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "Boss",
+      "Common",
+      "Deprecated",
+      "Rare",
+      "Shop",
+      "Event",
+      "Starter",
+      "Uncommon",
+      "Locked",
+      "Unknown",
+      " Relic",
+      "This relic has yet to be unlocked.",
+      "This relic remains to be seen."
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a Skill to Add to Your Hand"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "Smith",
+      "Upgrade a card in your deck.",
+      "No upgradeable cards."
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "You have no space for this"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "The Beyond"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "The City"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energy"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "Toke",
+      "Remove a card from your deck."
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " Floor",
+      " - Ascension ",
+      " (Max Level)"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "Skip Chest"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "Skip Chest"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "Continue"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "Cards Unlocked!",
+      "",
+      "Relics Unlocked!",
+      "New Character",
+      "Note: Unlocked cards show up in future runs.",
+      "Note: Unlocked relics show up in future runs."
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "Cards Unlocked!",
+      "Relics Unlocked!",
+      "New Character",
+      "Note: Unlocked cards show up in future runs.",
+      "Note: Unlocked relics show up in future runs."
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "New Unlock!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed",
+      "Trophies and Leaderboards are off."
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
+      ]
   },
   "Period": {
     "TEXT": [
       "."
     ]
   },
-  "PotionPopUp": {
+  "BetaArtUnlockEffect": {
     "TEXT": [
-      "Бросить",
-      "Выпить",
-      "Выкинуть",
-      "Я не могу использовать зелья!",
-      "Я не могу сделать это во время боя!"
-    ]
-  },
-  "PowerExpireTextEffect": {
-    "TEXT": [
-      "больше не действует"
-    ]
-  },
-  "Proceed Button": {
-    "TEXT": [
-      "Продолжить"
-    ]
-  },
-  "PutOnDeckAction": {
-    "TEXT": [
-      "положить на верх стопки добора."
-    ]
-  },
-  "Recall Option": {
-    "TEXT": [
-      "Вспомнить",
-      "Получите Рубиновый ключ."
-    ]
-  },
-  "RecycleAction": {
-    "TEXT": [
-      "сжечь."
-    ]
-  },
-  "RelicViewScreen": {
-    "TEXT": [
-      "Вернуться",
-      "Стартовые реликвии:",
-      "С ними персонажи начинают игру.",
-      "Обычные реликвии:",
-      "Слабые. Встречаются часто.",
-      "Необычные реликвии:",
-      "Более сильные, попадаются реже обычных.",
-      "Редкие реликвии:",
-      "Уникальные и мощные, попадаются редко.",
-      "Реликвии боссов:",
-      "Попадаются только в сундуках боссов.",
-      "Реликвии за события:",
-      "Можно получить только на событиях.",
-      "Реликвии торговца:",
-      "Можно получить только у торговца."
-    ]
-  },
-  "RenamePanel": {
-    "TEXT": [
-      "<без имени>",
-      "Введите  своё  имя",
-      "Подтвердить",
-      "Отменить"
-    ]
-  },
-  "ReprieveAction": {
-    "TEXT": [
-      "Этот враг планирует атаковать!"
-    ]
-  },
-  "ReprogramAction": {
-    "TEXT": [
-      "Выберите любое количество карт для сброса."
-    ]
-  },
-  "Rest Option": {
-    "TEXT": [
-      "Отдыхать",
-      "Восполните 100% своих Макс. ОЗ (",
-      " ОЗ даёт ",
-      "Восполните 30% своих Макс. ОЗ (",
-      ""
-    ]
-  },
-  "RestartForChangesEffect": {
-    "TEXT": [
-      "Перезапустите игру, чтобы настройки экрана вошли в силу."
-    ]
-  },
-  "RetainCardsAction": {
-    "TEXT": [
-      "оставить."
-    ]
-  },
-  "RewardItem": {
-    "TEXT": [
-      " золота (возвращённое)",
-      " золота",
-      "Добавьте карту в колоду",
-      "",
-      "Выберите карту",
-      "Изумрудный ключ",
-      "Сапфировый ключ",
-      "Связанный",
-      "Вы можете взять или это или ",
-      "."
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!",
+      "Watcher Beta Card Art Unlocked!"
     ]
   },
   "RichPresence": {
     "TEXT": [
-      "Ежедневная - Уровень %s",
-      "Свободная - Уровень %s",
-      " - Уровень %s",
-      "Главное меню",
-      " (Воз. %s)"
-    ]
-  },
-  "RunHistoryMonsterNames": {
-    "TEXT": [
-      "Банда Гремлинов",
-      "Большой Слизень",
-      "Бандиты Преддверия",
-      "Живность Преддверия",
-      "Туча слизней",
-      "Малые Слизни",
-      "Городские Грабители",
-      "Три Птахи",
-      "Четыре Птахи",
-      "Три культиста",
-      "Стая Избранного",
-      "Часовой и Сферический страж",
-      "Центурион и Жрица",
-      "Панцирный и Грибной паразиты",
-      "Бандиты Красной Маски",
-      "Верзилы из Колизея",
-      "Работорговцы из Колизея",
-      "Три фигуры",
-      "Орда Зубастых червей",
-      "Четыре фигуры",
-      "Сферический страж и фигуры",
-      "Пара Сфероходов",
-      "Дону и Дека",
-      "Часовые",
-      "Избранный и Культист",
-      "(Устарело) Пылающий громила",
-      "(Устарело) Работорговец и Паразит",
-      "(Устарело) Змекко и Жрицы",
-      "Копье и Щит"
-    ]
-  },
-  "RunHistoryPathNodes": {
-    "TEXT": [
-      "Неизвестно",
-      "Враг",
-      "Элитный враг",
-      "Событие",
-      "Босс",
-      "Сокровище",
-      "Сокровище босса",
-      "Лагерь",
-      "Торговец",
-      "Неизвестно (враг)",
-      "Неизвестно (торговец)",
-      "Неизвестно (сокровище)",
-      "Уровни %1$s — %2$s",
-      "Уровень %s",
-      "#r%s урона",
-      "#r%s хода(ов)",
-      "#r%s #r/ #r%s #rОЗ",
-      "#y%s #yзолота",
-      "#yВыбрана: ",
-      "#yПропущено:",
-      "Информация отсутствует",
-      "+2 Макс. ОЗ",
-      "[C] ",
-      "[T] ",
-      "[P] ",
-      "[S] ",
-      "#bОтдыхал",
-      "#bУлучшил %s",
-      "#bУдалил %s",
-      "#bКопал",
-      "#bКачался (%s/%s)",
-      "#yПриобрёл:",
-      "#rПотратил ",
-      "#rВзял ",
-      "#rПотерял ",
-      "%s Макс. ОЗ",
-      "#bВосстановил ",
-      "#bПолучил ",
-      "#bПрошёл мимо ",
-      "%s ОЗ",
-      "#bПолучил %s",
-      "#rПроклятье #rс #r%s",
-      "%s урона",
-      "#bУлучшил %s",
-      "#bПреобразовал %s",
-      "#rПотерял %s",
-      "#bВосстановлено в памяти"
-    ]
-  },
-  "RunHistoryScreen": {
-    "TEXT": [
-      "Латоносец",
-      "Безмолвная",
-      "Дефект",
-      "Вернуться",
-      "История не найдена. NL Вперёд, уничтожать Шпиль!",
-      "Уровень «Возвышения»: ",
-      "Поражение на %1$d уровне в бою с %2$s",
-      "Вылазка заброшена на уровне %d",
-      "Победа!",
-      "Карты",
-      "Реликвии",
-      "стартовых",
-      "обычных",
-      "необычных",
-      "редких",
-      "за события",
-      "проклятий",
-      "от боссов",
-      "от торговца",
-      "неизвестных",
-      "%1$d %2$s",
-      "%1$s (%2$d):",
-      "Счёт: %d",
-      "Все персонажи",
-      "Победы и поражения",
-      "Победы",
-      "Поражения",
-      "Ежедневная вылазка",
-      "Все режимы",
-      "Обычная игра",
-      "Возвышение",
-      "Ежедневная вылазка",
-      "Зерно: %s",
-      "Выбранное зерно: %s",
-      "d MMMM yyyy, HH:mm",
-      "Созерцающая"
-    ]
-  },
-  "SaveSlot": {
-    "TEXT": [
-      "Время игры ",
-      "Пустая ячейка"
-    ]
-  },
-  "SaveSlotScreen": {
-    "TEXT": [
-      "Выберите ячейку сохранения",
-      "Переименовать",
-      "Удалить это сохранение"
-    ]
-  },
-  "SeedPanel": {
-    "TEXT": [
-      "0000000000",
-      "Введите новое зерно",
-      "Подтвердить",
-      "Отменить",
-      "*Достижения и Таблица лидеров отключаются, если зерно установлено вручную.",
-      "*Трофеи и Таблица лидеров отключаются, если зерно установлено вручную."
-    ]
-  },
-  "SettingsScreen": {
-    "TEXT": [
-      "Вы уверены?",
-      "Ваш прогресс сохраняется автоматически.",
-      "Покинув игру, вы проиграете.",
-      "ВНИМАНИЕ:\nПрогресс НЕ сохранён.\n\nДойдите до следующего уровня, чтобы сохраниться.",
-      "Вернуться",
-      "Прогресс НЕ сохраняется для Ежедневных вылазок."
-    ]
-  },
-  "SetupAction": {
-    "TEXT": [
-      "положить на вершину своей стопки добора."
-    ]
-  },
-  "ShopRoom": {
-    "TEXT": [
-      "Пропустить торговца"
-    ]
-  },
-  "SingleCardViewPopup": {
-    "TEXT": [
-      "Атака",
-      "Навык",
-      "Талант",
-      "Проклятие",
-      "Закрыто",
-      "Неизвестно",
-      "Просмотреть улучшение",
-      "Статус",
-      "",
-      "Я могу разыгрывать карты только в свой ход.",
-      "Я в #rпутах! NL Не могу разыграть Атаку",
-      "Недостаточно #rэнергии.",
-      "Недостаточно #rЗаряда.",
-      "Я не могу разыграть NL эту карту",
-      "Картинка бета-версии"
-    ]
-  },
-  "SingleViewRelicPopup": {
-    "TEXT": [
-      "Реликвия босса",
-      "Обычная реликвия",
-      "Обветшалая",
-      "Редкая реликвия",
-      "Реликвия торговца",
-      "Реликвия от события",
-      "Стартовая реликвия",
-      "Необычная реликвия",
-      "Закрытая реликвия",
-      "Неизвестная реликвия",
-      "",
-      "Эту реликвию ещё предстоит открыть.",
-      "Эту реликвию вы ещё не видели."
-    ]
-  },
-  "SkillFromDeckToHandAction": {
-    "TEXT": [
-      "Выберите Навык, который хотите добавить в руку."
-    ]
-  },
-  "Smith Option": {
-    "TEXT": [
-      "Ковать",
-      "Улучшите карту в своей колоде.",
-      "Нет карт, которые можно улучшить."
-    ]
-  },
-  "StorePotion": {
-    "TEXT": [
-      "У вас нет свободного места."
-    ]
-  },
-  "TheBeyond": {
-    "TEXT": [
-      "Запределье"
-    ]
-  },
-  "TheCity": {
-    "TEXT": [
-      "Город"
-    ]
-  },
-  "TheEnding": {
-    "TEXT": [
-      "Эндшпиль"
-    ]
-  },
-  "TipHelper": {
-    "TEXT": [
-      "Энергия"
-    ]
-  },
-  "Toke Option": {
-    "TEXT": [
-      "Затяжка",
-      "Уберите карту из своей колоды."
-    ]
-  },
-  "TopPanel": {
-    "TEXT": [
-      " уровень",
-      " — Возвышение ",
-      " (Макс. уровень)"
-    ]
-  },
-  "TreasureRoom": {
-    "TEXT": [
-      "Пропустить сундук"
-    ]
-  },
-  "TreasureRoomBoss": {
-    "TEXT": [
-      "Пропустить сундук"
-    ]
-  },
-  "TwitchVoter": {
-    "TEXT": [
-      "ГОЛОСУЙТЕ: "
-    ]
-  },
-  "Unlock Confirm Button": {
-    "TEXT": [
-      "Продолжить"
-    ]
-  },
-  "UnlockCharacterScreen": {
-    "TEXT": [
-      "Карты открыты!",
-      "",
-      "Реликвии открыты!",
-      "Новый персонаж",
-      "Примечание: открытые карты теперь доступны в следующих вылазках.",
-      "Примечание: открытые реликвии теперь доступны в следующих вылазках."
-    ]
-  },
-  "UnlockScreen": {
-    "TEXT": [
-      "Карты открыты!",
-      "Реликвии открыты!",
-      "Новый персонаж",
-      "Примечание: открытые карты теперь доступны в следующих вылазках.",
-      "Примечание: открытые реликвии теперь доступны в следующих вылазках."
-    ]
-  },
-  "UnlockTextEffect": {
-    "TEXT": [
-      "Награда!"
-    ]
-  },
-  "VictoryScreen": {
-    "TEXT": [
-      "Продолжить",
-      "Уровней пройдено",
-      "Боссов убито",
-      "Время игры",
-      "Счёт",
-      "Открыть",
-      "Осталось открытий: ",
-      "Осталось открытие: ",
-      "Убито врагов",
-      "Убито элиты",
-      "Оставшееся золото",
-      "Бонус за ОЗ",
-      "Победа!"
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " F%s",
+      "Main Menu",
+      "A%s "
     ]
   },
   "ClarityAction": {
     "TEXT": [
-      "Выберите 1 карту. Все оставшиеся будут сожжены."
-    ]
-  },
-  "SignatureMoveMessage": {
-    "TEXT": [
-      "Это должна быть единственная #rАтака в руке!"
+      "Choose 1 card to keep. The rest are exhausted."
     ]
   },
   "WishAction": {
     "TEXT": [
-      "Выберите карту чтобы разыграть."
-    ]
-  },
-  "PotionViewScreen": {
-    "TEXT": [
-      "Вернуться",
-      "Обычные зелья:",
-      "Повсеместно встречаются в Шпиле.",
-      "Необычные зелья:",
-      "Более забористые и менее распространённые.",
-      "Редкие зелья:",
-      "Могучие и уникальные, редко попадаются на глаза."
+      "Choose a Card to play."
     ]
   }
 }

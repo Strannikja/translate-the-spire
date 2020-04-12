@@ -1,230 +1,231 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "Если в стопке добора не осталось карт, то содержимое стопки сброса перетасовывается обратно в стопку добора. NL NL Нажмите, чтобы просмотреть карты в стопке сброса.",
-      "Если в стопке добора не осталось карт, то содержимое стопки сброса перетасовывается обратно в стопку добора. NL NL Просмотреть карты в стопке сброса."
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile.",
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
     ],
     "LABEL": [
-      "Стопка сброса"
+      "Discard Pile"
     ]
   },
   "Draw Tip": {
     "TEXT": [
-      "В начале каждого хода отсюда происходит добор в размере NL #b",
-      " карт(ы). NL NL Нажмите, чтобы просмотреть карты в стопке добора (в перетасованном виде).",
-      " карт(ы). NL NL Нажмите, чтобы просмотреть карты в стопке добора.",
-      " карт(ы). NL NL Просмотреть карты в стопке добора (в перетасованном виде).",
-      " карт(ы). NL NL Просмотреть карты в стопке добора."
+      "At the start of each turn, NL #b",
+      " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL Click to view the cards in your draw pile.",
+      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL View the cards in your draw pile."
     ],
     "LABEL": [
-      "Стопка добора"
+      "Draw Pile"
     ]
   },
   "End Turn Tip": {
     "TEXT": [
-      "При нажатии на эту кнопку ваш ход закончится. NL NL Карты в руке будут сброшены, враг совершит свои действия, вы доберёте ",
-      " карт, и снова наступит ваш ход."
+      "Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
+      " cards, then it will be your turn again."
     ],
     "LABEL": [
-      "Завершить ход"
+      "End Turn"
     ]
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Ваше текущее количество энергии. Она требуется для разыгрывания карт."
+      "Your current energy count. Cards require energy to play."
     ],
     "LABEL": [
-      "Энергия"
+      "Energy"
     ]
   },
   "Energy Tip": {
     "TEXT": [
-      "Для разыгрывания карт нужна энергия! NL Эта сфера в нижнем левом углу показывает, сколько осталось энергии на текущий ход."
+      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
     ],
     "LABEL": [
-      "Затрата Энергии"
+      "Energy Cost"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Нажмите, чтобы просмотреть карты, Сожжённые в этом бою.",
-      "Просмотреть карты, Сожжённые в этом бою."
+      "Click to view cards Exhausted this combat.",
+      "View cards Exhausted this combat."
     ],
     "LABEL": [
-      "Сожжённые карты"
+      "Exhausted Cards"
     ]
   },
   "FTUE Tips": {
     "TEXT": [],
     "LABEL": [
-      "Совет: ",
-      "Понятно"
+      "Tip: ",
+      "Got It"
     ]
   },
   "Main Tutorial": {
     "TEXT": [
-      "Побеждайте врагов с помощью карт в своей руке! NL NL Чтобы разыгрывать карты, нужна #yЭнергия. NL Когда карты кончатся — завершите свой ход. NL NL В начале следующего хода вы возьмёте новые карты, и ваша #yэнергия восстановится.",
-      "Когда враг собирается атаковать, разыгрывайте оборонительные карты, чтобы получить #yЗащиту. NL NL #yЗащита снижает получаемый урон, но NL #rисчезает в начале следующего хода.",
-      "Во время своего хода вы можете видеть #yНамерения врагов над их головами. NL NL Если враг собирается вас атаковать, не забудьте набрать #yЗащиты!"
+      "Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
+      "Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
+      "During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
     ],
     "LABEL": [
-      "Далее",
-      "Всё ясно!",
-      "Обучение",
-      "(Страница ",
-      " из 3)"
+      "Next",
+      "I'm Ready!",
+      "Tutorial",
+      "(Page ",
+      " of 3)"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Игровая информация и ошибки отправляются в Mega Crit, чтобы мы смогли сбалансировать игру. NL NL Мы НЕ собираем личную информацию.",
-      "Быстрее всего «Slay the Spire» работает в полноэкранном режиме. Рекомендовано для macOS, так как Dock и строка меню скрыты. NL ПРИМЕЧАНИЕ: На ПК возврат к игре с помощью клавиш Alt+Tab при полноэкранном режиме может не работать.",
-      "У «Slay the Spire» невысокие системные требования, поэтому для быстрого переключения клавишами Alt+Tab мы рекомендуем режим полного экрана без рамки. Лучше всего работает на ПК.",
-      "Примечание: если включена верт. синхронизация, то максимальная кадровая частота не сможет превышать частоту обновления вашего монитора.",
-      "Поддержка геймпада на этом экране ещё не реализована."
+      "Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
+      "Slay the Spire runs the fastest when running in true fullscreen. Recommended for macOS as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
+      "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
+      "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate.",
+      "Controller support incomplete for this screen."
     ],
     "LABEL": [
-      "Метрики",
-      "Полный экран",
-      "Полный экран без рамки",
-      "Макс. кадр. частота"
+      "Metrics",
+      "Fullscreen",
+      "Borderless Fullscreen",
+      "Max Framerate"
     ]
   },
   "Player Tips": {
     "TEXT": [
-      "Эта карта — Талант, и, когда разыгрывается, даёт вам пассивную способность. NL Эффект от такой способности будет действовать на протяжении всего боя.",
-      "Для разыгрывания карт нужна энергия! NL Эта сфера в нижнем левом углу показывает, сколько у вас осталось энергии на текущий ход.",
-      "Карты #rне #rпомещаются #rв #rруку!",
-      "Количество слотов достигло #rпредела.",
-      "У меня нет слотов для сфер."
+      "This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
+      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
+      "My #rHand #ris #rFull!",
+      "#rMaximum Orb capacity has been met.",
+      "I have no Orb slots."
     ],
     "LABEL": [
-      "Карты Талантов",
-      "Энергия"
+      "Power Cards",
+      "Energy Cost"
     ]
   },
   "Potion Panel Tip": {
     "TEXT": [
-      "Бросить это зелье во врага.",
-      "Выпить это зелье.",
-      "Выкинуть это зелье NL #r(нельзя #rотменить)."
+      "Throw this potion at your enemy.",
+      "Consume this potion.",
+      "Discard this potion. NL #r(cannot #rbe #rundone)"
     ],
     "LABEL": [
-      "Бросить",
-      "Выпить",
-      "Выкинуть"
+      "Throw",
+      "Drink",
+      "Discard"
     ]
   },
   "Potion Tip": {
     "TEXT": [
-      "Пейте или бросайте зелья во время боя! NL Неиспользованные зелья остаются у вас после сражения."
+      "Drink or throw potions during combat! NL Potions stay with you between rooms."
     ],
     "LABEL": [
-      "Зелья"
+      "Potions"
     ]
   },
   "Random Tips": {
     "TEXT": [
-      "Общайтесь с другими игроками, чтобы узнавать новые и действенные стратегии.",
-      "Перед боссом всегда есть место, чтобы развести костёр.",
-      "Тратьте золото в магазине! (Спонсор совета — торговец)",
-      "Время от времени делайте перерыв.",
-      "Расчёты, основанные на процентах, всегда округляются в меньшую сторону.",
-      "В бою можно просматривать содержимое стопок добора и сброса.",
-      "Вы можете нести неограниченное количество реликвий.",
-      "В сундуках всегда есть реликвии.",
-      "Какой бы путь вы ни выбрали, на нём всегда встретится хотя бы одна сокровищница.",
-      "Победа над элитными врагами всегда приносит реликвию.",
-      "Вам никогда не встретятся две одинаковые реликвии в одной вылазке.",
-      "У необычных карт голубые рамка и баннер.",
-      "У редких карт золотые рамка и баннер.",
-      "По виду карты можно понять, насколько она редкая.",
-      "Не всегда стоит добавлять карты в свою колоду.",
-      "Карты, сожжённые во время боя, не убираются из колоды.",
-      "В руке может быть не больше 10 карт одновременно.",
-      "Карты Статуса убираются в конце боя.",
-      "Проклятия нельзя улучшить. Да и зачем?",
-      "После первого акта в награду могут попадаться улучшенные карты.",
-      "В тайных комнатах могут быть сокровища, монстры, магазины или события.",
-      "Торговец не производит возврат товара. Вот гад!",
-      "Цена за услугу удаления карты возрастает с каждым использованием.",
-      "В каждом магазине можно пользоваться услугой удаления карты только один раз.",
-      "Урон, наносимый реликвиями, зельями и талантами, не считается уроном атаки.",
-      "Эффекты, которые дают случайные карты во время боя, никогда не выдадут карты, восстанавливающие ОЗ."
+      "Engage with other players to discover new and effective strategies.",
+      "There is always a rest site before a boss.",
+      "Spend gold at shops! (Tip paid for by Merchant)",
+      "Take a break every now and then.",
+      "Percentage-based calculations always round down at the end.",
+      "During combat, you can view the contents of your draw and discard piles.",
+      "There is no limit to how many relics you can carry.",
+      "Chests will always drop a relic.",
+      "Every path you take will always have at least 1 treasure room.",
+      "Elite enemies will always drop a relic.",
+      "You will never see the same relic twice in one run.",
+      "Uncommon cards have a blue frame and banner.",
+      "Rare cards have a golden frame and banner.",
+      "The rarity of a card is visible on the card itself.",
+      "It is not always wise to add cards to your deck.",
+      "Cards exhausted during combat are not removed from your deck.",
+      "You can only have up to 10 cards in your hand.",
+      "Status cards go away at the end of combat.",
+      "Curses cannot be upgraded. Why would you?",
+      "Upgraded cards may appear in rewards past Act 1.",
+      "Unknown rooms may contain treasures, monsters, shops, or events.",
+      "The Merchant doesn't offer refunds. He is a jerk.",
+      "The card removal service increases in price whenever you use it.",
+      "The card removal service can only be used once at each shop.",
+      "Damage from potions, relics, and powers are not considered attack damage.",
+	    "Effects that generate random cards during combat will never heal you."
     ],
     "LABEL": [
-      "Ненужные зелья можно выкинуть, чтобы освободить место для новых."
+      "You can discard potions to make room for others."
     ]
   },
   "PC Tips": {
     "TEXT": [
-      "При получении наградных карт вы можете щёлкнуть правой кнопкой мыши по карте для получения доп. информации.",
-      "Почти обо всём можно узнать подробнее, лишь наведя курсор.",
-      "Щелчок правой кнопкой мыши «отпустит» перетаскиваемую в данный момент карту.",
-      "Наведите курсор на врага, чтобы узнать, как его зовут и какие эффекты на него наложены",
-      "Для прокрутки экрана можно использовать колёсико или перетаскивать его курсором с зажатой кнопкой мыши.",
-      "Если о данном предмете можно узнать подробнее, ваш курсор превратится в лупу.",
-      "Используйте колёсико или зажимайте кнопку мыши и перетаскивайте для просмотра карты акта, колоды и прочего."
+      "You can right click cards on the card reward screen to see extra info.",
+      "Useful information can be revealed by hovering over most objects.",
+      "Right click will release any cards you are dragging.",
+      "Hover over an enemy to see their name and Power information.",
+      "Use the scroll wheel or click and drag the screen to scroll.",
+      "If you can inspect an item, your cursor will become a magnifying glass.",
+      "Use the scrollwheel or click and drag to scroll maps, card screens, and others."
     ],
-    "LABEL": []
+    "LABEL": [
+    ]
   },
   "Relic Tip": {
     "TEXT": [
-      "Реликвии разбросаны по всему Шпилю и дают уникальные бонусы в течение всей вылазки. NL Их можно найти в сундуках и после боёв с сильными врагами.",
-      "Эта реликвия ещё не была найдена.",
-      "Эта реликвия израсходована."
+      "Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
+      "This relic remains to be seen.",
+      "This relic is used up."
     ],
     "LABEL": [
-      "Реликвии",
-      "Неизвестно",
-      "Эта реликвия ещё не открыта.",
-      "Закрыто"
+      "Relics",
+      "Unknown",
+      "This relic has yet to be unlocked.",
+      "Locked"
     ]
   },
   "Rewards Tip": {
     "TEXT": [
-      "Не забывайте свою награду! NL Чтобы её забрать, просто кликайте на содержимое.",
-      "Не забывайте свою награду!"
+      "Don't forget your rewards! NL Just click on them to pick them up.",
+      "Don't forget your rewards!"
     ],
     "LABEL": [
-      "Награда"
+      "Rewards"
     ]
   },
   "Shop Tip": {
     "TEXT": [
-      "Уберите карту из колоды. Цена этой услуги возрастает на #b",
-      " до конца этой вылазки."
+      "Remove a card from your deck. The cost of this service increases by #b",
+      " for the rest of this run."
     ],
     "LABEL": [
-      "Услуга удаления карты"
+      "Card Removal Service"
     ]
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL Если тянуть карты уже неоткуда, то содержимое стопки сброса перетасовывается обратно в стопку добора."
+      "NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
     ],
     "LABEL": [
-      "Не осталось карт?"
+      "No More Cards?"
     ]
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Открыть меню игры. NL NL Здесь можно изменять звуковые, графические и игровые настройки.",
-      "Просмотреть все карты в колоде.",
-      "Просмотреть карту текущего акта.",
-      "Если у вас кончатся ОЗ, то вы умрёте.",
-      "Здесь показано, сколько у вас золота. Золото — это местная валюта Шпиля.",
+      "Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
+      "View all of the cards in your deck.",
+      "View this current dungeon's map.",
+      "If you run out of HP, you die.",
+      "Shows how much gold you are carrying. Gold is the currency within the Spire.",
       "",
       "",
-      "Время, прошедшее с начала вылазки."
+      "Elapsed time for this run."
     ],
     "LABEL": [
-      "Настройки",
-      "Колода",
-      "Карта",
-      "Очки Здоровья (ОЗ)",
-      "Кошелёк",
-      "Таймер вылазки"
+      "Settings",
+      "Deck",
+      "Map",
+      "Hit Points (HP)",
+      "Money Pouch",
+      "Run Timer"
     ]
   }
 }

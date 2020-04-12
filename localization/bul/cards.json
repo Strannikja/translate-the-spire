@@ -1,1334 +1,1411 @@
 {
   "A Thousand Cuts": {
-    "NAME": "Тысяча порезов",
-    "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам, когда вы разыгрываете карту."
+    "NAME": "A Thousand Cuts",
+    "DESCRIPTION": "Whenever you play a card, deal !M! damage to ALL enemies."
   },
   "Accuracy": {
-    "NAME": "Меткость",
-    "DESCRIPTION": "*Заточки наносят на !M! урона больше."
+    "NAME": "Accuracy",
+    "DESCRIPTION": "*Shivs deal !M! additional damage."
   },
   "Acrobatics": {
-    "NAME": "Акробатика",
-    "DESCRIPTION": "Вы берёте !M! карты, NL затем сбрасываете 1 карту."
+    "NAME": "Acrobatics",
+    "DESCRIPTION": "Draw !M! cards. NL Discard 1 card."
   },
   "Adrenaline": {
-    "NAME": "Адреналин",
-    "DESCRIPTION": "Даёт [G]. NL Вы берёте 2 карты. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Даёт [G] [G]. NL Вы берёте 2 карты. NL Сжигается."
+    "NAME": "Adrenaline",
+    "DESCRIPTION": "Gain [G]. NL Draw 2 cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain [G] [G]. NL Draw 2 cards. NL Exhaust."
   },
   "After Image": {
-    "NAME": "След в воздухе",
-    "DESCRIPTION": "Даёт 1 Защиты, когда вы разыгрываете карту.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Даёт 1 Защиты, когда вы разыгрываете карту."
+    "NAME": "After Image",
+    "DESCRIPTION": "Whenever you play a card, gain 1 Block.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, gain 1 Block."
   },
   "Aggregate": {
-    "NAME": "Агрегирование",
-    "DESCRIPTION": "Даёт по [B] за каждые !M! карт в стопке добора."
+    "NAME": "Aggregate",
+    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
   },
   "All For One": {
-    "NAME": "Все за одного",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы кладёте все карты с ценой 0 из стопки сброса в руку."
+    "NAME": "All for One",
+    "DESCRIPTION": "Deal !D! damage. NL Put all cost 0 cards from your discard pile into your hand."
   },
   "All Out Attack": {
-    "NAME": "Атака напролом",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы сбрасываете 1 случ. карту."
+    "NAME": "All-Out Attack",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Discard 1 card at random."
   },
   "Allocate": {
-    "NAME": "Распределение",
-    "DESCRIPTION": "Даёт !M! Фокуса. NL Отнимает 1 Силы. NL Отнимает 1 Ловкости."
+    "NAME": "Allocate",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
   },
   "Amplify": {
-    "NAME": "Усилить",
-    "DESCRIPTION": "В этом ходу след. Талант разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "В этом ходу !M! след. Таланта разыгрываются дважды."
+    "NAME": "Amplify",
+    "DESCRIPTION": "This turn, your next Power card is played twice.",
+    "UPGRADE_DESCRIPTION": "This turn, your next !M! Power cards are played twice."
   },
   "Anger": {
-    "NAME": "Злоба",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет свою копию в стопку сброса."
+    "NAME": "Anger",
+    "DESCRIPTION": "Deal !D! damage. NL Add a copy of this card into your discard pile."
   },
   "Apotheosis": {
-    "NAME": "Апофеоз",
-    "DESCRIPTION": "Улучшает ВСЕ карты до конца боя. NL Сжигается."
+    "NAME": "Apotheosis",
+    "DESCRIPTION": "Upgrade ALL your cards for the rest of combat. NL Exhaust."
   },
   "Armaments": {
-    "NAME": "Арсенал",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Улучшает карту в руке до конца боя.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Улучшает ВСЕ карты в руке до конца боя."
+    "NAME": "Armaments",
+    "DESCRIPTION": "Gain !B! Block. NL Upgrade a card in your hand for the rest of combat.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Upgrade all cards in your hand for the rest of combat."
   },
   "AscendersBane": {
-    "NAME": "Бремя возвышения",
-    "DESCRIPTION": "Неиграбельная. NL Эфирная. Не может быть удалена из колоды."
+    "NAME": "Ascender's Bane",
+    "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
   },
   "Auto Shields": {
-    "NAME": "Авто-щиты",
-    "DESCRIPTION": "Даёт !B! Защиты, если у вас нет Защиты."
+    "NAME": "Auto-Shields",
+    "DESCRIPTION": "If you have no Block, gain !B! Block."
   },
   "Axe Kick": {
-    "NAME": "Пинок сверху",
-    "DESCRIPTION": "Наносит !D! урона. NL Разряжает след. в очереди сферу."
+    "NAME": "Axe Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
   },
   "Backflip": {
-    "NAME": "Сальто назад",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте 2 карты."
+    "NAME": "Backflip",
+    "DESCRIPTION": "Gain !B! Block. NL Draw 2 cards."
   },
   "Backstab": {
-    "NAME": "Нож в спину",
-    "DESCRIPTION": "Начальная. NL Наносит !D! урона. NL Сжигается."
+    "NAME": "Backstab",
+    "DESCRIPTION": "Innate. NL Deal !D! damage. NL Exhaust."
   },
   "Ball Lightning": {
-    "NAME": "Шаровая молния",
-    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! Сферу Молнии."
+    "NAME": "Ball Lightning",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
   },
   "Bandage Up": {
-    "NAME": "Перевязка",
-    "DESCRIPTION": "Восполняет !M! ОЗ. NL Сжигается."
+    "NAME": "Bandage Up",
+    "DESCRIPTION": "Heal !M! HP. NL Exhaust."
   },
   "Bane": {
-    "NAME": "Погибель",
-    "DESCRIPTION": "Наносит !D! урона. NL Наносит ещё !D! урона, если враг отравлен Ядом."
+    "NAME": "Bane",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Poison, deal !D! damage again."
   },
   "Barrage": {
-    "NAME": "Обстрел",
-    "DESCRIPTION": "Наносит по !D! урона за каждую Заряженную сферу."
+    "NAME": "Barrage",
+    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
   },
   "Barricade": {
-    "NAME": "Баррикада",
-    "DESCRIPTION": "Защита больше не исчезает в начале вашего хода."
+    "NAME": "Barricade",
+    "DESCRIPTION": "Block is not removed at the start of your turn."
   },
   "Bash": {
-    "NAME": "Проломить",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Уязвимости."
+    "NAME": "Bash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
   },
   "Battle Trance": {
-    "NAME": "Боевой транс",
-    "DESCRIPTION": "Вы берёте !M! карты. NL Вы больше не сможете брать карты в этом ходу."
+    "NAME": "Battle Trance",
+    "DESCRIPTION": "Draw !M! cards. NL You cannot draw additional cards this turn."
   },
   "Beam Cell": {
-    "NAME": "Лучевая ячейка",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Уязвимости."
+    "NAME": "Beam Cell",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
   },
   "Berserk": {
-    "NAME": "Берсерк",
-    "DESCRIPTION": "Вы получаете !M! Уязвимости. NL Даёт [R] в начале каждого вашего хода."
+    "NAME": "Berserk",
+    "DESCRIPTION": "Gain !M! Vulnerable. NL At the start of your turn, gain [R]."
   },
   "Biased Cognition": {
-    "NAME": "Предвзятость",
-    "DESCRIPTION": "Даёт !M! Фокуса. NL Отнимает 1 Фокуса в начале каждого вашего хода."
+    "NAME": "Biased Cognition",
+    "DESCRIPTION": "Gain !M! Focus. NL At the start of your turn, lose 1 Focus."
   },
   "Bite": {
-    "NAME": "Укус",
-    "DESCRIPTION": "Наносит !D! урона. NL Восполняет !M! ОЗ."
+    "NAME": "Bite",
+    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   },
   "Blade Dance": {
-    "NAME": "Танец клинков",
-    "DESCRIPTION": "Добавляет в руку !M! *Заточки."
+    "NAME": "Blade Dance",
+    "DESCRIPTION": "Add !M! *Shivs into your hand."
   },
   "Blaster": {
-    "NAME": "Бластер",
-    "DESCRIPTION": "Устарело"
+    "NAME": "Blaster",
+    "DESCRIPTION": "deprecated"
   },
   "Blind": {
-    "NAME": "Ослепление",
-    "DESCRIPTION": "Накладывает !M! Слабости.",
-    "UPGRADE_DESCRIPTION": "Накладывает !M! Слабости на ВСЕХ врагов."
+    "NAME": "Blind",
+    "DESCRIPTION": "Apply !M! Weak.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
   },
   "Blizzard": {
-    "NAME": "Метель",
-    "DESCRIPTION": "Наносит по !M! урона ВСЕМ врагам за каждую Заряженную Сферу Льда в этом бою",
+    "NAME": "Blizzard",
+    "DESCRIPTION": "Deal damage equal to !M! times the number of Frost Channeled this combat to ALL enemies.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL (Наносит !D! урона).",
+      " NL (Deals !D! damage.)",
       ""
     ]
   },
   "Blood for Blood": {
-    "NAME": "Кровь за кровь",
-    "DESCRIPTION": "Стоит на 1 [R] меньше после каждой потери вами ОЗ в этом бою. NL Наносит !D! урона."
+    "NAME": "Blood for Blood",
+    "DESCRIPTION": "Costs 1 less [R] NL for each time you lose HP this combat. NL Deal !D! damage."
   },
   "Bloodletting": {
-    "NAME": "Кровопускание",
-    "DESCRIPTION": "Отнимает 3 ОЗ. NL Даёт [R].",
-    "UPGRADE_DESCRIPTION": "Отнимает 3 ОЗ. NL Даёт [R] [R]."
+    "NAME": "Bloodletting",
+    "DESCRIPTION": "Lose 3 HP. NL Gain [R].",
+    "UPGRADE_DESCRIPTION": "Lose 3 HP. NL Gain [R] [R]."
   },
   "Bludgeon": {
-    "NAME": "Костолом",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Bludgeon",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Blur": {
-    "NAME": "Неуловимость",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Защита не исчезнет в начале вашего след. хода."
+    "NAME": "Blur",
+    "DESCRIPTION": "Gain !B! Block. NL Block is not removed at the start of your next turn."
   },
   "Body Slam": {
-    "NAME": "Толчок корпусом",
-    "DESCRIPTION": "Наносит урон, равный вашей Защите.",
-    "UPGRADE_DESCRIPTION": " NL (Наносит !D! урона)."
+    "NAME": "Body Slam",
+    "DESCRIPTION": "Deal damage equal to your Block.",
+    "UPGRADE_DESCRIPTION": " NL (Deals !D! damage.)"
   },
   "BootSequence": {
-    "NAME": "Инициализация",
-    "DESCRIPTION": "Начальная. NL Даёт !B! Защиты. NL Сжигается."
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Innate. NL Gain !B! Block. NL Exhaust."
   },
   "Bouncing Flask": {
-    "NAME": "Скачущая фляга",
-    "DESCRIPTION": "Накладывает 3 Яда на случ. врага !M! раза."
+    "NAME": "Bouncing Flask",
+    "DESCRIPTION": "Apply 3 Poison to a random enemy !M! times."
   },
   "Brutality": {
-    "NAME": "Зверство",
-    "DESCRIPTION": "Вы теряете 1 ОЗ и берёте 1 карту в начале вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Вы теряете 1 ОЗ и берёте 1 карту в начале вашего хода."
+    "NAME": "Brutality",
+    "DESCRIPTION": "At the start of your turn, lose 1 HP and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
   },
   "Buffer": {
-    "NAME": "Буфер",
-    "DESCRIPTION": "Предотвращает след. потерю ОЗ.",
-    "UPGRADE_DESCRIPTION": "Предотвращает !M! след. потери ОЗ."
+    "NAME": "Buffer",
+    "DESCRIPTION": "Prevent the next time you would lose HP.",
+    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
   },
   "Bullet Time": {
-    "NAME": "Застывшее время",
-    "DESCRIPTION": "Вы не сможете добирать карты в этом ходу. В этом ходу карты стоят 0."
+    "NAME": "Bullet Time",
+    "DESCRIPTION": "You cannot draw additional cards this turn. Reduce the cost of all cards in your hand to 0 this turn."
   },
   "Burn": {
-    "NAME": "Ожог",
-    "DESCRIPTION": "Неиграбельная. NL Вы получите 2 урона в конце вашего хода.",
-    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Вы получите 4 урона в конце вашего хода."
+    "NAME": "Burn",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL At the end of your turn, take 4 damage."
   },
   "Burning Pact": {
-    "NAME": "Пламенный пакт",
-    "DESCRIPTION": "Сжигает 1 карту. NL Вы берёте !M! карты."
+    "NAME": "Burning Pact",
+    "DESCRIPTION": "Exhaust 1 card. NL Draw !M! cards."
   },
   "Burst": {
-    "NAME": "Прилив сил",
-    "DESCRIPTION": "В этом ходу следующий Навык разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "В этом ходу !M! следующих Навыка разыгрываются дважды."
+    "NAME": "Burst",
+    "DESCRIPTION": "This turn, your next Skill is played twice.",
+    "UPGRADE_DESCRIPTION": "This turn, your next !M! Skills are played twice."
   },
   "Calculated Gamble": {
-    "NAME": "Игра стоит свеч",
-    "DESCRIPTION": "Вы сбрасываете все карты в руке, NL затем берёте столько же. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты в руке, NL затем берёте столько же."
+    "NAME": "Calculated Gamble",
+    "DESCRIPTION": "Discard your hand, NL then draw that many cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Discard your hand, NL then draw that many cards."
   },
   "Caltrops": {
-    "NAME": "Шипы",
-    "DESCRIPTION": "Наносит врагу !M! урона в ответ на каждую атаку."
+    "NAME": "Caltrops",
+    "DESCRIPTION": "Whenever you are attacked, deal !M! damage back."
   },
   "Capacitor": {
-    "NAME": "Конденсатор",
-    "DESCRIPTION": "Добавляет !M! слота для сфер.",
-    "UPGRADE_DESCRIPTION": "Добавляет !M! слота для сфер."
+    "NAME": "Capacitor",
+    "DESCRIPTION": "Gain !M! Orb slots.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
   },
   "Carnage": {
-    "NAME": "Резня",
-    "DESCRIPTION": "Эфирная. NL Наносит !D! урона."
+    "NAME": "Carnage",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage."
   },
   "Catalyst": {
-    "NAME": "Катализатор",
-    "DESCRIPTION": "Удваивает наложенный на врага Яд. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Утраивает наложенный на врага Яд. NL Сжигается."
+    "NAME": "Catalyst",
+    "DESCRIPTION": "Double the enemy's Poison. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Triple the enemy's Poison. NL Exhaust."
   },
   "Chaos": {
-    "NAME": "Хаос",
-    "DESCRIPTION": "Заряжает !M! случ. сферу.",
-    "UPGRADE_DESCRIPTION": "Заряжает !M! случ. сферы."
+    "NAME": "Chaos",
+    "DESCRIPTION": "Channel !M! random Orb.",
+    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
   },
   "Chill": {
-    "NAME": "Заморозка",
-    "DESCRIPTION": "Заряжает по !M! Сфере Льда за каждого врага в бою. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Заряжает по !M! Сфере Льда за каждого врага в бою. NL Сжигается."
+    "NAME": "Chill",
+    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
   },
   "Choke": {
-    "NAME": "Удушение",
-    "DESCRIPTION": "Наносит !D! урона. NL В этом ходу этот враг будет терять !M! ОЗ за каждую разыгрываемую карту."
+    "NAME": "Choke",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you play a card this turn, the enemy loses !M! HP."
   },
   "Chrysalis": {
-    "NAME": "Линька",
-    "DESCRIPTION": "Добавляет !M! случ. Навыков в стопку добора. Они стоят 0 в этом бою. NL Сжигается."
+    "NAME": "Chrysalis",
+    "DESCRIPTION": "Shuffle !M! random Skills into your draw pile. They cost 0 this combat. NL Exhaust."
   },
   "Clash": {
-    "NAME": "Скрестить мечи",
-    "DESCRIPTION": "Можно разыграть, если в руке только карты Атаки. NL Наносит !D! урона.",
+    "NAME": "Clash",
+    "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Deal !D! damage.",
     "EXTENDED_DESCRIPTION": [
-      "В моей руке не только карты Атаки."
+      "I have non-Attack cards in my hand."
     ]
   },
   "Cleave": {
-    "NAME": "Рассечение",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
+    "NAME": "Cleave",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
   },
   "Cloak And Dagger": {
-    "NAME": "Плащ и кинжал",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет в руку !M! *Заточку.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Добавляет в руку !M! *Заточки."
+    "NAME": "Cloak and Dagger",
+    "DESCRIPTION": "Gain !B! Block. NL Add !M! *Shiv into your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add !M! *Shivs into your hand."
   },
   "Clothesline": {
-    "NAME": "Сбить с ног",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Слабости."
+    "NAME": "Clothesline",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   },
   "Clumsy": {
-    "NAME": "Неуклюжесть",
-    "DESCRIPTION": "Неиграбельная. NL Эфирная."
+    "NAME": "Clumsy",
+    "DESCRIPTION": "Unplayable. NL Ethereal."
   },
   "Cold Snap": {
-    "NAME": "Стужа",
-    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! Сферу Льда."
+    "NAME": "Cold Snap",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
   },
   "Combust": {
-    "NAME": "Самовозгорание",
-    "DESCRIPTION": "Отнимает 1 ОЗ и наносит !M! урона ВСЕМ врагам в конце каждого вашего хода."
-  },
-  "Compile Driver": {
-    "NAME": "Компиляция",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте по !M! карте за каждый вид Заряженных сфер."
+    "NAME": "Combust",
+    "DESCRIPTION": "At the end of your turn, lose 1 HP and deal !M! damage to ALL enemies."
   },
   "Concentrate": {
-    "NAME": "Концентрация",
-    "DESCRIPTION": "Вы сбрасываете !M! карты. NL Даёт [G] [G]."
+    "NAME": "Concentrate",
+    "DESCRIPTION": "Discard !M! cards. NL Gain [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Подзарядка",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт [B] в вашем след. ходу."
+    "NAME": "Charge Battery",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn, gain [B]."
   },
   "Consume": {
-    "NAME": "Поглощение",
-    "DESCRIPTION": "Даёт !M! Фокуса. NL Отнимает 1 слот для сфер."
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb slot."
   },
   "Coolheaded": {
-    "NAME": "Невозмутимость",
-    "DESCRIPTION": "Заряжает 1 Сферу Льда. NL Вы берёте !M! карту.",
-    "UPGRADE_DESCRIPTION": "Заряжает 1 Сферу Льда. NL Вы берёте !M! карты."
-  },
-  "Core Surge": {
-    "NAME": "Перегрузка ядра",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! Артефакта. NL Сжигается."
+    "NAME": "Coolheaded",
+    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
   },
   "Corpse Explosion": {
-    "NAME": "Взрыв трупа",
-    "DESCRIPTION": "Накладывает !M! Яда. NL Нанесёт ВСЕМ врагам урон, равный Макс. ОЗ выбранного врага, когда он погибнет.",
-    "UPGRADE_DESCRIPTION": "устарело",
+    "NAME": "Corpse Explosion",
+    "DESCRIPTION": "Apply !M! Poison. NL When the enemy dies, deal damage equal to its Max HP to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "устарело"
+      "deprecated"
     ]
   },
   "Corruption": {
-    "NAME": "Скверна",
-    "DESCRIPTION": "Навыки стоят 0. NL Каждый разыгрываемый Навык Сжигается."
+    "NAME": "Corruption",
+    "DESCRIPTION": "Skills cost 0. NL Whenever you play a Skill, Exhaust it."
   },
   "Creative AI": {
-    "NAME": "Творческий ИИ",
-    "DESCRIPTION": "Добавляет в руку случ. Талант в начале каждого вашего хода."
+    "NAME": "Creative AI",
+    "DESCRIPTION": "At the start of your turn, add a random Power card into your hand."
   },
   "Crippling Poison": {
-    "NAME": "Облако слабости",
-    "DESCRIPTION": "Накладывает !M! Яда и 2 Слабости на ВСЕХ врагов. NL Сжигается."
+    "NAME": "Crippling Cloud",
+    "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust."
   },
   "Dagger Spray": {
-    "NAME": "Шквал кинжалов",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам дважды."
+    "NAME": "Dagger Spray",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies twice."
   },
   "Dagger Throw": {
-    "NAME": "Метнуть кинжал",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту, затем NL сбрасываете 1 карту."
+    "NAME": "Dagger Throw",
+    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Discard 1 card."
   },
   "Dark Embrace": {
-    "NAME": "Объятия тьмы",
-    "DESCRIPTION": "Вы берёте 1 карту, NL когда Сжигается карта."
+    "NAME": "Dark Embrace",
+    "DESCRIPTION": "Whenever a card is Exhausted, NL draw 1 card."
   },
   "Dark Shackles": {
-    "NAME": "Оковы тьмы",
-    "DESCRIPTION": "Враг теряет !M! Силы до конца своего хода. NL Сжигается."
+    "NAME": "Dark Shackles",
+    "DESCRIPTION": "Enemy loses !M! Strength this turn. NL Exhaust."
   },
   "Darkness": {
-    "NAME": "Тьма",
-    "DESCRIPTION": "Заряжает !M! Сферу Тьмы.",
-    "UPGRADE_DESCRIPTION": "Заряжает !M! Сферу Тьмы. Активирует пассивный эффект всех Сфер Тьмы."
+    "NAME": "Darkness",
+    "DESCRIPTION": "Channel !M! Dark.",
+    "UPGRADE_DESCRIPTION": "Channel !M! Dark. NL Trigger the passive ability of all Dark orbs."
   },
   "Dash": {
-    "NAME": "Рывок",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона."
+    "NAME": "Dash",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
   },
   "Dazed": {
-    "NAME": "Головокружение",
-    "DESCRIPTION": "Неиграбельная. NL Эфирная."
+    "NAME": "Dazed",
+    "DESCRIPTION": "Unplayable. NL Ethereal."
   },
   "Deadly Poison": {
-    "NAME": "Смертельный яд",
-    "DESCRIPTION": "Накладывает !M! Яда."
+    "NAME": "Deadly Poison",
+    "DESCRIPTION": "Apply !M! Poison."
   },
   "Decay": {
-    "NAME": "Гниение",
-    "DESCRIPTION": "Неиграбельная. NL Вы получите 2 урона в конце вашего хода, если эта карта в руке."
+    "NAME": "Decay",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage."
   },
   "Deep Breath": {
-    "NAME": "Глубокий вдох",
-    "DESCRIPTION": "Вы перетасовываете карты из стопки сброса в стопку добора и NL берёте !M! карту.",
-    "UPGRADE_DESCRIPTION": "Вы перетасовываете карты из стопки сброса в стопку добора и NL берёте !M! карты."
+    "NAME": "Deep Breath",
+    "DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! cards."
   },
   "Defend_B": {
-    "NAME": "Оборона",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Defend_G": {
-    "NAME": "Оборона",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Defend_R": {
-    "NAME": "Оборона",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "Defend_P": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Deflect": {
-    "NAME": "Парировать",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Deflect",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Defragment": {
-    "NAME": "Дефрагментация",
-    "DESCRIPTION": "Даёт !M! Фокуса."
+    "NAME": "Defragment",
+    "DESCRIPTION": "Gain !M! Focus."
   },
   "Demon Form": {
-    "NAME": "Облик демона",
-    "DESCRIPTION": "Даёт !M! Силы в начале каждого вашего хода."
+    "NAME": "Demon Form",
+    "DESCRIPTION": "At the start of your turn, gain !M! Strength."
   },
   "Die Die Die": {
-    "NAME": "Умри, умри, умри",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Сжигается."
+    "NAME": "Die Die Die",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Exhaust."
   },
   "Disarm": {
-    "NAME": "Обезоружить",
-    "DESCRIPTION": "Враг теряет !M! Силы. NL Сжигается."
-  },
-  "Discovery": {
-    "NAME": "Находка",
-    "DESCRIPTION": "Выберите 1 из 3 случ. карт и добавьте её в руку. В этом ходу она стоит 0. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 случ. карт и добавьте её в руку. В этом ходу она стоит 0."
+    "NAME": "Disarm",
+    "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
   },
   "Distraction": {
-    "NAME": "Уловка",
-    "DESCRIPTION": "Добавляет в руку случ. Навык. NL В этом ходу он стоит 0. NL Сжигается."
+    "NAME": "Distraction",
+    "DESCRIPTION": "Add a random Skill into your hand. NL It costs 0 this turn. NL Exhaust."
   },
   "Dodge and Roll": {
-    "NAME": "Уворот и перекат",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт ещё !B! Защиты в начале вашего след. хода."
+    "NAME": "Dodge and Roll",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn, gain !B! Block."
   },
   "Doom and Gloom": {
-    "NAME": "Мрак и погибель",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Заряжает !M! Сферу Тьмы."
+    "NAME": "Doom and Gloom",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
   },
   "Doppelganger": {
-    "NAME": "Двойник",
-    "DESCRIPTION": "Тратит всю [G]. NL Вы возьмёте X карт и получите X [G] в след. ходу. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Тратит всю [G]. NL Вы возьмёте X+1 карт и получите X+1 [G] в след. ходу. NL Сжигается."
+    "NAME": "Doppelganger",
+    "DESCRIPTION": "Next turn, draw X cards and gain X [G]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Next turn, draw X+1 cards and gain X+1 [G]. NL Exhaust."
   },
   "Double Energy": {
-    "NAME": "Удвоить энергию",
-    "DESCRIPTION": "Удваивает Энергию. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Удваивает Энергию."
+    "NAME": "Double Energy",
+    "DESCRIPTION": "Double your Energy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Double your Energy."
   },
   "Double Tap": {
-    "NAME": "Двойной спуск",
-    "DESCRIPTION": "В этом ходу следующая Атака разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "В этом ходу !M! следующие Атаки разыгрываются дважды."
+    "NAME": "Double Tap",
+    "DESCRIPTION": "This turn, your next Attack is played twice.",
+    "UPGRADE_DESCRIPTION": "This turn, your next !M! Attacks are played twice."
   },
   "Doubt": {
-    "NAME": "Сомнения",
-    "DESCRIPTION": "Неиграбельная. NL Вы получите 1 Слабости в конце вашего хода, если эта карта в руке."
+    "NAME": "Doubt",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Weak."
   },
   "Dramatic Entrance": {
-    "NAME": "Драматичный дебют",
-    "DESCRIPTION": "Начальная. NL Наносит !D! урона ВСЕМ врагам. NL Сжигается."
+    "NAME": "Dramatic Entrance",
+    "DESCRIPTION": "Innate. NL Deal !D! damage to ALL enemies. NL Exhaust."
   },
   "Dropkick": {
-    "NAME": "Ногой в прыжке",
-    "DESCRIPTION": "Наносит !D! урона. NL Если на врага наложена Уязвимость, то вы получаете [R] и NL берёте 1 карту."
+    "NAME": "Dropkick",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Vulnerable, NL gain [R] and NL draw 1 card."
   },
   "Dual Wield": {
-    "NAME": "Парное оружие",
-    "DESCRIPTION": "Выберите карту Атаки или Таланта в руке. Добавляет в руку её копию.",
-    "UPGRADE_DESCRIPTION": "Выберите карту Атаки или Таланта в руке. Добавляет в руку две её копии."
+    "NAME": "Dual Wield",
+    "DESCRIPTION": "Choose an Attack or Power card. Add a copy of that card into your hand.",
+    "UPGRADE_DESCRIPTION": "Choose an Attack or Power card. Add 2 copies of that card into your hand."
   },
   "Dualcast": {
-    "NAME": "Сдвоенный разряд",
-    "DESCRIPTION": "Разряжает след. в очереди сферу дважды."
+    "NAME": "Dualcast",
+    "DESCRIPTION": "Evoke your next Orb twice."
   },
   "Echo Form": {
-    "NAME": "Облик эхо",
-    "DESCRIPTION": "Эфирная. NL Первая разыгранная в каждом ходу карта разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "Первая разыгранная в каждом ходу карта разыгрывается дважды."
+    "NAME": "Echo Form",
+    "DESCRIPTION": "Ethereal. NL The first card you play each turn is played twice.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Electrodynamics": {
-    "NAME": "Электродинамика",
-    "DESCRIPTION": "Сферы Молнии бьют по ВСЕМ врагам. NL Заряжает !M! Сферы Молнии.",
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies. NL Channel !M! Lightning.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
-    "NAME": "Вечная агония",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет в руку свою копию, когда берётся. NL Сжигается."
+    "NAME": "Endless Agony",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you draw this card, add a copy of it into your hand. NL Exhaust."
   },
   "Energy Pulse": {
-    "NAME": "Выброс энергии",
-    "DESCRIPTION": "Даёт Защиту, равную кол-ву Энергии.",
-    "UPGRADE_DESCRIPTION": "Даёт Защиту, двукратную кол-ву Энергии."
+    "NAME": "Energy Pulse",
+    "DESCRIPTION": "Gain Block equal to your Energy.",
+    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
   },
   "Enlightenment": {
-    "NAME": "Просветление",
-    "DESCRIPTION": "Уменьшает стоимость всех карт в руке до 1 в этом ходу.",
-    "UPGRADE_DESCRIPTION": "Уменьшает стоимость всех карт в руке до 1 на весь бой."
+    "NAME": "Enlightenment",
+    "DESCRIPTION": "Reduce the cost of all cards in your hand to 1 this turn.",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of all cards in your hand to 1 this combat."
   },
   "Entrench": {
-    "NAME": "Окопаться",
-    "DESCRIPTION": "Удваивает вашу Защиту.",
-    "UPGRADE_DESCRIPTION": "Удваивает вашу Защиту."
+    "NAME": "Entrench",
+    "DESCRIPTION": "Double your Block.",
+    "UPGRADE_DESCRIPTION": "Double your Block."
   },
   "Envenom": {
-    "NAME": "Покрыть ядом",
-    "DESCRIPTION": "Накладывает на врага 1 Яда, когда Атака наносит урон по его ОЗ."
+    "NAME": "Envenom",
+    "DESCRIPTION": "Whenever an Attack deals unblocked damage, apply 1 Poison."
   },
   "Escape Plan": {
-    "NAME": "План побега",
-    "DESCRIPTION": "Вы берёте 1 карту. NL Если вы берёте Навык, даёт !B! Защиты."
+    "NAME": "Escape Plan",
+    "DESCRIPTION": "Draw 1 card. NL If you draw a Skill, gain !B! Block."
   },
   "Eviscerate": {
-    "NAME": "Потрошение",
-    "DESCRIPTION": "Дешевле на 1 [G] за каждую сброшенную в этом ходу карту. NL Наносит !D! урона 3 раза."
+    "NAME": "Eviscerate",
+    "DESCRIPTION": "Costs 1 less [G] NL for each card discarded this turn. NL Deal !D! damage 3 times."
   },
   "Evolve": {
-    "NAME": "Эволюция",
-    "DESCRIPTION": "Вы добираете !M! карту, когда берёте Статус.",
-    "UPGRADE_DESCRIPTION": "Вы добираете !M! карты, когда берёте Статус."
+    "NAME": "Evolve",
+    "DESCRIPTION": "Whenever you draw a Status card, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Whenever you draw a Status card, draw !M! cards."
   },
   "Exhume": {
-    "NAME": "Эксгумация",
-    "DESCRIPTION": "Вы кладёте в руку выбранную Сожжённую карту. NL Сжигается."
+    "NAME": "Exhume",
+    "DESCRIPTION": "Put a card from your exhaust pile into your hand. NL Exhaust."
   },
   "Expertise": {
-    "NAME": "Мастерство",
-    "DESCRIPTION": "Вы берёте карты, пока не наберёте в руке !M!."
+    "NAME": "Expertise",
+    "DESCRIPTION": "Draw cards until you have !M! in your hand."
   },
   "FTL": {
-    "NAME": "Быстрее света",
-    "DESCRIPTION": "Наносит !D! урона. Вы берёте 1 карту, если разыграли меньше !M! карт в этом ходу.",
+    "NAME": "FTL",
+    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Разыграно карт: ",
-      ".)",
-      ".)"
+      " NL (",
+      " card played.)",
+      " cards played.)"
     ]
   },
   "Feed": {
-    "NAME": "Сожрать",
-    "DESCRIPTION": "Наносит !D! урона. NL повышает Макс. ОЗ на !M!, если Казнит врага. NL Сжигается."
+    "NAME": "Feed",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
   },
   "Feel No Pain": {
-    "NAME": "Забыть о боли",
-    "DESCRIPTION": "Даёт !M! Защиты, когда Сжигается карта."
+    "NAME": "Feel No Pain",
+    "DESCRIPTION": "Whenever a card is Exhausted, NL gain !M! Block."
   },
   "Fiend Fire": {
-    "NAME": "Адское пламя",
-    "DESCRIPTION": "Сжигает все карты в руке. NL Наносит !D! урона за каждую. NL Сжигается."
+    "NAME": "Fiend Fire",
+    "DESCRIPTION": "Exhaust your hand. NL Deal !D! damage for each card Exhausted. NL Exhaust."
   },
   "Finesse": {
-    "NAME": "Ловкость рук",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте 1 карту."
+    "NAME": "Finesse",
+    "DESCRIPTION": "Gain !B! Block. NL Draw 1 card."
   },
   "Finisher": {
-    "NAME": "Добивание",
-    "DESCRIPTION": "Наносит по !D! урона за каждую разыгранную в этом ходу Атаку.",
+    "NAME": "Finisher",
+    "DESCRIPTION": "Deal !D! damage for each Attack played this turn.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Разыграно Атак: ",
-      ").",
-      ")."
+      " NL (",
+      " Attack played.)",
+      " Attacks played.)"
     ]
   },
   "Fire Breathing": {
-    "NAME": "Огненное дыхание",
-    "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам, когда вы берёте Статус или Проклятье."
+    "NAME": "Fire Breathing",
+    "DESCRIPTION": "Whenever you draw a Status or Curse card, deal !M! damage to ALL enemies."
   },
   "Fission": {
-    "NAME": "Расщепление",
-    "DESCRIPTION": "Удаляет все Заряженные сферы. За каждую удалённую сферу, даёт [B] и вы берёте !M! карт. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Разряжает все Заряженные сферы. За каждую Разряженную сферу, даёт [B] и вы берёте !M! карт. NL Сжигается."
+    "NAME": "Fission",
+    "DESCRIPTION": "Remove all your Orbs. Gain [B] and draw !M! card for each Orb removed. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Evoke all your Orbs. Gain [B] and draw !M! card for each Orb Evoked. NL Exhaust."
   },
   "Flame Barrier": {
-    "NAME": "Огненный барьер",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит врагу !M! урона в ответ на каждую атаку в этом ходу."
+    "NAME": "Flame Barrier",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever you are attacked this turn, deal !M! damage back."
   },
   "Flash of Steel": {
-    "NAME": "Отблеск стали",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту."
+    "NAME": "Flash of Steel",
+    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card."
   },
   "Flechettes": {
-    "NAME": "Дротики",
-    "DESCRIPTION": "Наносит по !D! урона за каждый Навык в руке.",
+    "NAME": "Flechettes",
+    "DESCRIPTION": "Deal !D! damage for each Skill in your hand.",
     "EXTENDED_DESCRIPTION": [
-      " NL (В руке ",
-      " карта Навыка).",
-      " карт(ы) Навыков)."
+      " NL (You have ",
+      " Skill).",
+      " Skills)."
     ]
   },
   "Flex": {
-    "NAME": "Игра мышцами",
-    "DESCRIPTION": "Даёт !M! Силы. NL Отнимает !M! Силы в конце вашего хода."
+    "NAME": "Flex",
+    "DESCRIPTION": "Gain !M! Strength. NL At the end of this turn, lose !M! Strength."
   },
   "Flux Capacitor": {
-    "NAME": "Потоконакопитель",
-    "DESCRIPTION": "Заменяет все Заряженные сферы на Сферы Плазмы. NL Сжигается."
+    "NAME": "Flux Capacitor",
+    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
   },
   "Flying Knee": {
-    "NAME": "Коленом в лицо",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт [G] в след. ходу."
+    "NAME": "Flying Knee",
+    "DESCRIPTION": "Deal !D! damage. NL Next turn, gain [G]."
   },
   "Footwork": {
-    "NAME": "Грация",
-    "DESCRIPTION": "Даёт !M! Ловкости."
+    "NAME": "Footwork",
+    "DESCRIPTION": "Gain !M! Dexterity."
   },
   "Force Field": {
-    "NAME": "Силовое поле",
-    "DESCRIPTION": "Стоит на 1 [B] меньше за каждый разыгранный в этом бою Талант. NL Даёт !B! Защиты."
-  },
-  "Forethought": {
-    "NAME": "Замысел",
-    "DESCRIPTION": "Вы кладёте карту из руки вниз стопки добора. NL Она стоит 0, пока не разыграна",
-    "UPGRADE_DESCRIPTION": "Вы кладёте любое количество карт из руки вниз стопки добора. NL Они стоят 0, пока не разыграны."
+    "NAME": "Force Field",
+    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
   },
   "Fusion": {
-    "NAME": "Слияние",
-    "DESCRIPTION": "Заряжает !M! Сферу Плазмы."
+    "NAME": "Fusion",
+    "DESCRIPTION": "Channel !M! Plasma."
   },
   "Gash": {
-    "NAME": "Исполосовать",
-    "DESCRIPTION": "Наносит !D! урона. NL Повышает урон всех карт Исполосовать на !M! в этом бою."
+    "NAME": "Claw",
+    "DESCRIPTION": "Deal !D! damage. NL Increase the damage of ALL Claw cards by !M! this combat."
   },
   "Genetic Algorithm": {
-    "NAME": "Геном",
-    "DESCRIPTION": "Даёт !B! Защиты. Навсегда повышает даваемую этой картой Защиту на !M!. NL Сжигается."
+    "NAME": "Genetic Algorithm",
+    "DESCRIPTION": "Gain !B! Block. Permanently increase this card's Block by !M!. NL Exhaust."
   },
   "Ghostly": {
-    "NAME": "Призрачность",
-    "DESCRIPTION": "Эфирная. NL Даёт 1 Неосязаемости. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается."
+    "NAME": "Apparition",
+    "DESCRIPTION": "Ethereal. NL Gain 1 Intangible. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   },
   "Ghostly Armor": {
-    "NAME": "Призрачные латы",
-    "DESCRIPTION": "Эфирная. NL Даёт !B! Защиты."
+    "NAME": "Ghostly Armor",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block."
   },
   "Glacier": {
-    "NAME": "Ледник",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Заряжает !M! Сферы Льда.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Заряжает !M! Сферы Льда."
+    "NAME": "Glacier",
+    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
   },
   "Glass Knife": {
-    "NAME": "Хрустальный нож",
-    "DESCRIPTION": "Наносит !D! урона дважды. Урон, наносимый этой картой, снижается на 2 в этом бою."
+    "NAME": "Glass Knife",
+    "DESCRIPTION": "Deal !D! damage twice. Decrease the damage of this card by 2 this combat."
   },
   "Go for the Eyes": {
-    "NAME": "Целься в глаза",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Слабости, если враг намеревается атаковать."
+    "NAME": "Go for the Eyes",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, apply !M! Weak."
   },
   "Good Instincts": {
-    "NAME": "Чуткие инстинкты",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Good Instincts",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Grand Finale": {
-    "NAME": "Кульминация",
-    "DESCRIPTION": "Можно разыграть, только если стопка добора пуста. NL Наносит !D! урона ВСЕМ врагам.",
-    "UPGRADE_DESCRIPTION": "Моя стопка добора NL должна быть #rпуста."
-  },
-  "HandOfGreed": {
-    "NAME": "Алчущая длань",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! золота, если Казнит врага."
+    "NAME": "Grand Finale",
+    "DESCRIPTION": "Can only be played if there are no cards in your draw pile. NL Deal !D! damage to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
   },
   "Havoc": {
-    "NAME": "Опустошение",
-    "DESCRIPTION": "Вы разыгрываете карту с верха стопки добора и Сжигаете её."
+    "NAME": "Havoc",
+    "DESCRIPTION": "Play the top card of your draw pile and Exhaust it."
   },
   "Headbutt": {
-    "NAME": "Таран",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы кладёте карту из стопки сброса на верх стопки добора."
+    "NAME": "Headbutt",
+    "DESCRIPTION": "Deal !D! damage. NL Put a card from your discard pile on top of your draw pile."
   },
   "Heatsinks": {
-    "NAME": "Теплоотводы",
-    "DESCRIPTION": "Вы берёте !M! карту, когда разыгрываете Талант.",
-    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты, когда разыгрываете Талант."
+    "NAME": "Heatsinks",
+    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
   },
   "Heavy Blade": {
-    "NAME": "Увесистый клинок",
-    "DESCRIPTION": "Наносит !D! урона. NL Сила влияет на эту карту !M! раза.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Сила влияет на эту карту !M! раз."
+    "NAME": "Heavy Blade",
+    "DESCRIPTION": "Deal !D! damage. NL Strength affects this card !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects this card !M! times."
   },
   "Heel Hook": {
-    "NAME": "Захват ноги",
-    "DESCRIPTION": "Наносит !D! урона. NL Если на врага наложена Слабость, NL то вы получаете [G] и NL вы берёте 1 карту."
+    "NAME": "Heel Hook",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Weak, NL gain [G] and NL draw 1 card."
   },
   "Hello World": {
-    "NAME": "Привет, мир",
-    "DESCRIPTION": "Добавляет в руку случ. Обычную карту в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет в руку случ. Обычную карту в начале каждого вашего хода."
+    "NAME": "Hello World",
+    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
   },
   "Hemokinesis": {
-    "NAME": "Гемокинез",
-    "DESCRIPTION": "Отнимает !M! ОЗ. NL Наносит !D! урона."
+    "NAME": "Hemokinesis",
+    "DESCRIPTION": "Lose !M! HP. NL Deal !D! damage."
   },
   "Hide": {
-    "NAME": "Спрятаться",
-    "DESCRIPTION": "Предотвращает получение урона до след. хода. NL Сжигается."
+    "NAME": "Hide",
+    "DESCRIPTION": "You cannot lose HP until the start of your next turn. NL Exhaust."
   },
   "Hologram": {
-    "NAME": "Голограмма",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы кладёте выбранную карту из стопки сброса в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Вы кладёте выбранную карту из стопки сброса в руку."
+    "NAME": "Hologram",
+    "DESCRIPTION": "Gain !B! Block. NL Put a card from your discard pile into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Put a card from your discard pile into your hand."
   },
   "Hyperbeam": {
-    "NAME": "Гиперлуч",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Отнимает !M! Фокуса."
+    "NAME": "Hyperbeam",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
   },
   "Immolate": {
-    "NAME": "Жертвенный огонь",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Добавляет *Ожог в стопку сброса."
-  },
-  "Impatience": {
-    "NAME": "Рвение",
-    "DESCRIPTION": "Вы берёте !M! карты, если в вашей руке нет Атак."
+    "NAME": "Immolate",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a *Burn into your discard pile."
   },
   "Impervious": {
-    "NAME": "Непробиваемость",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Сжигается."
+    "NAME": "Impervious",
+    "DESCRIPTION": "Gain !B! Block. NL Exhaust."
   },
   "Infernal Blade": {
-    "NAME": "Адский клинок",
-    "DESCRIPTION": "Добавляет в руку случ. Атаку. NL В этом ходу она стоит 0. NL Сжигается."
+    "NAME": "Infernal Blade",
+    "DESCRIPTION": "Add a random Attack into your hand. NL It costs 0 this turn. NL Exhaust."
   },
   "Infinite Blades": {
-    "NAME": "Уйма клинков",
-    "DESCRIPTION": "Добавляет в руку *Заточку в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет в руку *Заточку в начале каждого вашего хода."
+    "NAME": "Infinite Blades",
+    "DESCRIPTION": "At the start of your turn, add a *Shiv into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a *Shiv into your hand."
   },
   "Inflame": {
-    "NAME": "Воспламенение",
-    "DESCRIPTION": "Даёт !M! Силы."
+    "NAME": "Inflame",
+    "DESCRIPTION": "Gain !M! Strength."
   },
   "Injury": {
-    "NAME": "Травма",
-    "DESCRIPTION": "Неиграбельная."
+    "NAME": "Injury",
+    "DESCRIPTION": "Unplayable."
   },
   "Intimidate": {
-    "NAME": "Устрашение",
-    "DESCRIPTION": "Накладывает !M! Слабости на ВСЕХ врагов. NL Сжигается."
+    "NAME": "Intimidate",
+    "DESCRIPTION": "Apply !M! Weak to ALL enemies. NL Exhaust."
   },
   "Iron Wave": {
-    "NAME": "Стальная волна",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона."
+    "NAME": "Iron Wave",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
   },
   "J.A.X.": {
-    "NAME": "К.А.Ч.",
-    "DESCRIPTION": "Отнимает 3 ОЗ и NL даёт !M! Силы."
+    "NAME": "J.A.X.",
+    "DESCRIPTION": "Lose 3 HP. NL Gain !M! Strength."
   },
   "Jack Of All Trades": {
-    "NAME": "Мастер на все руки",
-    "DESCRIPTION": "Добавляет в руку !M! случ. Бесцветную карту. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Добавляет в руку !M! случ. Бесцветные карты. NL Сжигается."
+    "NAME": "Jack of All Trades",
+    "DESCRIPTION": "Add !M! random Colorless card into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add !M! random Colorless cards into your hand. NL Exhaust."
   },
   "Juggernaut": {
-    "NAME": "Джаггернаут",
-    "DESCRIPTION": "Наносит !M! урона случ. врагу, когда вы получаете Защиту."
+    "NAME": "Juggernaut",
+    "DESCRIPTION": "Whenever you gain Block, deal !M! damage to a random enemy."
   },
   "Leap": {
-    "NAME": "Прыжок",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Leap",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Leg Sweep": {
-    "NAME": "Подсечка",
-    "DESCRIPTION": "Накладывает !M! Слабости. NL Даёт !B! Защиты."
+    "NAME": "Leg Sweep",
+    "DESCRIPTION": "Apply !M! Weak. NL Gain !B! Block."
   },
   "Limit Break": {
-    "NAME": "Превзойти себя",
-    "DESCRIPTION": "Удваивает вашу текущую Силу. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Удваивает вашу текущую Силу."
+    "NAME": "Limit Break",
+    "DESCRIPTION": "Double your Strength. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Double your Strength."
   },
   "Lockon": {
-    "NAME": "В яблочко",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Захват цели."
+    "NAME": "Bullseye",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Lock-On."
   },
   "Loop": {
-    "NAME": "Цикл",
-    "DESCRIPTION": "Активирует пассивный эффект след. в очереди сферы в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Активирует пассивный эффект след. в очереди сферы !M! раза в начале каждого вашего хода."
+    "NAME": "Loop",
+    "DESCRIPTION": "At the start of your turn, trigger the passive ability of your next Orb.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, trigger the passive ability of your next Orb !M! times."
   },
   "Machine Learning": {
-    "NAME": "Машинное обучение",
-    "DESCRIPTION": "Вы берёте !M! доп. карту в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Вы берёте !M! доп. карту в начале каждого вашего хода."
+    "NAME": "Machine Learning",
+    "DESCRIPTION": "At the start of your turn, draw !M! additional card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, draw !M! additional card."
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
   },
   "Madness": {
-    "NAME": "Безумие",
-    "DESCRIPTION": "Уменьшает стоимость случ. карты в руке до 0 до конца боя. NL Сжигается."
+    "NAME": "Madness",
+    "DESCRIPTION": "Reduce the cost of a random card in your hand to 0 this combat. NL Exhaust."
   },
   "Magnetism": {
-    "NAME": "Притяжение",
-    "DESCRIPTION": "Добавляет в руку случ. Бесцветную карту в начале каждого вашего хода."
+    "NAME": "Magnetism",
+    "DESCRIPTION": "At the start of your turn, add a random Colorless card into your hand."
   },
   "Malaise": {
-    "NAME": "Хворь",
-    "DESCRIPTION": "Тратит всю [G]. NL Враг теряет X Силы. Накладывает X Слабости. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Тратит всю [G]. NL Враг теряет X+1 Силы. Накладывает X+1 Слабости. NL Сжигается."
+    "NAME": "Malaise",
+    "DESCRIPTION": "Enemy loses X Strength. Apply X Weak. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
   },
   "Master of Strategy": {
-    "NAME": "Гений тактики",
-    "DESCRIPTION": "Вы берёте !M! карты. NL Сжигается."
+    "NAME": "Master of Strategy",
+    "DESCRIPTION": "Draw !M! cards. NL Exhaust."
   },
   "Masterful Stab": {
-    "NAME": "Искусный выпад",
-    "DESCRIPTION": "Стоит на 1 больше после каждой потери вами ОЗ в этом бою. NL Наносит !D! урона.",
+    "NAME": "Masterful Stab",
+    "DESCRIPTION": "Costs 1 additional [G] NL for each time you lose HP this combat. NL Deal !D! damage.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
-    "NAME": "Беспредел",
-    "DESCRIPTION": "Вы разыгрываете карту с верха стопки добора в начале каждого вашего хода."
+    "NAME": "Mayhem",
+    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
   },
   "Melter": {
-    "NAME": "Расплавить",
-    "DESCRIPTION": "Сбивает всю Защиту врага. NL Наносит !D! урона."
+    "NAME": "Melter",
+    "DESCRIPTION": "Remove all Block from the enemy. NL Deal !D! damage."
   },
   "Metallicize": {
-    "NAME": "Металлизация",
-    "DESCRIPTION": "Даёт !M! Защиты в конце каждого вашего хода."
+    "NAME": "Metallicize",
+    "DESCRIPTION": "At the end of your turn, gain !M! Block."
   },
   "Metamorphosis": {
-    "NAME": "Метаморфоз",
-    "DESCRIPTION": "Добавляет !M! случ. Атак в стопку добора. Они стоят 0 в этом бою. NL Сжигается."
+    "NAME": "Metamorphosis",
+    "DESCRIPTION": "Shuffle !M! random Attacks into your draw pile. They cost 0 this combat. NL Exhaust."
   },
   "Meteor Strike": {
-    "NAME": "Метеоритный удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Заряжает !M! Сферы Плазмы."
+    "NAME": "Meteor Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
   },
   "Mind Blast": {
-    "NAME": "Ментальный взрыв",
-    "DESCRIPTION": "Начальная. NL Наносит урон, равный количеству карт в стопке добора.",
+    "NAME": "Mind Blast",
+    "DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL (Наносит !D! урона.)"
+      " NL (Deals !D! damage.)"
     ]
   },
   "Multi-Cast": {
-    "NAME": "Цепная реакция",
-    "DESCRIPTION": "Разряжает след. в очереди сферу X раз.",
-    "UPGRADE_DESCRIPTION": "Разряжает след. в очереди сферу X+1 раз."
+    "NAME": "Multi-Cast",
+    "DESCRIPTION": "Evoke your next Orb X times.",
+    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
   },
   "Necronomicurse": {
-    "NAME": "Некрономипорча",
-    "DESCRIPTION": "Неиграбельная. NL От этого Проклятия не сбежать."
+    "NAME": "Necronomicurse",
+    "DESCRIPTION": "Unplayable. NL There is no escape from this Curse."
   },
   "Neutralize": {
-    "NAME": "Обезвредить",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Слабости."
+    "NAME": "Neutralize",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   },
   "Night Terror": {
-    "NAME": "Кошмар",
-    "DESCRIPTION": "Выберите карту в руке. Добавляет в руку !M! её копии в след. ходу. Сжигается.",
+    "NAME": "Nightmare",
+    "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Exhaust.",
     "EXTENDED_DESCRIPTION": [
-      "Я могу использовать NL ",
-      " NL лишь один раз за ход."
+      "I can only use NL ",
+      " NL once per turn."
     ]
   },
   "Normality": {
-    "NAME": "Обыденность",
-    "DESCRIPTION": "Неиграбельная. NL Пока находится в руке, в этом ходу вы можете разыграть только 3 карты.",
+    "NAME": "Normality",
+    "DESCRIPTION": "Unplayable. NL While in hand, you cannot play more than 3 cards this turn.",
     "EXTENDED_DESCRIPTION": [
-      "В этом ходу я могу разыграть NL не более #r3 карт.",
-      "Неиграбельная. NL В этом ходу вы можете разыграть только ",
-      " карты.",
-      " карты. NL Разыграно: ",
-      " карта.",
-      " карты."
+      "I can only play up to NL #r3 cards this turn.",
+      "Unplayable. NL You cannot play more than ",
+      " cards per turn.",
+      " cards per turn. NL You have played ",
+      " card this turn.",
+	  " cards this turn."
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Едкие испарения",
-    "DESCRIPTION": "Накладывает !M! Яда на ВСЕХ врагов в начале каждого вашего хода."
+    "NAME": "Noxious Fumes",
+    "DESCRIPTION": "At the start of your turn, apply !M! Poison to ALL enemies."
   },
   "Offering": {
-    "NAME": "Подношение",
-    "DESCRIPTION": "Отнимает 6 О3 и NL даёт [R] [R]. NL Вы берёте !M! карты. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Отнимает 6 О3 и NL даёт [R] [R]. NL Вы берёте !M! карт. NL Сжигается."
+    "NAME": "Offering",
+    "DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
-    "NAME": "Перехитрить",
-    "DESCRIPTION": "Даёт [G] [G] в NL вашем след. ходу.",
-    "UPGRADE_DESCRIPTION": "Даёт [G] [G] [G] в NL вашем след. ходу."
+    "NAME": "Outmaneuver",
+    "DESCRIPTION": "Next turn, NL gain [G] [G].",
+    "UPGRADE_DESCRIPTION": "Next turn, NL gain [G] [G] [G]."
   },
   "Pain": {
-    "NAME": "Боль",
-    "DESCRIPTION": "Неиграбельная. NL Пока находится в руке, NL отнимает 1 ОЗ за разыгрывание любой другой карты."
+    "NAME": "Pain",
+    "DESCRIPTION": "Unplayable. NL While in hand, NL lose 1 HP whenever you play another card."
   },
   "Panacea": {
-    "NAME": "Панацея",
-    "DESCRIPTION": "Даёт !M! Артефакта. NL Сжигается."
+    "NAME": "Panacea",
+    "DESCRIPTION": "Gain !M! Artifact. NL Exhaust."
   },
   "Panache": {
-    "NAME": "Харизма",
-    "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам, когда вы разыгрываете 5 карт в одном ходу."
-  },
-  "PanicButton": {
-    "NAME": "Тревожная кнопка",
-    "DESCRIPTION": "Даёт !B! Защиты. Вы не можете получать Защиту от карт !M! хода. NL Сжигается."
+    "NAME": "Panache",
+    "DESCRIPTION": "Every time you play 5 cards in a single turn, deal !M! damage to ALL enemies."
   },
   "Parasite": {
-    "NAME": "Паразит",
-    "DESCRIPTION": "Неиграбельная. NL Вы потеряете 3 Макс. ОЗ, если преобразуете или удалите эту карту."
+    "NAME": "Parasite",
+    "DESCRIPTION": "Unplayable. NL If transformed or removed from your deck, lose 3 Max HP."
   },
   "Perfected Strike": {
-    "NAME": "Отточенный удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Наносит по !M! доп. урона за КАЖДУЮ карту в колоде, содержащую «Удар» в названии.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Наносит по !M! доп. урона за КАЖДУЮ карту в колоде, содержащую «Удар» в названии."
+    "NAME": "Perfected Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for ALL your cards containing \"Strike\".",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for ALL your cards containing \"Strike\"."
   },
   "Phantasmal Killer": {
-    "NAME": "Фантом-убийца",
-    "DESCRIPTION": "Удваивает урон ваших Атак в следующем ходу."
+    "NAME": "Phantasmal Killer",
+    "DESCRIPTION": "Next turn, your Attacks deal double damage."
   },
   "PiercingWail": {
-    "NAME": "Оглушающий крик",
-    "DESCRIPTION": "ВСЕ враги теряют !M! Силы до конца своего хода. NL Сжигается."
+    "NAME": "Piercing Wail",
+    "DESCRIPTION": "ALL enemies lose !M! Strength this turn. NL Exhaust."
   },
   "Poisoned Stab": {
-    "NAME": "Отравленный нож",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Яда."
+    "NAME": "Poisoned Stab",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison."
   },
   "Pommel Strike": {
-    "NAME": "Удар эфесом",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карту.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карты."
+    "NAME": "Pommel Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
   },
   "Power Through": {
-    "NAME": "Стиснуть зубы",
-    "DESCRIPTION": "Добавляет в руку 2 *Раны. NL Даёт !B! Защиты."
+    "NAME": "Power Through",
+    "DESCRIPTION": "Add 2 *Wounds into your hand. NL Gain !B! Block."
   },
   "Predator": {
-    "NAME": "Хищник",
-    "DESCRIPTION": "Наносит !D! урона. NL В след. ходу вы возьмёте на 2 карты больше."
+    "NAME": "Predator",
+    "DESCRIPTION": "Deal !D! damage. NL Next turn, draw 2 additional cards."
   },
   "Prepared": {
-    "NAME": "Всё схвачено",
-    "DESCRIPTION": "Вы берёте !M! карту, NL затем сбрасываете !M! карту.",
-    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты, NL затем сбрасываете !M! карты."
-  },
-  "Pride": {
-    "NAME": "Гордыня",
-    "DESCRIPTION": "Начальная. NL Вы кладёте копию этой карты на верх стопки добора в конце вашего хода. Сжигается."
+    "NAME": "Prepared",
+    "DESCRIPTION": "Draw !M! card. NL Discard !M! card.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards."
   },
   "Pummel": {
-    "NAME": "Избиение",
-    "DESCRIPTION": "Наносит !D! урона !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона !M! раз. NL Сжигается."
+    "NAME": "Pummel",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
-    "NAME": "Очищение",
-    "DESCRIPTION": "Сжигает до !M! выбранных в руке карт. NL Сжигается."
+    "NAME": "Purity",
+    "DESCRIPTION": "Exhaust up to !M! cards in your hand. NL Exhaust."
   },
   "Quick Slash": {
-    "NAME": "Резкий замах",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту."
+    "NAME": "Quick Slash",
+    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card."
   },
   "Rage": {
-    "NAME": "Ярость",
-    "DESCRIPTION": "Даёт !M! Защиты, когда вы разыгрываете Атаки в этом ходу."
+    "NAME": "Rage",
+    "DESCRIPTION": "Whenever you play an Attack this turn, gain !M! Block."
   },
   "Rainbow": {
-    "NAME": "Радуга",
-    "DESCRIPTION": "Заряжает 1 Сферу Молнии, 1 Сферу Льда и 1 Сферу Тьмы. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Заряжает 1 Сферу Молнии, 1 Сферу Льда и 1 Сферу Тьмы."
+    "NAME": "Rainbow",
+    "DESCRIPTION": "Channel 1 Lightning. NL Channel 1 Frost. NL Channel 1 Dark. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Channel 1 Lightning. NL Channel 1 Frost. NL Channel 1 Dark."
   },
   "Rampage": {
-    "NAME": "Раж",
-    "DESCRIPTION": "Наносит !D! урона. NL Урон, наносимый этой картой, повышается на !M! в этом бою."
+    "NAME": "Rampage",
+    "DESCRIPTION": "Deal !D! damage. NL Increase this card's damage by !M! this combat."
   },
   "Reaper": {
-    "NAME": "Жнец",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. Восполняет ОЗ за весь урон по ОЗ врагов. NL Сжигается."
+    "NAME": "Reaper",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. Heal HP equal to unblocked damage. NL Exhaust."
   },
   "Reboot": {
-    "NAME": "Перезагрузка",
-    "DESCRIPTION": "Вы перетасовываете ВСЕ свои карты в стопку добора. Вы берёте !M! карт. NL Сжигается."
+    "NAME": "Reboot",
+    "DESCRIPTION": "Shuffle ALL your cards into your draw pile. NL Draw !M! cards. NL Exhaust."
   },
   "Rebound": {
-    "NAME": "Рикошет",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы кладёте след. разыгранную в этом ходу карту на верх стопки добора."
+    "NAME": "Rebound",
+    "DESCRIPTION": "Deal !D! damage. NL Put the next card you play this turn on top of your draw pile."
   },
   "Reckless Charge": {
-    "NAME": "Рывок в пекло",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Головокружение в стопку добора."
+    "NAME": "Reckless Charge",
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a *Dazed into your draw pile."
   },
   "Recycle": {
-    "NAME": "Утилизация",
-    "DESCRIPTION": "Сжигает выбранную карту. NL Даёт [B] , равную её цене."
+    "NAME": "Recycle",
+    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
   },
   "Redo": {
-    "NAME": "Рекурсия",
-    "DESCRIPTION": "Разряжает след. в очереди сферу. NL Заряжает только что Разряженную сферу."
+    "NAME": "Recursion",
+    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
   },
   "Reflex": {
-    "NAME": "Рефлекс",
-    "DESCRIPTION": "Неиграбельная. NL Вы берёте !M! карту, когда эта карта сбрасывается.",
-    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Вы берёте !M! карты, когда эта карта сбрасывается.",
+    "NAME": "Reflex",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
     "EXTENDED_DESCRIPTION": [
-      "Я не могу разыграть эту карту."
+      "I can't play this card."
     ]
   },
   "Regret": {
-    "NAME": "Сожаление",
-    "DESCRIPTION": "Неиграбельная. NL Отнимает по 1 ОЗ за каждую карту в руке в конце вашего хода."
+    "NAME": "Regret",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, lose HP equal to the number of cards in your hand."
   },
   "Reinforced Body": {
-    "NAME": "Укрепить корпус",
-    "DESCRIPTION": "Даёт !B! Защиты X раз."
+    "NAME": "Reinforced Body",
+    "DESCRIPTION": "Gain !B! Block X times."
   },
   "Reprogram": {
-    "NAME": "Программирование",
-    "DESCRIPTION": "Отнимает !M! Фокуса. NL Даёт 1 Силы. NL Даёт 1 Ловкости.",
+    "NAME": "Reprogram",
+    "DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
-    "NAME": "Изрешетить",
-    "DESCRIPTION": "Наносит !D! урона 5 раз."
+    "NAME": "Riddle with Holes",
+    "DESCRIPTION": "Deal !D! damage 5 times."
   },
   "Rip and Tear": {
-    "NAME": "Рвать и терзать",
-    "DESCRIPTION": "Наносит !D! урона случ. врагу дважды."
-  },
-  "RitualDagger": {
-    "NAME": "Ритуальный кинжал",
-    "DESCRIPTION": "Наносит !D! урона. NL Повышает свой урон на !M!, если Казнит врага. NL Сжигается."
+    "NAME": "Rip and Tear",
+    "DESCRIPTION": "Deal !D! damage to a random enemy twice."
   },
   "Rupture": {
-    "NAME": "Разрыв",
-    "DESCRIPTION": "Даёт 1 Силы, когда вы теряете ОЗ из-за карт."
+    "NAME": "Rupture",
+    "DESCRIPTION": "Whenever you lose HP from a card, NL gain 1 Strength."
   },
   "Sadistic Nature": {
-    "NAME": "Садистская натура",
-    "DESCRIPTION": "Враг получает !M! урона, когда вы накладываете на него отриц. эффект."
+    "NAME": "Sadistic Nature",
+    "DESCRIPTION": "Whenever you apply a debuff to an enemy, they take !M! damage."
   },
   "Scrape": {
-    "NAME": "Ободрать",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карты, сбрасывая те из них, цена которых больше 0."
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
   },
   "Searing Blow": {
-    "NAME": "Прожжение",
-    "DESCRIPTION": "Наносит !D! урона. NL Можно Улучшать неограниченное количество раз."
+    "NAME": "Searing Blow",
+    "DESCRIPTION": "Deal !D! damage. NL Can be Upgraded any number of times."
   },
   "Second Wind": {
-    "NAME": "Второе дыхание",
-    "DESCRIPTION": "Сжигает все карты в руке, кроме Атак. NL Даёт !B! Защиты за каждую Сожжённую карту."
+    "NAME": "Second Wind",
+    "DESCRIPTION": "Exhaust all non-Attack cards in your hand. Gain !B! Block for each card Exhausted."
   },
   "Secret Technique": {
-    "NAME": "Тайная техника",
-    "DESCRIPTION": "Вы кладёте выбранный из стопки добора Навык в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы кладёте выбранный из стопки добора Навык в руку.",
+    "NAME": "Secret Technique",
+    "DESCRIPTION": "Put a Skill from your draw pile into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put a Skill from your draw pile into your hand.",
     "EXTENDED_DESCRIPTION": [
-      "В моей стопке добора NL нет Навыков."
+      "There are no Skills NL in my draw pile."
     ]
   },
   "Secret Weapon": {
-    "NAME": "Тайное оружие",
-    "DESCRIPTION": "Вы кладёте выбранную из стопки добора Атаку в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы кладёте выбранную из стопки добора Атаку в руку.",
+    "NAME": "Secret Weapon",
+    "DESCRIPTION": "Put an Attack from your draw pile into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put an Attack from your draw pile into your hand.",
     "EXTENDED_DESCRIPTION": [
-      "В моей стопке добора NL нет Атак."
+      "There are no Attacks NL in my draw pile."
     ]
   },
   "Seeing Red": {
-    "NAME": "Красная пелена",
-    "DESCRIPTION": "Даёт [R] [R]. NL Сжигается."
+    "NAME": "Seeing Red",
+    "DESCRIPTION": "Gain [R] [R]. NL Exhaust."
   },
   "Seek": {
-    "NAME": "Поиск",
-    "DESCRIPTION": "Вы кладёте !M! выбранную карту из стопки добора в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы кладёте !M! выбранные карты из стопки добора в руку. NL Сжигается."
+    "NAME": "Seek",
+    "DESCRIPTION": "Put !M! card from your draw pile into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put !M! cards from your draw pile into your hand. NL Exhaust."
   },
   "Self Repair": {
-    "NAME": "Самопочинка",
-    "DESCRIPTION": "Восполняет !M! ОЗ в конце боя."
+    "NAME": "Self Repair",
+    "DESCRIPTION": "At the end of combat, heal !M! HP."
   },
   "Sentinel": {
-    "NAME": "Страж",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт [R] [R] , NL когда Сжигается.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! защиты. NL Даёт [R] [R] [R] , когда Сжигается."
+    "NAME": "Sentinel",
+    "DESCRIPTION": "Gain !B! Block. NL If this card is Exhausted, NL gain [R] [R].",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL If this card is Exhausted, NL gain [R] [R] [R]."
   },
   "Setup": {
-    "NAME": "Заготовка",
-    "DESCRIPTION": "Вы кладёте карту из руки на верх стопки добора. NL Она стоит 0, пока не разыграна."
+    "NAME": "Setup",
+    "DESCRIPTION": "Put a card from your hand on top of your draw pile. NL It costs 0 until played."
   },
   "Sever Soul": {
-    "NAME": "Раскол души",
-    "DESCRIPTION": "Сжигает все карты в руке, кроме Атак. NL Наносит !D! урона."
+    "NAME": "Sever Soul",
+    "DESCRIPTION": "Exhaust all non-Attack cards in your hand. NL Deal !D! damage."
   },
   "Shame": {
-    "NAME": "Стыд",
-    "DESCRIPTION": "Неиграбельная. NL Вы получите 1 Хрупкости в конце вашего хода, если эта карта в руке."
+    "NAME": "Shame",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
   },
   "Shiv": {
-    "NAME": "Заточка",
-    "DESCRIPTION": "Наносит !D! урона. NL Сжигается."
+    "NAME": "Shiv",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
   },
   "Shockwave": {
-    "NAME": "Силовая волна",
-    "DESCRIPTION": "Накладывает !M! Слабости и Уязвимости на ВСЕХ врагов. NL Сжигается."
+    "NAME": "Shockwave",
+    "DESCRIPTION": "Apply !M! Weak and Vulnerable to ALL enemies. NL Exhaust."
   },
   "Shrug It Off": {
-    "NAME": "Ерунда",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте 1 карту."
+    "NAME": "Shrug It Off",
+    "DESCRIPTION": "Gain !B! Block. NL Draw 1 card."
   },
   "Skewer": {
-    "NAME": "Пронзить",
-    "DESCRIPTION": "Тратит всю [G]. NL Наносит !D! урона X раз."
+    "NAME": "Skewer",
+    "DESCRIPTION": "Deal !D! damage X times."
   },
   "Skim": {
-    "NAME": "Пролистать",
-    "DESCRIPTION": "Вы берёте !M! карты."
+    "NAME": "Skim",
+    "DESCRIPTION": "Draw !M! cards."
   },
   "Slice": {
-    "NAME": "Разрез",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Slice",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Slimed": {
-    "NAME": "В слизи",
-    "DESCRIPTION": "Сжигается."
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
   },
   "Spot Weakness": {
-    "NAME": "Слабое место",
-    "DESCRIPTION": "Вы получаете !M! Силы, если выбранный враг собирается атаковать."
+    "NAME": "Spot Weakness",
+    "DESCRIPTION": "If the enemy intends to attack, gain !M! Strength."
   },
   "Stack": {
-    "NAME": "Стек",
-    "DESCRIPTION": "Даёт Защиту, равную кол-ву карт в стопке сброса.",
-    "UPGRADE_DESCRIPTION": "Даёт Защиту, равную кол-ву карт в стопке сброса +3.",
+    "NAME": "Stack",
+    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
+    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile +3.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Даёт !B! Защиты)."
+      " NL (Gains !B! Block.)"
     ]
   },
   "Static Discharge": {
-    "NAME": "Разряд статики",
-    "DESCRIPTION": "Заряжает !M! Сферу Молнии, когда вы теряете ОЗ от атак.",
-    "UPGRADE_DESCRIPTION": "Заряжает !M! Сферы Молнии, когда вы теряете ОЗ от атак."
+    "NAME": "Static Discharge",
+    "DESCRIPTION": "Whenever you receive unblocked attack damage, Channel !M! Lightning.",
+    "UPGRADE_DESCRIPTION": "Whenever you receive unblocked attack damage, Channel !M! Lightning."
   },
   "Steam": {
-    "NAME": "Паровая завеса",
-    "DESCRIPTION": "Даёт !B! Защиты. Защита, даваемая этой картой, снижается на 1 в этом бою."
+    "NAME": "Steam Barrier",
+    "DESCRIPTION": "Gain !B! Block. Decrease this card's Block by 1 this combat."
   },
   "Steam Power": {
-    "NAME": "Разгон",
-    "DESCRIPTION": "Вы берёте !M! карты. NL Добавляет *Ожог в стопку сброса."
+    "NAME": "Overclock",
+    "DESCRIPTION": "Draw !M! cards. NL Add a *Burn into your discard pile."
   },
   "Storm": {
-    "NAME": "Шторм",
-    "DESCRIPTION": "Заряжает 1 Сферу Молнии, когда вы разыгрываете Талант.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Заряжает 1 Сферу Молнии, когда вы разыгрываете Талант."
+    "NAME": "Storm",
+    "DESCRIPTION": "Whenever you play a Power card, Channel 1 Lightning.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power card, Channel 1 Lightning."
   },
   "Storm of Steel": {
-    "NAME": "Ураган стали",
-    "DESCRIPTION": "Вы сбрасываете все карты. NL Добавляет в руку по 1 *Заточке за каждую из них.",
-    "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты. NL Добавляет в руку по 1 *Заточке+ за каждую из них."
+    "NAME": "Storm of Steel",
+    "DESCRIPTION": "Discard your hand. NL Add 1 *Shiv into your hand for each card discarded.",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 *Shiv+ into your hand for each card discarded."
   },
   "Streamline": {
-    "NAME": "Оптимизация",
-    "DESCRIPTION": "Наносит !D! урона. NL Снижает свою стоимость на !M! в этом бою."
+    "NAME": "Streamline",
+    "DESCRIPTION": "Deal !D! damage. NL Reduce this card's cost by !M! this combat."
   },
   "Strike_B": {
-    "NAME": "Удар",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Strike_G": {
-    "NAME": "Удар",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Strike_R": {
-    "NAME": "Удар",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Strike_P": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Sucker Punch": {
-    "NAME": "Выбить дух",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Слабости."
+    "NAME": "Sucker Punch",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   },
   "Sunder": {
-    "NAME": "Разлом",
-    "DESCRIPTION": "Наносит !D! урона. NL Убив врага, даёт [B] [B] [B]."
+    "NAME": "Sunder",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, gain [B] [B] [B]."
   },
   "Survivor": {
-    "NAME": "Выживание",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы сбрасываете 1 карту."
+    "NAME": "Survivor",
+    "DESCRIPTION": "Gain !B! Block. NL Discard 1 card."
   },
   "Sweeping Beam": {
-    "NAME": "Сметающий луч",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы берёте !M! карту."
+    "NAME": "Sweeping Beam",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
   },
   "Swift Strike": {
-    "NAME": "Мгновенный удар",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Swift Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Sword Boomerang": {
-    "NAME": "Меч-бумеранг",
-    "DESCRIPTION": "Наносит !D! урона случ. врагу !M! раза."
+    "NAME": "Sword Boomerang",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
   },
   "Tactician": {
-    "NAME": "Стратег",
-    "DESCRIPTION": "Неиграбельная. NL Даёт [G] , когда сбрасывается.",
-    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Даёт [G] [G] , когда сбрасывается.",
+    "NAME": "Tactician",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
-      "Я не могу разыграть эту карту."
+      "I can't play this card."
     ]
   },
   "Tempest": {
-    "NAME": "Буря",
-    "DESCRIPTION": "Заряжает X Сфер Молнии. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Заряжает X+1 Сфер Молнии. NL Сжигается."
+    "NAME": "Tempest",
+    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
   },
   "Terror": {
-    "NAME": "Ужас",
-    "DESCRIPTION": "Накладывает 99 Уязвимости. NL Сжигается."
+    "NAME": "Terror",
+    "DESCRIPTION": "Apply 99 Vulnerable. NL Exhaust."
   },
   "The Bomb": {
-    "NAME": "Бомба",
-    "DESCRIPTION": "Нанесёт !M! урона ВСЕМ врагам через 3 хода."
+    "NAME": "The Bomb",
+    "DESCRIPTION": "At the end of 3 turns, deal !M! damage to ALL enemies."
   },
   "Thinking Ahead": {
-    "NAME": "На шаг впереди",
-    "DESCRIPTION": "Вы берёте 2 карты, NL затем кладёте карту из руки на верх стопки добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы берёте 2 карты, NL затем кладёте карту из руки на верх стопки добора."
+    "NAME": "Thinking Ahead",
+    "DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
   },
   "Thunder Strike": {
-    "NAME": "Громовой удар",
-    "DESCRIPTION": "Наносит по !D! урона случ. врагу за каждую Заряженную в этом бою Сферу Молнии.",
+    "NAME": "Thunder Strike",
+    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat.",
     "EXTENDED_DESCRIPTION": [
-      " (Заряжено !M! Сфер Молнии.)"
+      " (Channeled !M! Lightning.)"
     ]
   },
   "Thunderclap": {
-    "NAME": "Раскат грома",
-    "DESCRIPTION": "Наносит !D! урона и накладывает 1 Уязвимости на ВСЕХ врагов."
+    "NAME": "Thunderclap",
+    "DESCRIPTION": "Deal !D! damage and apply 1 Vulnerable to ALL enemies."
   },
   "Tools of the Trade": {
-    "NAME": "Знаток дела",
-    "DESCRIPTION": "Вы берёте 1 карту, затем сбрасываете 1 карту в начале каждого вашего хода."
+    "NAME": "Tools of the Trade",
+    "DESCRIPTION": "At the start of your turn, draw 1 card and discard 1 card."
   },
   "Transmutation": {
-    "NAME": "Трансмутация",
-    "DESCRIPTION": "Добавляет в руку Х случ. Бесцветных карт. Они стоят 0 в этом ходу. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Добавляет в руку Х случ. Улучшенных бесцветных карт. Они стоят 0 в этом ходу. NL Сжигается."
+    "NAME": "Transmutation",
+    "DESCRIPTION": "Add X random Colorless cards into your hand. They cost 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add X random Upgraded Colorless cards into your hand. They cost 0 this turn. NL Exhaust."
   },
   "Trip": {
-    "NAME": "Подножка",
-    "DESCRIPTION": "Накладывает !M! Уязвимости.",
-    "UPGRADE_DESCRIPTION": "Накладывает !M! Уязвимости на ВСЕХ врагов."
+    "NAME": "Trip",
+    "DESCRIPTION": "Apply !M! Vulnerable.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to ALL enemies."
   },
   "True Grit": {
-    "NAME": "Железная воля",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Сжигает 1 случ. карту в руке.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Сжигает 1 выбранную из руки карту."
+    "NAME": "True Grit",
+    "DESCRIPTION": "Gain !B! Block. NL Exhaust 1 card at random.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust 1 card."
   },
   "Turbo": {
-    "NAME": "ТУРБО",
-    "DESCRIPTION": "Даёт [B] [B]. NL Добавляет *Бездну в стопку сброса.",
-    "UPGRADE_DESCRIPTION": "Даёт [B] [B] [B]. NL Добавляет *Бездну в стопку сброса."
+    "NAME": "TURBO",
+    "DESCRIPTION": "Gain [B] [B]. NL Add a *Void into your discard pile.",
+    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a *Void into your discard pile."
   },
   "Twin Strike": {
-    "NAME": "Двойной удар",
-    "DESCRIPTION": "Наносит !D! урона дважды."
+    "NAME": "Twin Strike",
+    "DESCRIPTION": "Deal !D! damage twice."
   },
   "Underhanded Strike": {
-    "NAME": "Коварный удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт [G] [G] , если вы сбрасывали карты в этом ходу.",
+    "NAME": "Sneaky Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
-      "Я не могу разыграть эту карту."
+      "I can't play this card."
     ]
   },
   "Undo": {
-    "NAME": "Эквилибриум",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы Оставляете все карты в руке в конце вашего хода."
+    "NAME": "Equilibrium",
+    "DESCRIPTION": "Gain !B! Block. NL Retain your hand this turn."
   },
   "Unload": {
-    "NAME": "Во все тяжкие",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы сбрасываете из руки все карты в руке, кроме Атак."
+    "NAME": "Unload",
+    "DESCRIPTION": "Deal !D! damage. NL Discard all non-Attack cards in your hand."
   },
   "Uppercut": {
-    "NAME": "Апперкот",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает NL !M! Слабости. NL Накладывает NL !M! Уязвимости."
+    "NAME": "Uppercut",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Apply !M! Vulnerable."
   },
   "Venomology": {
-    "NAME": "Алхимия",
-    "DESCRIPTION": "Даёт случ. зелье. NL Сжигается."
-  },
-  "Violence": {
-    "NAME": "Воинственность",
-    "DESCRIPTION": "Вы кладёте в руку !M! случ. Атак из стопки добора. NL Сжигается."
+    "NAME": "Alchemize",
+    "DESCRIPTION": "Obtain a random potion. NL Exhaust."
   },
   "Void": {
-    "NAME": "Бездна",
-    "DESCRIPTION": "Неиграбельная. NL Эфирная. NL Вы теряете 1 энергию, когда берёте эту карту."
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL Ethereal. NL Whenever this card is drawn, lose 1 Energy."
   },
   "Warcry": {
-    "NAME": "Боевой клич",
-    "DESCRIPTION": "Вы берёте !M! карту и NL кладёте карту из руки на верх стопки добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты и NL кладёте карту из руки на верх стопки добора. NL Сжигается."
+    "NAME": "Warcry",
+    "DESCRIPTION": "Draw !M! card. NL Put a card from your hand onto the top of your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Put a card from your hand onto the top of your draw pile. NL Exhaust."
   },
   "Well Laid Plans": {
-    "NAME": "Всё по плану",
-    "DESCRIPTION": "Вы оставляете до !M! карты в руке в конце вашего хода.",
-    "UPGRADE_DESCRIPTION": "Вы оставляете до !M! карт в руке в конце вашего хода."
+    "NAME": "Well-Laid Plans",
+    "DESCRIPTION": "At the end of your turn, Retain up to !M! card.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, Retain up to !M! cards."
   },
   "Whirlwind": {
-    "NAME": "Вихрь",
-    "DESCRIPTION": "Тратит всю [R]. NL Наносит !D! урона ВСЕМ врагам X раз."
+    "NAME": "Whirlwind",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies X times."
   },
   "White Noise": {
-    "NAME": "Белый шум",
-    "DESCRIPTION": "Добавляет в руку случ. Талант. NL Он стоит 0 до конца вашего хода. NL Сжигается."
+    "NAME": "White Noise",
+    "DESCRIPTION": "Add a random Power card into your hand. NL It costs 0 this turn. NL Exhaust."
   },
   "Wild Strike": {
-    "NAME": "Неистовый  удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Рану в стопку добора."
+    "NAME": "Wild Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a *Wound into your draw pile."
   },
   "Wound": {
-    "NAME": "Рана",
-    "DESCRIPTION": "Неиграбельная."
+    "NAME": "Wound",
+    "DESCRIPTION": "Unplayable."
   },
   "Wraith Form v2": {
-    "NAME": "Облик призрака",
-    "DESCRIPTION": "Даёт !M! Неосязаемости. NL Отнимает 1 Ловкости в конце каждого вашего хода."
+    "NAME": "Wraith Form",
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   },
   "Writhe": {
-    "NAME": "Муки",
-    "DESCRIPTION": "Неиграбельная. NL Начальная."
+    "NAME": "Writhe",
+    "DESCRIPTION": "Unplayable. NL Innate."
   },
   "Zap": {
-    "NAME": "Шок",
-    "DESCRIPTION": "Заряжает !M! Сфер Молнии."
+    "NAME": "Zap",
+    "DESCRIPTION": "Channel !M! Lightning."
   },
-  "Torrent": {
-    "NAME": "DEPRECATED Torrent",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   },
-  "Establishment": {
-    "NAME": "Самообладание",
-    "DESCRIPTION": "Снижает стоимость Оставленных в конце вашего хода карт на !M! в этом бою.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Снижает стоимость Оставленных в конце вашего хода карт на !M! в этом бою."
+  "Compile Driver": {
+    "NAME": "Compile Driver",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
   },
-  "JustLucky": {
-    "NAME": "Слепая удача",
-    "DESCRIPTION": "Вы Предсказываете !M! карты. NL Даёт !B! Защиты. NL Наносит !D! урона."
+  "RitualDagger": {
+    "NAME": "Ritual Dagger",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, permanently increase this card's damage by !M!. NL Exhaust."
   },
-  "ForeignInfluence": {
-    "NAME": "Внешние веяния",
-    "DESCRIPTION": "Выберите 1 из 3 Атак случ. цвета и добавьте её в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 Атак случ. цвета и добавьте её в руку. Она стоит 0 до конца вашего хода NL Сжигается."
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. NL At the end of your turn, put a copy of this card on top of your draw pile. Exhaust."
   },
-  "Worship": {
-    "NAME": "Поклонение",
-    "DESCRIPTION": "Даёт !M! Мантры.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Даёт !M! Мантры."
+  "PanicButton": {
+    "NAME": "Panic Button",
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for !M! turns. NL Exhaust."
   },
-  "ClearTheMind": {
-    "NAME": "Умиротворённость",
-    "DESCRIPTION": "Оставляется. NL Перейти в Спокойствие. NL Сжигается."
+  "HandOfGreed": {
+    "NAME": "Hand of Greed",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
   },
-  "DeceiveReality": {
-    "NAME": "Обмануть реальность",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет карту NL *Пристанище в руку.",
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Put !M! random Attacks from your draw pile into your hand. NL Exhaust."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attacks in your hand, draw !M! cards."
+  },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Put a card from your hand to the bottom of your draw pile. It costs 0 until played.",
+    "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
+  },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn."
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTION": "Whenever you Scry, gain !M! Block.",
     "UPGRADE_DESCRIPTION": ""
   },
-  "CleanseEvil": {
-    "NAME": "Искоренить зло",
-    "DESCRIPTION": "Добавляет в руку X карт *Кара.",
-    "UPGRADE_DESCRIPTION": "Добавляет в руку X карт *Кара+."
+  "EmptyFist": {
+    "NAME": "Empty Fist",
+    "DESCRIPTION": "Deal !D! damage. NL Exit your Stance."
+  },
+  "EmptyBody": {
+    "NAME": "Empty Body",
+    "DESCRIPTION": "Gain !B! Block. NL Exit your Stance."
+  },
+  "WreathOfFlame": {
+    "NAME": "Wreath of Flame",
+    "DESCRIPTION": "Your next Attack deals !M! additional damage."
+  },
+  "FearNoEvil": {
+    "NAME": "Fear No Evil",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to Attack, enter Calm."
+  },
+  "MentalFortress": {
+    "NAME": "Mental Fortress",
+    "DESCRIPTION": "Whenever you change Stances, gain !M! Block."
+  },
+  "Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTION": "Whenever you attempt to switch Stances to your current Stance, gain [B]."
+  },
+  "Collect": {
+    "NAME": "Collect",
+    "DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X turns. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put a *Miracle+ into your hand at the start of your next X+1 turns. NL Exhaust."
+  },
+  "ForeignInfluence": {
+    "NAME": "Foreign Influence",
+    "DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 Attacks of any color to add into your hand. NL It costs 0 this turn. NL Exhaust."
+  },
+  "FlowState": {
+    "NAME": "DEPRECATED Flow State",
+    "DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath. NL Exhaust.",
+  	"UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Flurry of Blows",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your hand."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Restraining Palm",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "Wrath": {
+    "NAME": "Wrath",
+    "DESCRIPTION": "Deal and receive double attack damage."
+  },
+  "Calm": {
+    "NAME": "Calm",
+    "DESCRIPTION": "Upon exiting Calm, gain [W] [W]."
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
+  },
+  "Consecrate": {
+    "NAME": "Consecrate",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED Flicker",
+    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
+  },
+  "Blasphemy": {
+    "NAME": "Blasphemy",
+    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust.",
+	"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+  },
+  "Ragnarok": {
+    "NAME": "Ragnarok",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Flame Mastery",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "StepAndStrike": {
+    "NAME": "DEPRECATED Step and Strike",
+    "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survey",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
+  },
+  "Swipe": {
+    "NAME": "DEPRECATED Swipe",
+    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Blessed",
+    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! *Miracles+ into your draw pile. NL Exhaust."
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
@@ -1339,297 +1416,347 @@
     "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. If the previous card played was an Attack, return this card to your hand."
   },
-  "Vault": {
-    "NAME": "Кульбит",
-    "DESCRIPTION": "Вы получаете дополнительный ход. NL Завершает ваш ход. NL Сжигается."
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "DEPRECATED."
   },
-  "ThirdEye": {
-    "NAME": "Третий глаз",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы Предсказываете !M! карт."
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Perfected Form",
+    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
   },
-  "BrillianceAura": {
-    "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "УСТАРЕЛО"
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Awakened Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
-  "Omniscience": {
-    "NAME": "Всеведение",
-    "DESCRIPTION": "Выберите карту в стопке добора. NL Разыграйте её дважды, а затем Сожгите. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": ""
-  },
-  "Insight": {
-    "NAME": "Озарение",
-    "DESCRIPTION": "Оставляется. NL Вы берёте !M! карты. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Вы берёте !M! карты. NL Сжигается."
-  },
-  "Scrawl": {
-    "NAME": "Испещрить",
-    "DESCRIPTION": "Вы берёте карты, пока не наберёте полную руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": ""
-  },
-  "Strike_P": {
-    "NAME": "Удар",
-    "DESCRIPTION": "Наносит !D! урона."
-  },
-  "FlowState": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "В Гневе: Перейти в Спокойствие. NL В Спокойствии: Перейти в Гнев. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "В Гневе: Перейти в Спокойствие. NL В Спокойствии: Перейти в Гнев."
-  },
-  "Metaphysics": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "УСТАРЕЛО",
-    "UPGRADE_DESCRIPTION": "УСТАРЕЛО"
-  },
-  "MentalFortress": {
-    "NAME": "Непоколебимость",
-    "DESCRIPTION": "Даёт !M! Защиты при смене Стойки."
-  },
-  "Flicker": {
-    "NAME": "DEPRECATED Flicker",
-    "DESCRIPTION": "Deal !D! damage. If this kills the enemy, return this card to your hand."
-  },
-  "Safety": {
-    "NAME": "Пристанище",
-    "DESCRIPTION": "Оставляется. NL Даёт !B! Защиты. NL Сжигается."
-  },
-  "Fasting": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "УСТАРЕЛО"
-  },
-  "Fasting2": {
-    "NAME": "Пост",
-    "DESCRIPTION": "Даёт !M! Силы. NL Даёт !M! Ловкости. NL Вы теряете [W] в начале каждого вашего хода."
-  },
-  "Punishment": {
-    "NAME": "DEPRECATED Punishment",
-    "DESCRIPTION": "Enter Punishment Stance."
-  },
-  "EmptyBody": {
-    "NAME": "Пустое тело",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Выйти из Стойки."
-  },
-  "Blasphemy": {
-    "NAME": "Святотатство",
-    "DESCRIPTION": "Перейти в Божественность. NL Вы умрёте на след. ход. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Перейти в Божественность. NL Вы умрёте на след. ход. NL Сжигается."
-  },
-  "Prediction": {
-    "NAME": "DEPRECATED Prediction",
-    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
-  },
-  "Truth": {
-    "NAME": "Истина",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! Урона. Вы берёте !M! карту. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Наносит !D! Урона. Вы берёте !M! карты. NL Сжигается."
-  },
-  "MasterReality": {
-    "NAME": "Подчинить реальность",
-    "DESCRIPTION": "Добавленные карты автоматически Улучшаются."
-  },
-  "Consecrate": {
-    "NAME": "Освятить",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
-  },
-  "FlurryOfBlows": {
-    "NAME": "Натиск",
-    "DESCRIPTION": "Наносит !D! урона. NL Возвращается в руку из Стопки сброса при смене Стойки."
-  },
-  "Crescendo": {
-    "NAME": "Крещендо",
-    "DESCRIPTION": "Оставляется. NL Перейти в Гнев. NL Сжигается."
-  },
-  "Omega": {
-    "NAME": "Омега",
-    "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам в конце каждого вашего хода."
-  },
-  "Polymath": {
-    "NAME": "DEPRECATED Polymath",
-    "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
-  },
-  "DevaForm": {
-    "NAME": "Облик дэвы",
-    "DESCRIPTION": "Эфирная. NL Даёт [W] и повышает даваемое кол-во на !M! в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Даёт [W] и повышает даваемое кол-во на !M! в начале каждого вашего хода."
-  },
-  "SoothingAura": {
-    "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Retains."
-  },
-  "Miracle": {
-    "NAME": "Чудо",
-    "DESCRIPTION": "Оставляется. NL Даёт [W]. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Даёт [W] [W]. NL Сжигается."
-  },
-  "BattleHymn": {
-    "NAME": "Боевой псалом",
-    "DESCRIPTION": "Добавляет карту *Кара в руку в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет карту *Кара в руку в начале каждого вашего хода."
-  },
-  "SignatureMove": {
-    "NAME": "Коронный приём",
-    "DESCRIPTION": "Можно разыграть, только если это единственная Атака в руке. NL Наносит !D! урона."
-  },
-  "Serenity": {
-    "NAME": "Безмятежность",
-    "DESCRIPTION": "Cнижает потерю ОЗ на !M!, если вы в Спокойствии."
-  },
-  "Conclude": {
-    "NAME": "Аминь",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Завершает ваш ход."
-  },
-  "Halt": {
-    "NAME": "Прервать",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Если вы в Гневе, даёт ещё !M! Защиты."
-  },
-  "Alpha": {
-    "NAME": "Альфа",
-    "DESCRIPTION": "Добавляет карту *Бета в стопку добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет карту *Бета в стопку добора. NL Сжигается."
-  },
-  "Defend_P": {
-    "NAME": "Оборона",
-    "DESCRIPTION": "Даёт !B! Защиты."
-  },
-  "WaveOfTheHand": {
-    "NAME": "По мановению руки",
-    "DESCRIPTION": "Накладывает !M! Слабости на ВСЕХ врагов, когда вы получаете Защиту в этом ходу."
-  },
-  "DeusExMachina": {
-    "NAME": "Деус экс махина",
-    "DESCRIPTION": "Неиграбельная. NL Добавляет !M! карты *Чудо в руку и Сжигается, когда вы её берёте."
-  },
-  "Windup": {
-    "NAME": "DEPRECATED Windup",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
-  },
-  "Collect": {
-    "NAME": "Вобрать",
-    "DESCRIPTION": "В начале X ваших след. ходов добавляет карту *Чудо+ в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "В начале X+1 ваших след. ходов добавляет карту *Чудо+ в руку. NL Сжигается."
-  },
-  "Swivel": {
-    "NAME": "Вполоборота",
-    "DESCRIPTION": "Даёт !B! Защиты. NL След. разыгранная Атака стоит 0."
-  },
-  "Perseverance": {
-    "NAME": "Стойкость",
-    "DESCRIPTION": "Оставляется. NL Даёт !B! Защиты и повышает это кол-во на !M! в этом бою, когда Оставляется."
-  },
-  "EmptyFist": {
-    "NAME": "Пустой кулак",
-    "DESCRIPTION": "Наносит !D! урона. NL Выйти из Стойки."
+  "EmptyMind": {
+    "NAME": "Empty Mind",
+    "DESCRIPTION": "Draw !M! cards. NL Exit your Stance.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Exit your Stance."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
     "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
   },
-  "Causality": {
-    "NAME": "Обусловленность",
-    "DESCRIPTION": "Вы берёте карты, пока не наберёте полную руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Вы берёте карты, пока не наберёте полную руку. NL Сжигается."
-  },
-  "FearNoEvil": {
-    "NAME": "Не убоись зла",
-    "DESCRIPTION": "Наносит !D! урона. NL Перейти в Спокойствие, если выбранный враг собирается атаковать."
-  },
-  "Beta": {
-    "NAME": "Бета",
-    "DESCRIPTION": "Добавляет карту *Омега в стопку добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": ""
+  "Judgement": {
+    "NAME": "Judgment",
+    "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
   },
   "Pray": {
-    "NAME": "Молиться",
-    "DESCRIPTION": "Даёт !M! Мантры. NL Добавляет карту *Озарение в стопку добора.",
+    "NAME": "Pray",
+    "DESCRIPTION": "Gain !M! Mantra. NL Shuffle an *Insight into your draw pile.",
     "UPGRADE_DESCRIPTION": ""
   },
-  "Peace": {
-    "NAME": "Мир",
-    "DESCRIPTION": "Оставляется. NL ВСЕ враги теряют !M! Силы до конца своего хода. NL Сжигается."
+  "Conclude": {
+    "NAME": "Conclude",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL End your turn."
   },
-  "Calm": {
-    "NAME": "Спокойствие",
-    "DESCRIPTION": "Вы получите [W] [W] при выходе из Спокойствия."
+  "LessonLearned": {
+    "NAME": "Lesson Learned",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Exhaust."
   },
-  "Wisdom": {
-    "NAME": "Мудрость",
-    "DESCRIPTION": "Оставляется. NL Вы берёте !M! карты. NL Сжигается."
+  "CutThroughFate": {
+    "NAME": "Cut Through Fate",
+    "DESCRIPTION": "Deal !D! damage. NL Scry !M!. NL Draw 1 card."
   },
-  "BowlingBash": {
-    "NAME": "Куча мала",
-    "DESCRIPTION": "Наносит !D! урона за каждого врага в бою."
+  "ThirdEye": {
+    "NAME": "Third Eye",
+    "DESCRIPTION": "Gain !B! Block. NL Scry !M!."
   },
-  "WardAura": {
-    "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sublime Slice",
+    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
   },
-  "Vigilance": {
-    "NAME": "Бдительность",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Перейти в Спокойствие.",
-    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  "SignatureMove": {
+    "NAME": "Signature Move",
+    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. NL Deal !D! damage." 
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediction",
+    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+  },
+  "Worship": {
+    "NAME": "Worship",
+    "DESCRIPTION": "Gain !M! Mantra.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Mantra."
+  },
+  "Fasting": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Fasting2": {
+    "NAME": "Fasting",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+  },
+  "DevaForm": {
+    "NAME": "Deva Form",
+    "DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] NL and increase this gain by !M!.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] NL and increase this gain by !M!."
+  },
+  "Wireheading": {
+    "NAME": "Foresight",
+    "DESCRIPTION": "At the start of your turn, Scry !M!.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "ReachHeaven": {
+    "NAME": "Reach Heaven",
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
+	"UPGRADE_DESCRIPTION": ""
+  },
+  "ThroughViolence": {
+    "NAME": "Through Violence",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
+  },
+  "Clarity": {
+    "NAME": "Clarity",
+    "DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the other.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the rest."
+  },
+  "Thwack": {
+    "NAME": "DEPRECATED Thwack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Meditate": {
+    "NAME": "Meditate",
+    "DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
+  },
+  "Miracle": {
+    "NAME": "Miracle",
+    "DESCRIPTION": "Retain. NL Gain [W]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain [W] [W]. NL Exhaust."
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust."
   },
   "Flow": {
     "NAME": "DEPRECATED Flow",
     "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
   },
-  "Flare": {
-    "NAME": "DEPRECATED Flare",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
-  },
-  "Clarity": {
-    "NAME": "Ясность",
-    "DESCRIPTION": "Просмотрите !M! карты на стопке добора. Выберите 1 и положите её в руку. NL Сжигает невыбранные карты.",
-    "UPGRADE_DESCRIPTION": "Просмотрите !M! карты на стопке добора. Выберите 1 и положите её в руку. NL Сжигает невыбранные карты."
-  },
-  "Prostrate": {
-    "NAME": "Склониться",
-    "DESCRIPTION": "Даёт !M! Мантры. NL Даёт !B! Защиты.",
-    "UPGRADE_DESCRIPTION": "DEPRECATED"
-  },
-  "Wish": {
-    "NAME": "Желание",
-    "DESCRIPTION": "Выберите 1: !B! Панциря, !D! Силы или !M! Золота. NL Сжигается.",
+  "CarveReality": {
+    "NAME": "Carve Reality",
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Smite into your hand.",
     "UPGRADE_DESCRIPTION": ""
   },
-  "Meditate": {
-    "NAME": "Медитировать",
-    "DESCRIPTION": "Положите карту из стопки сброса в руку и Оставьте её. NL Перейти в Спокойствие. NL Завершает ваш ход.",
-    "UPGRADE_DESCRIPTION": "Положите 2 карты из стопки сброса в руку и Оставьте их. NL Перейти в Спокойствие. NL Завершает ваш ход."
+  "Smite": {
+    "NAME": "Smite",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
   },
-  "SpiritShield": {
-    "NAME": "Духовный щит",
-    "DESCRIPTION": "Даёт !M! Защиты за каждую карту в руке.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Даёт !B! Защиты.)"
-    ]
+  "Truth": {
+    "NAME": "Truth",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! cards. NL Exhaust."
   },
-  "PathToVictory": {
-    "NAME": "Болевые точки",
-    "DESCRIPTION": "Накладывает !M! *Метки. NL ВСЕ враги теряют ОЗ равное кол-ву *Меток на них",
+  "Insight": {
+    "NAME": "Insight",
+    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+  },
+  "DeceiveReality": {
+    "NAME": "Deceive Reality",
+    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
     "UPGRADE_DESCRIPTION": ""
   },
-  "LessonLearned": {
-    "NAME": "Усвоенный урок",
-    "DESCRIPTION": "Наносит !D! урона. NL Улучшает случайную карту в колоде, если Казнит врага. NL Сжигается."
+  "Safety": {
+    "NAME": "Safety",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+  },
+  "Wisdom": {
+    "NAME": "Wisdom",
+    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+  },
+  "Peace": {
+    "NAME": "Peace",
+    "DESCRIPTION": "Retain. NL ALL enemies lose !M! Strength this turn. NL Exhaust."
+  },
+  "WindmillStrike": {
+    "NAME": "Windmill Strike",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
+  },
+  "Establishment": {
+    "NAME": "Establishment",
+    "DESCRIPTION": "Whenever a card is Retained, reduce its cost by !M! this combat.",
+	  "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, reduce its cost by !M! this combat."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
+  },
+  "Metaphysics": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+	"UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Evaluate": {
+    "NAME": "Evaluate",
+    "DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
   },
   "Devotion": {
-    "NAME": "Покорность",
-    "DESCRIPTION": "Даёт !M! Мантры в начале каждого вашего хода."
+    "NAME": "Devotion",
+    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
   },
-  "StepAndStrike": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "Стоит на 1 меньше за каждую смену Стойки до конца вашего хода. NL Даёт !B! Защиты. NL Наносит !D! урона."
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
   },
-  "PalmThatRestrains": {
-    "NAME": "DEPRECATED Restraining Palm",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "DEPRECATED"
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+    "DESCRIPTION": "Retain. NL Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength."
+  },
+  "DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, add !M! *Miracles to your hand and Exhaust."
+  },
+  "CleanseEvil": {
+    "NAME": "Cleanse Evil",
+    "DESCRIPTION": "Add X *Smite into your hand.",
+    "UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+  },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+  },
+  "TalkToTheHand": {
+    "NAME": "Talk to the Hand",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you attack this enemy, gain !M! Block. NL Exhaust."
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTION": "At the start of each turn, add a *Smite into your hand.",
+	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *Smite into your hand."
+  },
+  "Prostrate": {
+    "NAME": "Prostrate",
+    "DESCRIPTION": "Gain !M! Mantra. NL Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Stance."
+  },
+  "Eruption": {
+    "NAME": "Eruption",
+    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+  },
+  "ClearTheMind": {
+    "NAME": "Tranquility",
+    "DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Wave of the Hand",
+    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
+  },
+  "SpiritShield": {
+    "NAME": "Spirit Shield",
+    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gain !B! Block.)"
+    ]
+  },
+  "Vigilance": {
+    "NAME": "Vigilance",
+    "DESCRIPTION": "Gain !B! Block. NL Enter Calm.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+  },
+  "Crescendo": {
+    "NAME": "Crescendo",
+    "DESCRIPTION": "Retain. NL Enter Wrath. NL Exhaust."
+  },
+  "Transcendence": {
+    "NAME": "Transcendence",
+    "DESCRIPTION": "Upgrade all cards that Retain in your hand."
+  },
+  "FollowUp": {
+    "NAME": "Follow-Up",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, gain [W]."
+  },
+  "Perseverance": {
+    "NAME": "Perseverance",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
+  },
+  "CrushJoints": {
+    "NAME": "Crush Joints",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was a Skill, apply !M! Vulnerable."
+  },
+  "SashWhip": {
+    "NAME": "Sash Whip",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, apply !M! Weak."
+  },
+  "Sanctity": {
+    "NAME": "Sanctity",
+    "DESCRIPTION": "Gain !B! Block. NL If the last card played this combat was a Skill, draw !M! cards."
+  },
+  "Omniscience": {
+    "NAME": "Omniscience",
+    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Scrawl": {
+    "NAME": "Scrawl",
+    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Swivel": {
+    "NAME": "Swivel",
+    "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
+  },
+  "Protect": {
+    "NAME": "Protect",
+    "DESCRIPTION": "Retain. NL Gain !B! Block."
+  },
+  "FlyingSleeves": {
+    "NAME": "Flying Sleeves",
+    "DESCRIPTION": "Retain. NL Deal !D! damage twice."
+  },
+  "MasterReality": {
+    "NAME": "Master Reality",
+    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
+  },
+  "BowlingBash": {
+    "NAME": "Bowling Bash",
+    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+  },
+  "Unraveling": {
+    "NAME": "Unraveling",
+    "DESCRIPTION": "Play all of your cards from left to right. Targets are chosen randomly. NL Exhaust."
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Retain. NL Draw 1 card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw 1 card."
+  },
+  "SandsOfTime": {
+    "NAME": "Sands of Time",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
   },
   "Brilliance": {
-    "NAME": "Великолепие",
-    "DESCRIPTION": "Наносит !D! урона. NL Урон увеличивается на кол-во Мантры полученной в этом бою.",
+    "NAME": "Brilliance",
+    "DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
     "EXTENDED_DESCRIPTION": [
       "",
       ""
@@ -1639,248 +1766,121 @@
     "NAME": "DEPRECATED Retribution",
     "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
   },
-  "CrescentKick": {
-    "NAME": "DEPRECATED Crescent Kick",
-    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
-  },
-  "TalkToTheHand": {
-    "NAME": "Поговори с рукой",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! Защиты, когда вы атакуете выбранного врага. NL Сжигается."
-  },
-  "SandsOfTime": {
-    "NAME": "Пески времени",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Снижает свою стоимость в этом бою на 1, когда Оставляется."
-  },
-  "FlameMastery": {
-    "NAME": "DEPRECATED Flame Mastery",
-    "DESCRIPTION": "Gain !M! Strength."
-  },
-  "EmptyMind": {
-    "NAME": "Пустой разум",
-    "DESCRIPTION": "Вы берёте !M! карты. NL Выйти из Стойки.",
-    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL Выйти из Стойки."
-  },
-  "CrushJoints": {
-    "NAME": "Сокрушить суставы",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Уязвимости, если последняя разыгранная в бою карта — Навык."
-  },
-  "SashWhip": {
-    "NAME": "Хлестнуть поясом",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Слабости, если последняя разыгранная в бою карта — Атака."
-  },
-  "Wrath": {
-    "NAME": "Гнев",
-    "DESCRIPTION": "Вы наносите и получаете двойной урон от атак."
-  },
-  "InnerPeace": {
-    "NAME": "Внутренний покой",
-    "DESCRIPTION": "Перейти в Спокойствие. NL Если вы в Спокойствии, вы берёте !M! карты."
-  },
-  "Eruption": {
-    "NAME": "Вспышка",
-    "DESCRIPTION": "Наносит !D! урона. NL Перейти в Гнев."
-  },
-  "Mastery": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "УСТАРЕЛО"
-  },
-  "Survey": {
-    "NAME": "DEPRECATED Survey",
-    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Vigor."
-  },
-  "SublimeSlice": {
-    "NAME": "DEPRECATED Sublime Slice",
-    "DESCRIPTION": "Deal !D! damage. NL Enter a random Stance."
-  },
-  "Thwack": {
-    "NAME": "DEPRECATED Thwack",
-    "DESCRIPTION": "Deal !D! damage."
-  },
-  "Blessed": {
-    "NAME": "DEPRECATED Blessed",
-    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL Exhaust."
+  "JustLucky": {
+    "NAME": "Just Lucky",
+    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
   },
   "Weave": {
-    "NAME": "Сплести",
-    "DESCRIPTION": "Наносит !D! урона. NL Возвращается в руку из Стопки сброса после того, как вы Предсказываете."
+    "NAME": "Weave",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
   },
-  "Smite": {
-    "NAME": "Кара",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Сжигается."
+  "Adaptation": {
+    "NAME": "Rushdown",
+    "DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
-  "Shield": {
-    "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+  "Causality": {
+    "NAME": "Causality",
+    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw cards until your hand is full. NL Exhaust."
   },
-  "ThroughViolence": {
-    "NAME": "Путём насилия",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Сжигается."
-  },
-  "FollowUp": {
-    "NAME": "Пинок вдогонку",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт [W] , если последняя разыгранная карта в этом бою — Атака."
-  },
-  "CarveReality": {
-    "NAME": "Изваять реальность",
-    "DESCRIPTION": "Наносит !D! урона. NL  Добавляет карту *Кара в руку.",
+  "Wish": {
+    "NAME": "Wish",
+    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Exhaust.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
-    "NAME": "Проклятье колокола",
-    "DESCRIPTION": "Неиграбельная. NL Не может быть удалена из колоды."
+    "NAME": "Curse of the Bell",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   },
-  "Sanctity": {
-    "NAME": "Святость",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте !M! карты, если последняя разыгранная в бою карта — Навык."
-  },
-  "Judgement": {
-    "NAME": "Приговор",
-    "DESCRIPTION": "Если ОЗ врага равно или меньше !M!, снижает его NL ОЗ до 0.",
-    "EXTENDED_DESCRIPTION": [
-      "ВИНОВЕН"
-    ]
+  "InnerPeace": {
+    "NAME": "Inner Peace",
+    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
   },
   "Tantrum": {
-    "NAME": "Истерика",
-    "DESCRIPTION": "Наносит !D! урона NL !M! раза. NL Перейти в Гнев. NL Сбрасывается в стопку добора."
+    "NAME": "Tantrum",
+    "DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
   },
-  "Swipe": {
-    "NAME": "DEPRECATED Swipe",
-    "DESCRIPTION": "Deal !D! damage. Deal half this damage to all other enemies."
+  "Alpha": {
+    "NAME": "Alpha",
+    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Exhaust."
   },
-  "Nirvana": {
-    "NAME": "Нирвана",
-    "DESCRIPTION": "Даёт !M! Защиты, когда вы Предсказываете.",
+  "Beta": {
+    "NAME": "Beta",
+    "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+  },
+  "Vengeance": {
+    "NAME": "Simmering Fury",
+    "DESCRIPTION": "At the start of your next turn, enter Wrath and draw !M! cards."
+  },
+  "PathToVictory": {
+    "NAME": "Pressure Points",
+    "DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Wallop": {
-    "NAME": "Врезать",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт Защиту, равную кол-ву нанесённого урона по ОЗ врага."
+    "NAME": "Wallop",
+    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
   },
-  "ReachHeaven": {
-    "NAME": "Достичь небес",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет карту NL *Путём *насилия в стопку добора.",
-    "UPGRADE_DESCRIPTION": ""
-  },
-  "Unraveling": {
-    "NAME": "Потянуть за нить",
-    "DESCRIPTION": "Вы разыгрываете все карты в руке слева направо. Цели выбираются случайно. NL Сжигается."
-  },
-  "Adaptation": {
-    "NAME": "Наброситься",
-    "DESCRIPTION": "Вы берёте !M! карты, когда переходите в Гнев.",
-    "UPGRADE_DESCRIPTION": "УСТАРЕЛО"
-  },
-  "Vengeance": {
-    "NAME": "Закипающий гнев",
-    "DESCRIPTION": "В след. ходу вы перейдёте в Гнев и возьмёте на !M! карт больше."
-  },
-  "Ragnarok": {
-    "NAME": "Рагнарёк",
-    "DESCRIPTION": "Наносит !D! урона случ. врагу !M! раз."
-  },
-  "Transcendence": {
-    "NAME": "Трансцендентность",
-    "DESCRIPTION": "Улучшает все Оставляющиеся карты в руке."
-  },
-  "Evaluate": {
-    "NAME": "Оценить",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет 1 карту *Озарение в стопку добора.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Добавляет 1 карту *Озарение+ в стопку добора."
-  },
-  "AwakenedStrike": {
-    "NAME": "DEPRECATED Awakened Strike",
-    "DESCRIPTION": "Deal !D! damage."
-  },
-  "WreathOfFlame": {
-    "NAME": "Венец пламени",
-    "DESCRIPTION": "Ваша след. Атака наносит !M! доп. урона."
-  },
-  "BigBrain": {
-    "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Draw 1 card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
-  },
-  "Protect": {
-    "NAME": "Защититься",
-    "DESCRIPTION": "Оставляется. NL Даёт !B! Защиты."
-  },
-  "WindmillStrike": {
-    "NAME": "Молотящий удар",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Повышает свой урон на !M! в этом бою, когда Оставляется."
-  },
-  "PerfectedForm": {
-    "NAME": "DEPRECATED Perfected Form",
-    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
-  },
-  "FlyingSleeves": {
-    "NAME": "Парящие рукава",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! урона дважды."
-  },
-  "Wireheading": {
-    "NAME": "Прозрение",
-    "DESCRIPTION": "Вы Предсказываете !M! карты в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": ""
-  },
-  "CutThroughFate": {
-    "NAME": "Разрезать судьбу",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы Предсказываете !M! карты. NL Вы берёте 1 карту."
+  "Halt": {
+    "NAME": "Halt",
+    "DESCRIPTION": "Gain !B! Block. NL If you are in Wrath, gain !M! additional Block."
   },
   "WheelKick": {
-    "NAME": "Ногой с разворота",
-    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карты.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карты."
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
-    "NAME": "Выйти из себя",
-    "DESCRIPTION": "Перейти в Гнев. NL В Гневе: накладывает !M! Уязвимости на ВСЕХ врагов."
+    "NAME": "Indignation",
+    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
   },
   "BecomeAlmighty": {
-    "NAME": "Бесконечное Могущество",
-    "DESCRIPTION": "Даёт !M! Силы."
+    "NAME": "Become Almighty",
+    "DESCRIPTION": "Gain !M! Strength."
   },
   "LiveForever": {
-    "NAME": "Вечная Жизнь",
-    "DESCRIPTION": "Даёт !M! *Панциря."
+    "NAME": "Live Forever",
+    "DESCRIPTION": "Gain !M! *Plated *Armor."
   },
   "FameAndFortune": {
-    "NAME": "Почёт и Достаток",
-    "DESCRIPTION": "Даёт !M! Золота."
+    "NAME": "Fame and Fortune",
+    "DESCRIPTION": "Gain !M! Gold."
   },
   "ConjureBlade": {
-    "NAME": "Призвать меч",
-    "DESCRIPTION": "Добавляет карту *Изничтожитель в стопку добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Добавляет карту *Изничтожитель с X+1 в стопку добора. NL Сжигается."
+    "NAME": "Conjure Blade",
+    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
   },
   "Expunger": {
-    "NAME": "Изничтожитель",
-    "DESCRIPTION": "Наносит !D! урона X раз.",
+    "NAME": "Expunger",
+    "DESCRIPTION": "Deal !D! damage X times.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Наносит !D! урона !M! раз.",
-      "Наносит !D! урона !M! раз."
+      "Deal !D! damage !M! times.",
+      "Deal !D! damage !M! time."
     ]
   },
   "WaveOfTheHand2": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "УСТАРЕЛО"
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
   },
   "Discipline": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "Вы возьмёте по карте за каждую неизрасходованную [W] в начале каждого хода."
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
   },
   "Flick": {
-    "NAME": "УСТАРЕЛО",
-    "DESCRIPTION": "Наносит !D! урона. NL Если противник получил 3 *Щелбана, он получает !M! урона."
-  },
-  "Study": {
-    "NAME": "Изыскания",
-    "DESCRIPTION": "Добавляет в стопку добора карту *Озарение в конце каждого вашего хода."
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   },
   "LikeWater": {
-    "NAME": "Словно вода",
-    "DESCRIPTION": "Если в конце вашего хода вы находитесь в Спокойствии, даёт !M! Защиты."
+    "NAME": "Like Water",
+    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
   }
 }

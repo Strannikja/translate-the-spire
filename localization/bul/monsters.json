@@ -1,57 +1,57 @@
 {
   "AcidSlime_L": {
     "MOVES": [
-      "Едкий плевок",
-      "Деление",
-      "Облизывание"
+      "Corrosive Spit",
+      "Split",
+      "Lick"
     ],
-    "NAME": "Едкий слизень (Больш.)",
+    "NAME": "Acid Slime (L)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Едкий плевок",
-      "Облизывание"
+      "Corrosive Spit",
+      "Lick"
     ],
-    "NAME": "Едкий слизень (Ср.)",
+    "NAME": "Acid Slime (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Едкий слизень (Мал.)",
+    "NAME": "Acid Slime (S)",
     "DIALOG": [
       ""
     ]
   },
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Извиняющийся слизень",
+    "NAME": "Apology Slime",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Удар души",
-      "Эхо тьмы",
-      "Очищение",
-      "Жижа"
+      "Soul Strike",
+      "Dark Echo",
+      "Cleanse",
+      "Sludge"
     ],
-    "NAME": "Пробуждённый",
+    "NAME": "Awakened One",
     "DIALOG": [
-      "~Р-р-р~ ~.~ ~.~ ~.~",
-      "~Нет~ ~.~ ~.~ ~.~ ~нет~ ~.~ ~.~ NL ~.~ ~.~ ~нет~ ~.~ ~.~ ~.~"
+      "~Grr~ ~.~ ~.~ ~.~",
+      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
     ]
   },
   "BanditBear": {
     "MOVES": [
       ""
     ],
-    "NAME": "Медведь",
+    "NAME": "Bear",
     "DIALOG": [
       ""
     ]
@@ -60,36 +60,36 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Колючка",
+    "NAME": "Pointy",
     "DIALOG": [
-      "~Медве-е-е-дь!!!~"
+      "~Beeeaaar!!!!~"
     ]
   },
   "BanditLeader": {
     "MOVES": [
       ""
     ],
-    "NAME": "Ромео",
+    "NAME": "Romeo",
     "DIALOG": [
-      "~Медведь,~ ~хватай!!!~",
-      "~Ты~ ~поплатишься~ ~за~ ~это!!!~",
-      "~Не-е-е-е-т,~ ~Медведь!~"
+      "~Grab~ ~em'~ ~Bear!!~",
+      "~You~ ~will~ ~pay~ ~for~ ~this!!~",
+      "~Nooooooo,~ ~Bear!~"
     ]
   },
   "BookOfStabbing": {
     "MOVES": [
       ""
     ],
-    "NAME": "Истыклопедия",
+    "NAME": "Book of Stabbing",
     "DIALOG": [
       ""
     ]
   },
   "BronzeAutomaton": {
     "MOVES": [
-      "ГИПЕРЛУЧ"
+      "HYPER BEAM"
     ],
-    "NAME": "Бронзовый Автоматон",
+    "NAME": "Bronze Automaton",
     "DIALOG": [
       ""
     ]
@@ -98,7 +98,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Сфера",
+    "NAME": "Orb",
     "DIALOG": [
       ""
     ]
@@ -107,9 +107,9 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Птах",
+    "NAME": "Byrd",
     "DIALOG": [
-      "@КАР!@ NL @КАР-Р-Р!@",
+      "@CAW!@ NL @CAAAW@",
       ""
     ]
   },
@@ -117,44 +117,44 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Центурион",
+    "NAME": "Centurion",
     "DIALOG": [
       ""
     ]
   },
   "Champ": {
     "MOVES": [
-      "Защитная стойка",
-      "Казнить",
-      "Пощёчина"
+      "Defensive Stance",
+      "Execute",
+      "Face Slap"
     ],
-    "NAME": "Чемпион",
+    "NAME": "The Champ",
     "DIALOG": [
-      "Ты называешь это оружием?",
-      "Подходи!",
-      "Покажи всю свою немощь! NL @ХА-ХА-ХА!@",
-      "Даю тебе фору, бей! NL Жалкое ничтожество!",
-      "~Этого~ ~я~ ~не~ ~потерплю...~",
-      "@ПОРАЖЕНИЕ??@ NL @НЕВОЗМОЖНО!!@",
-      "~УМРИ~ ~.~ ~.~ ~.~",
-      "Узри мою ярость!",
-      "@ЭТО@ NL @МОЙ@ @ПОЯС!!@"
+      "You call that a weapon?",
+      "Come at me!",
+      "Do your worst! NL @HAHAHA!@",
+      "Have a free shot! NL Futile weakling!",
+      "~You've~ ~done~ ~it~ ~now...~",
+      "@DEFEAT??@ NL @IMPOSSIBLE!!@",
+      "~DIE~ ~.~ ~.~ ~.~",
+      "Face my wrath!",
+	  "@THAT'S@ NL @MY@ @BELT!!@"
     ]
   },
   "Chosen": {
     "MOVES": [
       ""
     ],
-    "NAME": "Избранный",
+    "NAME": "Chosen",
     "DIALOG": [
-      "~Страдай...~"
+      "~Suffer...~"
     ]
   },
   "CorruptHeart": {
     "MOVES": [
       ""
     ],
-    "NAME": "Порочное сердце",
+    "NAME": "Corrupt Heart",
     "DIALOG": [
       ""
     ]
@@ -163,47 +163,38 @@
     "MOVES": [
       "",
       "",
-      "Заклинание"
+      "Incantation"
     ],
-    "NAME": "Культист",
+    "NAME": "Cultist",
     "DIALOG": [
-      "@МОЮ@ @СИЛУ@ @НЕ@ NL @ПРЕВЗОЙТИ!@",
-      "@ТЕБЕ@ @ЗДЕСЬ@ @НЕ@ NL @МЕСТО!@",
-      "~Мою~ ~силу~ NL ~превзошли...~"
-    ]
-  },
-  "Dagger": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Кинжал",
-    "DIALOG": [
-      ""
+      "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
+      "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
+      "~My~ ~powers~ NL ~were~ ~matched...~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Хрум! Хрум!"
+      "Chomp! Chomp!"
     ],
-    "NAME": "Темныш",
+    "NAME": "Darkling",
     "DIALOG": [
-      "Восстановление..."
+      "Regrowing..."
     ]
   },
   "Deca": {
     "MOVES": [
       ""
     ],
-    "NAME": "Дека",
+    "NAME": "Deca",
     "DIALOG": [
       ""
     ]
   },
   "Donu": {
     "MOVES": [
-      "Круг силы"
+      "Circle of Power"
     ],
-    "NAME": "Дону",
+    "NAME": "Donu",
     "DIALOG": [
       ""
     ]
@@ -212,7 +203,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Взрыватель",
+    "NAME": "Exploder",
     "DIALOG": [
       ""
     ]
@@ -221,7 +212,16 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Огненная сфера",
+    "NAME": "Fire Orb",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
     "DIALOG": [
       ""
     ]
@@ -230,34 +230,43 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Пылающий громила",
+    "NAME": "Flame Bruiser",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
     "DIALOG": [
       ""
     ]
   },
   "FungiBeast": {
     "MOVES": [
-      "Вырастание"
+      "Grow"
     ],
-    "NAME": "Грибной паразит",
+    "NAME": "Fungi Beast",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Плевок паутиной"
+      "Spit Web"
     ],
-    "NAME": "Вошь",
+    "NAME": "Louse",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Вырастание"
+      "Grow"
     ],
-    "NAME": "Вошь",
+    "NAME": "Louse",
     "DIALOG": [
       ""
     ]
@@ -266,112 +275,112 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Огромная голова",
+    "NAME": "Giant Head",
     "DIALOG": [
-      "~Время~ ~пришло~",
-      "~Прощай~",
-      "~Тик~ ~Так~ NL ~Тик~ ~Так~",
-      "~Почему~ ~ты~ ~всё~ NL ~ещё~ ~здесь?~"
+      "~It~ ~is~ ~time~",
+      "~Good~ ~Bye~",
+      "~Tick~ ~Tock~ NL ~Tick~ ~Tock~",
+      "~Why~ ~are~ ~you~ NL ~still~ ~here?~"
     ]
   },
   "GremlinFat": {
     "MOVES": [
-      "Крушить"
+      "Smash"
     ],
-    "NAME": "Толстый гремлин",
+    "NAME": "Fat Gremlin",
     "DIALOG": [
       "",
       "",
-      "@О@ @нет,@ NL @о@ @нет,@ NL @о@ @НЕТ!@"
+      "@Oh@ @no,@ NL @oh@ @no,@ NL @oH@ @NO!@"
     ]
   },
   "GremlinLeader": {
     "MOVES": [
-      "К оружию!"
+      "Rally!"
     ],
-    "NAME": "Предводитель гремлинов",
+    "NAME": "Gremlin Leader",
     "DIALOG": [
-      "Не падать духом!",
-      "Это ещё не всё!",
-      "За работу, ребята!",
-      "@Отступаем@ NL @Отступаем!@",
-      "@Бежи-и-и-м!@"
+      "Don't ever give up!",
+      "We're not done yet!",
+      "Get em boys!",
+      "@Retreat@ NL @Retreaaat!@",
+      "@Ruuuuuuun!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Пролом черепа",
-      "Бычий рывок"
+      "Skull Bash",
+      "Bull Rush"
     ],
-    "NAME": "Гремлин-верзила",
+    "NAME": "Gremlin Nob",
     "DIALOG": [
-      "@Р-Р-р-р-х-х-г-Р-Р-Х-Р-р-х!!!@"
+      "@RRrroohrrRGHHhhh!!@"
     ]
   },
   "GremlinThief": {
     "MOVES": [
       ""
     ],
-    "NAME": "Коварный гремлин",
+    "NAME": "Sneaky Gremlin",
     "DIALOG": [
       "",
-      "@Я@ @пойду@ NL @за@ @подмогой!@ ",
-      "@Что@ @за?!..@"
+      "@I'll@ @go@ NL @get@ @help!@ ",
+      "@What@ @the!?@"
     ]
   },
   "GremlinTsundere": {
     "MOVES": [
-      "Заслон",
-      "Удар щитом"
+      "Protect",
+      "Shield Bash"
     ],
-    "NAME": "Гремлин-щитоносец",
+    "NAME": "Shield Gremlin",
     "DIALOG": [
       "",
-      "~Прощай...~",
-      "Плохо дело..."
+      "~Good~ ~bye...~",
+      "This is no good..."
     ]
   },
   "GremlinWarrior": {
     "MOVES": [
-      "Когти"
+      "Claw"
     ],
-    "NAME": "Безумный гремлин",
+    "NAME": "Mad Gremlin",
     "DIALOG": [
       "",
-      "@Я@ @отправлюсь@ NL @за@ @помощью!@",
-      "Мне пора!"
+      "@Gonna@ @go@ NL @get@ @help!@",
+      "I'm outta here!"
     ]
   },
   "GremlinWizard": {
     "MOVES": [
-      "Приготовиться",
-      "Мощный удар"
+      "Charging",
+      "Ultimate Blast"
     ],
-    "NAME": "Гремлин-маг",
+    "NAME": "Gremlin Wizard",
     "DIALOG": [
       "",
-      "Готовлюсь!",
-      "~Понеслась!~",
-      "@Я...@ @позову...@ NL @помощь...!@",
-      "~слишком...~ NL ~опасно...~ NL ~бывайте...~"
+      "Charging up!",
+      "~Here~ ~it~ ~comes!!~",
+      "@I...@ @get...@ NL @help...!@",
+      "~too...~ NL ~dangerous...~ NL ~bye...~"
     ]
   },
   "Healer": {
     "MOVES": [
       ""
     ],
-    "NAME": "Жрица",
+    "NAME": "Mystic",
     "DIALOG": [
       ""
     ]
   },
   "Hexaghost": {
     "MOVES": [
-      "Воспламенение",
-      "Прижигание",
-      "Инферно"
+      "Inflame",
+      "Sear",
+      "Inferno"
     ],
-    "NAME": "Гексадух",
+    "NAME": "Hexaghost",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -386,91 +395,82 @@
   },
   "JawWorm": {
     "MOVES": [
-      "Рык",
-      "Молотить"
+      "Bellow",
+      "Thrash"
     ],
-    "NAME": "Зубастый червь",
+    "NAME": "Jaw Worm",
     "DIALOG": [
       ""
     ]
   },
   "Lagavulin": {
     "MOVES": [
-      "Высосать душу"
+      "Siphon Soul"
     ],
-    "NAME": "Лагавулин",
+    "NAME": "Lagavulin",
     "DIALOG": [
       "",
       "... NL .....",
-      "...? NL .....?!",
+      "...? NL .....!?",
       "@!!!@ NL @!???@"
     ]
   },
   "Looter": {
     "MOVES": [
-      "Выпад",
-      "Грабёж"
+      "Lunge",
+      "Mug"
     ],
-    "NAME": "Мародёр",
+    "NAME": "Looter",
     "DIALOG": [
-      "Отдавай золотишко!",
-      "@НЕ-Е-Е-е-е-е-т!@",
-      "Где там моя дымовая шашка... Ну-ка...",
-      "Спасибо за денежки, хе-хе"
+      "Give me your gold!",
+      "@NOOOoooo!@",
+      "Where's my smoke bomb... Let's see here...",
+      "Thanks for the money, hehe"
     ]
   },
   "Maw": {
     "MOVES": [
       ""
     ],
-    "NAME": "Пасть",
+    "NAME": "The Maw",
     "DIALOG": [
-      "@Р-р-х-х-г-Р-Х-Р-р-х!!@"
+      "@RRrrohrrRGHhh!!@"
     ]
   },
   "Mugger": {
     "MOVES": [
-      "Выпад",
-      "Ограбить"
+      "Lunge",
+      "Mug"
     ],
-    "NAME": "Грабитель",
+    "NAME": "Mugger",
     "DIALOG": [
-      "Отдавай!",
-      "Мне пора!"
+      "Hand it over!",
+      "I'm outta here!"
     ]
   },
   "Nemesis": {
     "MOVES": [
       ""
     ],
-    "NAME": "Немезис",
+    "NAME": "Nemesis",
     "DIALOG": [
       ""
     ]
   },
   "Orb Walker": {
     "MOVES": [
-      "Рост силы"
+      "Strength Up"
     ],
-    "NAME": "Сфероход",
+    "NAME": "Orb Walker",
     "DIALOG": [
-      "Активирую NL щиты."
+      "Initiating NL shields."
     ]
   },
   "Puppeteer": {
     "MOVES": [
       ""
     ],
-    "NAME": "Кукловод",
-    "DIALOG": [
-      ""
-    ]
-  },
-  "Reptomancer": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Жрица змеи",
+    "NAME": "Puppeteer",
     "DIALOG": [
       ""
     ]
@@ -479,16 +479,16 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Отвратник",
+    "NAME": "Repulsor",
     "DIALOG": [
       ""
     ]
   },
   "Sentry": {
     "MOVES": [
-      "Расщепление"
+      "Disintegrate"
     ],
-    "NAME": "Часовой",
+    "NAME": "Sentry",
     "DIALOG": [
       ""
     ]
@@ -497,7 +497,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Отросток Шпиля",
+    "NAME": "Spire Growth",
     "DIALOG": [
       ""
     ]
@@ -506,16 +506,16 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Панцирный паразит",
+    "NAME": "Shelled Parasite",
     "DIALOG": [
       ""
     ]
   },
   "SlaverBlue": {
     "MOVES": [
-      "Сгребание"
+      "Rake"
     ],
-    "NAME": "Работорговец",
+    "NAME": "Slaver",
     "DIALOG": [
       ""
     ]
@@ -524,50 +524,50 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Надсмотрщик",
+    "NAME": "Taskmaster",
     "DIALOG": [
       ""
     ]
   },
   "SlaverRed": {
     "MOVES": [
-      "Царапание",
-      "Опутывание"
+      "Scrape",
+      "Entangle"
     ],
-    "NAME": "Работорговец",
+    "NAME": "Slaver",
     "DIALOG": [
       ""
     ]
   },
   "SlimeBoss": {
     "MOVES": [
-      "Хлопок",
-      "Подготовка",
-      "Деление",
-      "Вязкая струя"
+      "Slam",
+      "Preparing",
+      "Split",
+      "Goop Spray"
     ],
-    "NAME": "Слизнебосс",
+    "NAME": "Slime Boss",
     "DIALOG": [
-      "~Слизь...~ NL #r~КРУШИТЬ!!!~",
+      "~Slime...~ NL #r~CRUSH!!!~",
       ""
     ]
   },
   "SnakePlant": {
     "MOVES": [
-      "Ослабляющие споры"
+      "Enfeebling Spores"
     ],
-    "NAME": "Змеецвет",
+    "NAME": "Snake Plant",
     "DIALOG": [
       ""
     ]
   },
   "Snecko": {
     "MOVES": [
-      "Озадачивающий взгляд",
-      "Взмах хвостом",
-      "Укус"
+      "Perplexing Glare",
+      "Tail Whip",
+      "Bite"
     ],
-    "NAME": "Змекко",
+    "NAME": "Snecko",
     "DIALOG": [
       ""
     ]
@@ -576,33 +576,33 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Сферический страж",
+    "NAME": "Spheric Guardian",
     "DIALOG": [
-      "~Обнаружен~ NL ~Чужак~"
+      "~Outsider~ NL ~Detected~"
     ]
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Облизывание",
-      "Деление"
+      "Lick",
+      "Split"
     ],
-    "NAME": "Шипастый слизень (Больш.)",
+    "NAME": "Spike Slime (L)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_M": {
     "MOVES": [
-      "Облизывание"
+      "Lick"
     ],
-    "NAME": "Шипастый слизень (Ср.)",
+    "NAME": "Spike Slime (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Шипастый слизень (Мал.)",
+    "NAME": "Spike Slime (S)",
     "DIALOG": [
       ""
     ]
@@ -611,51 +611,36 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Шипастый",
+    "NAME": "Spiker",
     "DIALOG": [
       ""
     ]
-  },
-  "SpireShield": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Щит Шпиля",
-    "DIALOG": [
-      ""
-    ]
-  },
-  "SpireSpear": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Копье Шпиля"
   },
   "TheCollector": {
     "MOVES": [
       ""
     ],
-    "NAME": "Коллекционер",
+    "NAME": "The Collector",
     "DIALOG": [
-      "@Ты@ @принадлежишь@ @мне!@"
+      "@You@ @are@ @mine!@"
     ]
   },
   "TheGuardian": {
     "MOVES": [
-      "Оборонительный режим",
-      "Яростный удар",
-      "Свернуться",
-      "Двойной хлопок",
-      "Вихрь",
-      "Усиление",
-      "Выпустить пар"
+      "Defensive Mode",
+      "Fierce Bash",
+      "Roll",
+      "Twin Slam",
+      "Whirlwind",
+      "Charging Up",
+      "Vent Steam"
     ],
-    "NAME": "Страж",
+    "NAME": "The Guardian",
     "DIALOG": [
-      "#b~...ИДЁТ...~ NL #b~...ОХЛАЖДЕНИЕ...~",
-      "Защита...",
-      "#r@УНИЧТОЖИТЬ@ NL #r@УНИЧТОЖИТЬ@ NL #r@УНИЧТОЖИТЬ@",
-      "#r@ОПАСНОСТЬ@ NL #r@ОПАСНОСТЬ@ NL #r@ОПАСНОСТЬ@"
+      "#b~..COOLING...~ NL #b~...DOWN...~",
+      "Defending...",
+      "#r@DESTROY@ NL #r@DESTROY@ NL #r@DESTROY@",
+      "#r@DANGER@ NL #r@DANGER@ NL #r@DANGER@"
     ]
   },
   "TheGuardianOrb": {
@@ -667,18 +652,18 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Пожиратель времени",
+    "NAME": "Time Eater",
     "DIALOG": [
-      "~Хм...~ NL ~...гости...~",
-      "~Глупо...~ NL @ГЛУПО-О-О!@",
-      "~Всегда....~ NL ~...тебя..~ NL ~..недолюбливал...~"
+      "~Ah...~ NL ~..company...~",
+      "~Foolish..~ NL @FOOOLISH!@",
+      "~Never....~ NL ~...liked..~ NL ~..you...~"
     ]
   },
   "TorchHead": {
     "MOVES": [
       ""
     ],
-    "NAME": "Пламяголовый",
+    "NAME": "Torch Head",
     "DIALOG": [
       ""
     ]
@@ -687,18 +672,33 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Преходящий",
+    "NAME": "Transient",
     "DIALOG": [
-      ""
+	  ""
     ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Shield",
+    "DIALOG": [
+	  ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Spear"
   },
   "WrithingMass": {
     "MOVES": [
       ""
     ],
-    "NAME": "Извивающаяся масса",
+    "NAME": "Writhing Mass",
     "DIALOG": [
-      ""
+	  ""
     ]
   }
 }
