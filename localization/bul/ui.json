@@ -131,8 +131,8 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Възвишаване ниво ",
+      " отключено!"
     ]
   },
   "AscensionUnlockEffect": {
@@ -334,7 +334,7 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Daily Challenge",
+      "Дневно катерене",
       "Connecting to Time Server...",
       "#yNOTE: You have done today's challenge. NL Scores aren't submitted for repeat attempts.",
       "Return",
@@ -349,10 +349,10 @@
       " NL #yMods: ",
       "Modifiers: ",
       "Leaderboards",
-      "*Achievements are off for Daily Climb.",
+      "*В Дневното катерене няма постижения.",
       "  [OFFLINE MODE]",
       "MMMM dd, yyyy",
-      "*Trophies are off for Daily Climb."
+      "*В Дневно катерене няма трофеи."
     ]
   },
   "DeathScreen": {
@@ -797,7 +797,7 @@
       "Standard",
       "",
       "Embark on a quest to Slay the Spire.",
-      "Daily Climb",
+      "Дневно катерене",
       "",
       "A new challenge is available once a day.\n\nCompete with other players for the highest score!",
       "Ascension",
@@ -837,8 +837,8 @@
       "Customize your own run with unique modifiers.",
       "Change your controls.",
       "Change your graphics, audio, and gameplay preferences.",
-	  "Potion Lab",
-	  "Observe the numerous potions found climbing the Spire."
+      "Potion Lab",
+      "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {

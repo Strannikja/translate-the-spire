@@ -30,7 +30,7 @@
     ]
   },
   "Plasma": {
-    "NAME": "Plasma",
+    "NAME": "Сфера Плазма",
     "DESCRIPTION": [
       "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
       " [B] . NL Plasma is unaffected by #yFocus."
